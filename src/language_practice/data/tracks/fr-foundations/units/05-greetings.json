@@ -1,0 +1,373 @@
+{
+ "id": "greetings",
+ "title": {
+  "zh": "问候与自我介绍",
+  "en": "Greetings and introductions"
+ },
+ "lessons": [
+  {
+   "id": "fr.greetings.1",
+   "title": {
+    "zh": "打招呼和说再见",
+    "en": "Hello, goodbye, thanks"
+   },
+   "minutes": 6,
+   "explain": {
+    "zh": "bonjour 从早上用到傍晚，bonsoir 晚上用；salut 只对熟人，“嗨”和“拜”都能说。对不熟的人说话用 vous 的礼貌说法：s’il vous plaît（请）、excusez-moi（打扰一下 / 不好意思）。加拿大魁北克人也常用 bonjour 来说再见。"
+   },
+   "items": [
+    {
+     "id": "1",
+     "say": "bonjour",
+     "gloss": {
+      "zh": "你好"
+     },
+     "hint": {
+      "zh": "早上到傍晚"
+     },
+     "drill": [
+      "hear",
+      "say"
+     ]
+    },
+    {
+     "id": "2",
+     "say": "bonsoir",
+     "gloss": {
+      "zh": "晚上好"
+     },
+     "hint": {
+      "zh": "晚上"
+     },
+     "drill": [
+      "say"
+     ]
+    },
+    {
+     "id": "3",
+     "say": "salut",
+     "gloss": {
+      "zh": "嗨 / 拜"
+     },
+     "hint": {
+      "zh": "熟人之间"
+     }
+    },
+    {
+     "id": "4",
+     "say": "au revoir",
+     "gloss": {
+      "zh": "再见"
+     },
+     "drill": [
+      "say"
+     ]
+    },
+    {
+     "id": "5",
+     "say": "à bientôt",
+     "gloss": {
+      "zh": "回头见"
+     },
+     "hint": {
+      "zh": "à 读 a"
+     }
+    },
+    {
+     "id": "6",
+     "say": "merci",
+     "gloss": {
+      "zh": "谢谢"
+     },
+     "drill": [
+      "say"
+     ]
+    },
+    {
+     "id": "7",
+     "say": "merci beaucoup",
+     "gloss": {
+      "zh": "非常感谢"
+     },
+     "hint": {
+      "zh": "beaucoup 读“bo-ku”"
+     }
+    },
+    {
+     "id": "8",
+     "say": "de rien",
+     "gloss": {
+      "zh": "不客气"
+     },
+     "drill": [
+      "say"
+     ]
+    },
+    {
+     "id": "9",
+     "say": "s'il vous plaît",
+     "gloss": {
+      "zh": "请"
+     },
+     "hint": {
+      "zh": "连在一起读，不停顿"
+     },
+     "drill": [
+      "say"
+     ]
+    },
+    {
+     "id": "10",
+     "say": "excusez-moi",
+     "gloss": {
+      "zh": "不好意思 / 打扰一下"
+     }
+    },
+    {
+     "id": "11",
+     "say": "pardon",
+     "gloss": {
+      "zh": "对不起"
+     }
+    },
+    {
+     "id": "12",
+     "say": "oui",
+     "gloss": {
+      "zh": "是"
+     },
+     "hint": {
+      "zh": "像“喂”"
+     }
+    },
+    {
+     "id": "13",
+     "say": "non",
+     "gloss": {
+      "zh": "不"
+     }
+    }
+   ]
+  },
+  {
+   "id": "fr.greetings.2",
+   "title": {
+    "zh": "你好吗？我叫……",
+    "en": "How are you? My name is..."
+   },
+   "minutes": 7,
+   "explain": {
+    "zh": "Ça va ? 是最常用的问候：“你好吗？”回答 Ça va bien, merci. Et vous ?（我很好，谢谢，您呢？）。tu 对朋友，vous 对不熟的人。介绍名字：Je m’appelle Marie.（我叫 Marie。）想问对方叫什么：Comment vous appelez-vous ?"
+   },
+   "items": [
+    {
+     "id": "1",
+     "say": "Ça va ?",
+     "gloss": {
+      "zh": "你好吗？"
+     },
+     "hint": {
+      "zh": "ç 读 s"
+     },
+     "drill": [
+      "say"
+     ]
+    },
+    {
+     "id": "2",
+     "say": "Ça va bien, merci.",
+     "gloss": {
+      "zh": "我很好，谢谢。"
+     },
+     "drill": [
+      "say"
+     ]
+    },
+    {
+     "id": "3",
+     "say": "Et vous ?",
+     "gloss": {
+      "zh": "您呢？"
+     },
+     "hint": {
+      "zh": "Et 的 t 不读"
+     }
+    },
+    {
+     "id": "4",
+     "say": "Et toi ?",
+     "gloss": {
+      "zh": "你呢？"
+     }
+    },
+    {
+     "id": "5",
+     "say": "Comment vous appelez-vous ?",
+     "gloss": {
+      "zh": "您叫什么名字？"
+     },
+     "hint": {
+      "zh": "慢慢来，一个词一个词跟读"
+     }
+    },
+    {
+     "id": "6",
+     "say": "Comment tu t'appelles ?",
+     "gloss": {
+      "zh": "你叫什么名字？"
+     },
+     "hint": {
+      "zh": "对朋友用 tu"
+     }
+    },
+    {
+     "id": "7",
+     "say": "Je m'appelle Marie.",
+     "gloss": {
+      "zh": "我叫 Marie。"
+     },
+     "hint": {
+      "zh": "je m'appelle 连读"
+     },
+     "drill": [
+      "hear",
+      "say"
+     ]
+    },
+    {
+     "id": "8",
+     "say": "Enchantée.",
+     "gloss": {
+      "zh": "很高兴认识你。"
+     },
+     "hint": {
+      "zh": "男生说 enchanté，读音相同"
+     }
+    },
+    {
+     "id": "9",
+     "say": "Moi aussi.",
+     "gloss": {
+      "zh": "我也是。"
+     }
+    }
+   ]
+  },
+  {
+   "id": "fr.greetings.3",
+   "title": {
+    "zh": "être 和 avoir：我是…… 我有……岁",
+    "en": "être and avoir: I am..., I am ... years old"
+   },
+   "minutes": 7,
+   "explain": {
+    "zh": "être（是）和 avoir（有）是最重要的两个动词。je suis, tu es, il est, nous sommes, vous êtes, ils sont。j’ai, tu as, il a。说年龄用 avoir：J’ai trente ans.（我三十岁，不是“我是三十岁”）。说在哪里生活：J’habite à Lyon."
+   },
+   "items": [
+    {
+     "id": "1",
+     "say": "Je suis étudiante.",
+     "gloss": {
+      "zh": "我是学生。"
+     },
+     "hint": {
+      "zh": "男生 étudiant，t 不读"
+     },
+     "drill": [
+      "say"
+     ]
+    },
+    {
+     "id": "2",
+     "say": "Tu es Marie ?",
+     "gloss": {
+      "zh": "你是 Marie 吗？"
+     }
+    },
+    {
+     "id": "3",
+     "say": "Il est canadien.",
+     "gloss": {
+      "zh": "他是加拿大人。"
+     }
+    },
+    {
+     "id": "4",
+     "say": "Nous sommes amis.",
+     "gloss": {
+      "zh": "我们是朋友。"
+     },
+     "hint": {
+      "zh": "连诵：nous-z-amis"
+     }
+    },
+    {
+     "id": "5",
+     "say": "Vous êtes ici.",
+     "gloss": {
+      "zh": "您在这里。"
+     },
+     "hint": {
+      "zh": "vous êtes 连诵"
+     }
+    },
+    {
+     "id": "6",
+     "say": "J'ai un chat.",
+     "gloss": {
+      "zh": "我有一只猫。"
+     },
+     "hint": {
+      "zh": "j'ai 读“jé”"
+     },
+     "drill": [
+      "hear"
+     ]
+    },
+    {
+     "id": "7",
+     "say": "Quel âge avez-vous ?",
+     "gloss": {
+      "zh": "您多大了？"
+     },
+     "drill": [
+      "say"
+     ]
+    },
+    {
+     "id": "8",
+     "say": "J'ai trente ans.",
+     "gloss": {
+      "zh": "我三十岁。"
+     },
+     "hint": {
+      "zh": "trente ans 连诵：trente-t-ans"
+     },
+     "drill": [
+      "hear"
+     ]
+    },
+    {
+     "id": "9",
+     "say": "J'habite à Lyon.",
+     "gloss": {
+      "zh": "我住在里昂。"
+     },
+     "hint": {
+      "zh": "h 不读"
+     },
+     "drill": [
+      "say"
+     ]
+    },
+    {
+     "id": "10",
+     "say": "Je suis de Montréal.",
+     "gloss": {
+      "zh": "我来自蒙特利尔。"
+     }
+    }
+   ]
+  }
+ ]
+}

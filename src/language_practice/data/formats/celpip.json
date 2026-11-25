@@ -1,0 +1,351 @@
+{
+ "exam": "celpip",
+ "name": "CELPIP-General",
+ "lang": "en",
+ "scale": "CLB",
+ "skills": [
+  "listening",
+  "reading",
+  "writing",
+  "speaking"
+ ],
+ "source": "https://www.celpip.ca/take-celpip/test-format/",
+ "tasks": [
+  {
+   "id": "celpip.speaking.1",
+   "skill": "speaking",
+   "name": "Giving Advice",
+   "answer": "voice",
+   "minutes": 5,
+   "prep_s": 30,
+   "response_s": 90,
+   "hard": true,
+   "hint": "Answer the prompt aloud inside the response time; send the voice clip.",
+   "criteria": [
+    "content and coherence",
+    "vocabulary",
+    "listenability",
+    "task fulfillment"
+   ],
+   "mini": {
+    "minutes": 3,
+    "hint": "Outline in keywords, then answer for about 30 to 45 seconds."
+   }
+  },
+  {
+   "id": "celpip.speaking.2",
+   "skill": "speaking",
+   "name": "Talking about a Personal Experience",
+   "answer": "voice",
+   "minutes": 5,
+   "prep_s": 30,
+   "response_s": 60,
+   "hard": true,
+   "hint": "Answer the prompt aloud inside the response time; send the voice clip.",
+   "criteria": [
+    "content and coherence",
+    "vocabulary",
+    "listenability",
+    "task fulfillment"
+   ],
+   "mini": {
+    "minutes": 3,
+    "hint": "Outline in keywords, then answer for about 30 to 45 seconds."
+   }
+  },
+  {
+   "id": "celpip.speaking.3",
+   "skill": "speaking",
+   "name": "Describing a Scene",
+   "answer": "voice",
+   "minutes": 5,
+   "prep_s": 30,
+   "response_s": 60,
+   "hard": true,
+   "hint": "Answer the prompt aloud inside the response time; send the voice clip.",
+   "criteria": [
+    "content and coherence",
+    "vocabulary",
+    "listenability",
+    "task fulfillment"
+   ],
+   "mini": {
+    "minutes": 3,
+    "hint": "Outline in keywords, then answer for about 30 to 45 seconds."
+   }
+  },
+  {
+   "id": "celpip.speaking.4",
+   "skill": "speaking",
+   "name": "Making Predictions",
+   "answer": "voice",
+   "minutes": 5,
+   "prep_s": 30,
+   "response_s": 60,
+   "hard": true,
+   "hint": "Answer the prompt aloud inside the response time; send the voice clip.",
+   "criteria": [
+    "content and coherence",
+    "vocabulary",
+    "listenability",
+    "task fulfillment"
+   ],
+   "mini": {
+    "minutes": 3,
+    "hint": "Outline in keywords, then answer for about 30 to 45 seconds."
+   }
+  },
+  {
+   "id": "celpip.speaking.5",
+   "skill": "speaking",
+   "name": "Comparing and Persuading",
+   "answer": "voice",
+   "minutes": 5,
+   "prep_s": 60,
+   "response_s": 60,
+   "hard": true,
+   "hint": "Answer the prompt aloud inside the response time; send the voice clip.",
+   "criteria": [
+    "content and coherence",
+    "vocabulary",
+    "listenability",
+    "task fulfillment"
+   ],
+   "mini": {
+    "minutes": 3,
+    "hint": "Outline in keywords, then answer for about 30 to 45 seconds."
+   }
+  },
+  {
+   "id": "celpip.speaking.6",
+   "skill": "speaking",
+   "name": "Dealing with a Difficult Situation",
+   "answer": "voice",
+   "minutes": 5,
+   "prep_s": 60,
+   "response_s": 60,
+   "hard": true,
+   "hint": "Answer the prompt aloud inside the response time; send the voice clip.",
+   "criteria": [
+    "content and coherence",
+    "vocabulary",
+    "listenability",
+    "task fulfillment"
+   ],
+   "mini": {
+    "minutes": 3,
+    "hint": "Outline in keywords, then answer for about 30 to 45 seconds."
+   }
+  },
+  {
+   "id": "celpip.speaking.7",
+   "skill": "speaking",
+   "name": "Expressing Opinions",
+   "answer": "voice",
+   "minutes": 5,
+   "prep_s": 30,
+   "response_s": 90,
+   "hard": true,
+   "hint": "Answer the prompt aloud inside the response time; send the voice clip.",
+   "criteria": [
+    "content and coherence",
+    "vocabulary",
+    "listenability",
+    "task fulfillment"
+   ],
+   "mini": {
+    "minutes": 3,
+    "hint": "Outline in keywords, then answer for about 30 to 45 seconds."
+   }
+  },
+  {
+   "id": "celpip.speaking.8",
+   "skill": "speaking",
+   "name": "Describing an Unusual Situation",
+   "answer": "voice",
+   "minutes": 5,
+   "prep_s": 30,
+   "response_s": 60,
+   "hard": true,
+   "hint": "Answer the prompt aloud inside the response time; send the voice clip.",
+   "criteria": [
+    "content and coherence",
+    "vocabulary",
+    "listenability",
+    "task fulfillment"
+   ],
+   "mini": {
+    "minutes": 3,
+    "hint": "Outline in keywords, then answer for about 30 to 45 seconds."
+   }
+  },
+  {
+   "id": "celpip.writing.1",
+   "skill": "writing",
+   "name": "Writing an Email",
+   "answer": "text",
+   "minutes": 27,
+   "words": {
+    "min": 150,
+    "max": 200
+   },
+   "official_minutes": 27,
+   "hard": true,
+   "hint": "Write the email from the prompt in one go; count words with the tool.",
+   "criteria": [
+    "content and coherence",
+    "vocabulary",
+    "readability",
+    "task fulfillment"
+   ],
+   "mini": {
+    "minutes": 10,
+    "hint": "Plan in keywords, then write the opening and the first body paragraph."
+   }
+  },
+  {
+   "id": "celpip.writing.2",
+   "skill": "writing",
+   "name": "Responding to Survey Questions",
+   "answer": "text",
+   "minutes": 26,
+   "words": {
+    "min": 150,
+    "max": 200
+   },
+   "official_minutes": 26,
+   "hard": true,
+   "hint": "Choose an option, give two distinct reasons in paragraphs.",
+   "criteria": [
+    "content and coherence",
+    "vocabulary",
+    "readability",
+    "task fulfillment"
+   ],
+   "mini": {
+    "minutes": 10,
+    "hint": "Plan in keywords, then write the opening and the first body paragraph."
+   }
+  },
+  {
+   "id": "celpip.reading.1",
+   "skill": "reading",
+   "name": "Reading Correspondence",
+   "answer": "objective",
+   "minutes": 12,
+   "hint": "Timed set; record correct/total and the wrong items.",
+   "mini": {
+    "minutes": 6,
+    "hint": "Do half of the questions."
+   }
+  },
+  {
+   "id": "celpip.reading.2",
+   "skill": "reading",
+   "name": "Reading to Apply a Diagram",
+   "answer": "objective",
+   "minutes": 12,
+   "hint": "Timed set; record correct/total and the wrong items.",
+   "mini": {
+    "minutes": 6,
+    "hint": "Do half of the questions."
+   }
+  },
+  {
+   "id": "celpip.reading.3",
+   "skill": "reading",
+   "name": "Reading for Information",
+   "answer": "objective",
+   "minutes": 12,
+   "hint": "Timed set; record correct/total and the wrong items.",
+   "mini": {
+    "minutes": 6,
+    "hint": "Do half of the questions."
+   }
+  },
+  {
+   "id": "celpip.reading.4",
+   "skill": "reading",
+   "name": "Reading for Viewpoints",
+   "answer": "objective",
+   "minutes": 12,
+   "hint": "Timed set; record correct/total and the wrong items.",
+   "mini": {
+    "minutes": 6,
+    "hint": "Do half of the questions."
+   }
+  },
+  {
+   "id": "celpip.listening.1",
+   "skill": "listening",
+   "name": "Listening to Problem Solving",
+   "answer": "objective",
+   "minutes": 8,
+   "hint": "Play once, answer, then check; record correct/total and the wrong items.",
+   "mini": {
+    "minutes": 4,
+    "hint": "Do half of the questions."
+   }
+  },
+  {
+   "id": "celpip.listening.2",
+   "skill": "listening",
+   "name": "Listening to a Daily Life Conversation",
+   "answer": "objective",
+   "minutes": 8,
+   "hint": "Play once, answer, then check; record correct/total and the wrong items.",
+   "mini": {
+    "minutes": 4,
+    "hint": "Do half of the questions."
+   }
+  },
+  {
+   "id": "celpip.listening.3",
+   "skill": "listening",
+   "name": "Listening for Information",
+   "answer": "objective",
+   "minutes": 8,
+   "hint": "Play once, answer, then check; record correct/total and the wrong items.",
+   "mini": {
+    "minutes": 4,
+    "hint": "Do half of the questions."
+   }
+  },
+  {
+   "id": "celpip.listening.4",
+   "skill": "listening",
+   "name": "Listening to a News Item",
+   "answer": "objective",
+   "minutes": 8,
+   "hint": "Play once, answer, then check; record correct/total and the wrong items.",
+   "mini": {
+    "minutes": 4,
+    "hint": "Do half of the questions."
+   }
+  },
+  {
+   "id": "celpip.listening.5",
+   "skill": "listening",
+   "name": "Listening to a Discussion",
+   "answer": "objective",
+   "minutes": 8,
+   "hint": "Play once, answer, then check; record correct/total and the wrong items.",
+   "mini": {
+    "minutes": 4,
+    "hint": "Do half of the questions."
+   }
+  },
+  {
+   "id": "celpip.listening.6",
+   "skill": "listening",
+   "name": "Listening for Viewpoints",
+   "answer": "objective",
+   "minutes": 8,
+   "hint": "Play once, answer, then check; record correct/total and the wrong items.",
+   "mini": {
+    "minutes": 4,
+    "hint": "Do half of the questions."
+   }
+  }
+ ]
+}

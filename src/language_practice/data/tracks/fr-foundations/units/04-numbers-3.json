@@ -1,0 +1,163 @@
+{
+ "id": "numbers-3",
+ "title": {
+  "zh": "数字 70–100",
+  "en": "Numbers 70–100"
+ },
+ "lessons": [
+  {
+   "id": "fr.numbers-3.1",
+   "title": {
+    "zh": "70 多：soixante-dix",
+    "en": "The seventies"
+   },
+   "minutes": 7,
+   "explain": {
+    "zh": "法语里 70 是“60 + 10”：soixante-dix。71 是 soixante et onze（et 要加），72 起是 soixante-douze 这样一路往上，一直到 79 soixante-dix-neuf。加拿大和法国都这样说；比利时、瑞士的 septante 考试里用不到。"
+   },
+   "items": [
+    {
+     "id": "1",
+     "say": "soixante-dix",
+     "show": "70",
+     "hint": {
+      "zh": "60+10"
+     },
+     "drill": [
+      "dictate"
+     ]
+    },
+    {
+     "id": "2",
+     "say": "soixante et onze",
+     "show": "71",
+     "hint": {
+      "zh": "et 要加"
+     },
+     "drill": [
+      "dictate"
+     ]
+    },
+    {
+     "id": "3",
+     "say": "soixante-douze",
+     "show": "72"
+    },
+    {
+     "id": "4",
+     "say": "soixante-quinze",
+     "show": "75",
+     "drill": [
+      "dictate"
+     ]
+    },
+    {
+     "id": "5",
+     "say": "soixante-seize",
+     "show": "76"
+    },
+    {
+     "id": "6",
+     "say": "soixante-dix-sept",
+     "show": "77",
+     "drill": [
+      "dictate"
+     ]
+    },
+    {
+     "id": "7",
+     "say": "soixante-dix-neuf",
+     "show": "79"
+    }
+   ]
+  },
+  {
+   "id": "fr.numbers-3.2",
+   "title": {
+    "zh": "80、90 和 100",
+    "en": "Eighty to one hundred"
+   },
+   "minutes": 7,
+   "explain": {
+    "zh": "80 是“4 个 20”：quatre-vingts，整 80 的 s 要写，后面再接数字就不写 s：quatre-vingt-un（81，没有 et）。90 是“4×20 + 10”：quatre-vingt-dix，91 是 quatre-vingt-onze。100 是 cent，读“sɑ̃”。"
+   },
+   "items": [
+    {
+     "id": "1",
+     "say": "quatre-vingts",
+     "show": "80",
+     "hint": {
+      "zh": "4×20"
+     },
+     "drill": [
+      "dictate"
+     ]
+    },
+    {
+     "id": "2",
+     "say": "quatre-vingt-un",
+     "show": "81",
+     "hint": {
+      "zh": "没有 et"
+     }
+    },
+    {
+     "id": "3",
+     "say": "quatre-vingt-deux",
+     "show": "82"
+    },
+    {
+     "id": "4",
+     "say": "quatre-vingt-cinq",
+     "show": "85",
+     "drill": [
+      "dictate"
+     ]
+    },
+    {
+     "id": "5",
+     "say": "quatre-vingt-dix",
+     "show": "90",
+     "hint": {
+      "zh": "4×20+10"
+     },
+     "drill": [
+      "dictate"
+     ]
+    },
+    {
+     "id": "6",
+     "say": "quatre-vingt-onze",
+     "show": "91",
+     "drill": [
+      "dictate"
+     ]
+    },
+    {
+     "id": "7",
+     "say": "quatre-vingt-quinze",
+     "show": "95"
+    },
+    {
+     "id": "8",
+     "say": "quatre-vingt-dix-neuf",
+     "show": "99",
+     "drill": [
+      "dictate"
+     ]
+    },
+    {
+     "id": "9",
+     "say": "cent",
+     "show": "100",
+     "hint": {
+      "zh": "读 sɑ̃，t 不读"
+     },
+     "drill": [
+      "dictate"
+     ]
+    }
+   ]
+  }
+ ]
+}

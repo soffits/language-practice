@@ -1,0 +1,218 @@
+{
+ "id": "numbers-1",
+ "title": {
+  "zh": "数字 0–20",
+  "en": "Numbers 0–20"
+ },
+ "lessons": [
+  {
+   "id": "fr.numbers-1.1",
+   "title": {
+    "zh": "0 到 10",
+    "en": "0 to 10"
+   },
+   "minutes": 6,
+   "explain": {
+    "zh": "先听，再跟读，再用数字写出来。写法和读音差得多：cinq 读“sɛ̃k”（鼻音 in + k）；sept 读“set”，p 不读；huit 像“wi-t”，嘴唇先圆后拉开；neuf 的 f 要读出来；six、dix 单独说时词尾读 s。"
+   },
+   "items": [
+    {
+     "id": "1",
+     "say": "zéro",
+     "show": "0"
+    },
+    {
+     "id": "2",
+     "say": "un",
+     "show": "1",
+     "hint": {
+      "zh": "un：鼻音 in"
+     }
+    },
+    {
+     "id": "3",
+     "say": "deux",
+     "show": "2",
+     "hint": {
+      "zh": "eu 嘴唇圆"
+     },
+     "drill": [
+      "dictate"
+     ]
+    },
+    {
+     "id": "4",
+     "say": "trois",
+     "show": "3",
+     "hint": {
+      "zh": "r 喉咙音"
+     }
+    },
+    {
+     "id": "5",
+     "say": "quatre",
+     "show": "4",
+     "hint": {
+      "zh": "qu 读 k"
+     }
+    },
+    {
+     "id": "6",
+     "say": "cinq",
+     "show": "5",
+     "hint": {
+      "zh": "鼻音 + k"
+     },
+     "drill": [
+      "dictate"
+     ]
+    },
+    {
+     "id": "7",
+     "say": "six",
+     "show": "6",
+     "hint": {
+      "zh": "单独说读 sis"
+     },
+     "drill": [
+      "dictate"
+     ]
+    },
+    {
+     "id": "8",
+     "say": "sept",
+     "show": "7",
+     "hint": {
+      "zh": "p 不读"
+     },
+     "drill": [
+      "dictate"
+     ]
+    },
+    {
+     "id": "9",
+     "say": "huit",
+     "show": "8",
+     "hint": {
+      "zh": "像 wi-t"
+     },
+     "drill": [
+      "dictate"
+     ]
+    },
+    {
+     "id": "10",
+     "say": "neuf",
+     "show": "9",
+     "hint": {
+      "zh": "f 要读"
+     },
+     "drill": [
+      "dictate"
+     ]
+    },
+    {
+     "id": "11",
+     "say": "dix",
+     "show": "10",
+     "hint": {
+      "zh": "单独说读 dis"
+     },
+     "drill": [
+      "dictate"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fr.numbers-1.2",
+   "title": {
+    "zh": "11 到 20",
+    "en": "11 to 20"
+   },
+   "minutes": 6,
+   "explain": {
+    "zh": "11 到 16 都以 -ze 结尾：onze, douze, treize, quatorze, quinze, seize。17、18、19 是“十 + 七/八/九”：dix-sept, dix-huit, dix-neuf。20 是 vingt，读“vɛ̃”（像 vin），t 不读。"
+   },
+   "items": [
+    {
+     "id": "1",
+     "say": "onze",
+     "show": "11",
+     "hint": {
+      "zh": "on 鼻音 + ze"
+     }
+    },
+    {
+     "id": "2",
+     "say": "douze",
+     "show": "12",
+     "drill": [
+      "dictate"
+     ]
+    },
+    {
+     "id": "3",
+     "say": "treize",
+     "show": "13"
+    },
+    {
+     "id": "4",
+     "say": "quatorze",
+     "show": "14"
+    },
+    {
+     "id": "5",
+     "say": "quinze",
+     "show": "15",
+     "hint": {
+      "zh": "qu 读 k，in 鼻音"
+     },
+     "drill": [
+      "dictate"
+     ]
+    },
+    {
+     "id": "6",
+     "say": "seize",
+     "show": "16",
+     "drill": [
+      "dictate"
+     ]
+    },
+    {
+     "id": "7",
+     "say": "dix-sept",
+     "show": "17",
+     "drill": [
+      "dictate"
+     ]
+    },
+    {
+     "id": "8",
+     "say": "dix-huit",
+     "show": "18"
+    },
+    {
+     "id": "9",
+     "say": "dix-neuf",
+     "show": "19",
+     "drill": [
+      "dictate"
+     ]
+    },
+    {
+     "id": "10",
+     "say": "vingt",
+     "show": "20",
+     "hint": {
+      "zh": "读 vɛ̃，t 不读"
+     },
+     "drill": [
+      "dictate"
+     ]
+    }
+   ]
+  }
+ ]
+}

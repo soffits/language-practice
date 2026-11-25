@@ -1,0 +1,862 @@
+{
+ "id": "sounds",
+ "title": {
+  "zh": "声音与字母",
+  "en": "Sounds and the alphabet"
+ },
+ "lessons": [
+  {
+   "id": "fr.sounds.1",
+   "title": {
+    "zh": "元音 a, i, ou, u",
+    "en": "Vowels a, i, ou, u"
+   },
+   "minutes": 6,
+   "explain": {
+    "zh": "法语先学声音，不用先管拼写。今天四个元音：a 嘴张大，像“啊”；i 像“衣”；ou 像“乌”；u 最特别：嘴唇圆得像发“乌”，舌头却发“衣”，就是拼音的 ü（鱼）。每个先听慢的，再听正常的，然后大声跟读。"
+   },
+   "items": [
+    {
+     "id": "1",
+     "say": "ma",
+     "hint": {
+      "zh": "a：嘴张大"
+     }
+    },
+    {
+     "id": "2",
+     "say": "mi",
+     "hint": {
+      "zh": "i：嘴角向两边拉开"
+     }
+    },
+    {
+     "id": "3",
+     "say": "mou",
+     "hint": {
+      "zh": "ou：嘴唇圆、向前，像“乌”"
+     }
+    },
+    {
+     "id": "4",
+     "say": "mu",
+     "hint": {
+      "zh": "u：嘴唇圆，舌头往前，像 ü"
+     }
+    },
+    {
+     "id": "5",
+     "say": "tu",
+     "gloss": {
+      "zh": "你"
+     },
+     "hint": {
+      "zh": "和 mu 同一个音，像“驴”的韵母 ü"
+     },
+     "drill": [
+      "say"
+     ]
+    },
+    {
+     "id": "6",
+     "say": "tout",
+     "gloss": {
+      "zh": "全部"
+     },
+     "hint": {
+      "zh": "ou 像“乌”"
+     },
+     "drill": [
+      "hear"
+     ]
+    },
+    {
+     "id": "7",
+     "pair": [
+      "tu",
+      "tout"
+     ],
+     "drill": [
+      "pick"
+     ],
+     "hint": {
+      "zh": "u 还是 ou？"
+     }
+    },
+    {
+     "id": "8",
+     "pair": [
+      "rue",
+      "roue"
+     ],
+     "drill": [
+      "pick"
+     ],
+     "hint": {
+      "zh": "街道 / 轮子"
+     }
+    },
+    {
+     "id": "9",
+     "pair": [
+      "dessus",
+      "dessous"
+     ],
+     "hint": {
+      "zh": "上面 / 下面：u 和 ou 的区别"
+     }
+    },
+    {
+     "id": "10",
+     "say": "vu",
+     "gloss": {
+      "zh": "看见了"
+     },
+     "hint": {
+      "zh": "u"
+     }
+    }
+   ]
+  },
+  {
+   "id": "fr.sounds.2",
+   "title": {
+    "zh": "元音 é, è, eu",
+    "en": "Vowels é, è, eu"
+   },
+   "minutes": 6,
+   "explain": {
+    "zh": "é 嘴角微微拉开，像“诶”但不滑动（别拖成 ei）；è 嘴张得比 é 更开；eu 的口型和 é 一样，但嘴唇圆起来。重点：法语元音从头到尾保持一个口型，不要滑动。"
+   },
+   "items": [
+    {
+     "id": "1",
+     "say": "été",
+     "gloss": {
+      "zh": "夏天"
+     },
+     "hint": {
+      "zh": "é：嘴形不动，别滑成 ei"
+     },
+     "drill": [
+      "say"
+     ]
+    },
+    {
+     "id": "2",
+     "say": "mère",
+     "gloss": {
+      "zh": "妈妈"
+     },
+     "hint": {
+      "zh": "è：比 é 更开"
+     }
+    },
+    {
+     "id": "3",
+     "say": "père",
+     "gloss": {
+      "zh": "爸爸"
+     },
+     "hint": {
+      "zh": "è"
+     },
+     "drill": [
+      "hear"
+     ]
+    },
+    {
+     "id": "4",
+     "say": "deux",
+     "gloss": {
+      "zh": "二"
+     },
+     "hint": {
+      "zh": "eu：嘴形像 é，嘴唇圆起来"
+     },
+     "drill": [
+      "say"
+     ]
+    },
+    {
+     "id": "5",
+     "say": "je",
+     "gloss": {
+      "zh": "我"
+     },
+     "hint": {
+      "zh": "eu 的轻声版，很短"
+     }
+    },
+    {
+     "id": "6",
+     "say": "bleu",
+     "gloss": {
+      "zh": "蓝色"
+     },
+     "hint": {
+      "zh": "eu"
+     }
+    },
+    {
+     "id": "7",
+     "say": "peu",
+     "gloss": {
+      "zh": "少"
+     },
+     "hint": {
+      "zh": "eu"
+     }
+    },
+    {
+     "id": "8",
+     "pair": [
+      "deux",
+      "du"
+     ],
+     "drill": [
+      "pick"
+     ],
+     "hint": {
+      "zh": "eu 还是 u？"
+     }
+    },
+    {
+     "id": "9",
+     "pair": [
+      "feu",
+      "fou"
+     ],
+     "drill": [
+      "pick"
+     ],
+     "hint": {
+      "zh": "火 / 疯的：eu 还是 ou？"
+     }
+    }
+   ]
+  },
+  {
+   "id": "fr.sounds.3",
+   "title": {
+    "zh": "鼻化元音 an, on, in",
+    "en": "Nasal vowels an, on, in"
+   },
+   "minutes": 7,
+   "explain": {
+    "zh": "法语有三个鼻化元音：an/en 口型像“啊”（靠后），on 口型像“哦”（嘴圆），in/ain 口型像“诶”（嘴角拉开）。气从鼻子里出来，发完就收：不要在后面加 n 或 ng，嘴也不要闭上。"
+   },
+   "items": [
+    {
+     "id": "1",
+     "say": "dans",
+     "gloss": {
+      "zh": "在……里"
+     },
+     "hint": {
+      "zh": "an：口型“啊”，鼻音，不加 n"
+     }
+    },
+    {
+     "id": "2",
+     "say": "enfant",
+     "gloss": {
+      "zh": "孩子"
+     },
+     "hint": {
+      "zh": "两个 an"
+     }
+    },
+    {
+     "id": "3",
+     "say": "bon",
+     "gloss": {
+      "zh": "好"
+     },
+     "hint": {
+      "zh": "on：口型“哦”，鼻音"
+     },
+     "drill": [
+      "say"
+     ]
+    },
+    {
+     "id": "4",
+     "say": "non",
+     "gloss": {
+      "zh": "不"
+     },
+     "hint": {
+      "zh": "on"
+     },
+     "drill": [
+      "hear"
+     ]
+    },
+    {
+     "id": "5",
+     "say": "vin",
+     "gloss": {
+      "zh": "葡萄酒"
+     },
+     "hint": {
+      "zh": "in：口型“诶”，鼻音"
+     }
+    },
+    {
+     "id": "6",
+     "say": "pain",
+     "gloss": {
+      "zh": "面包"
+     },
+     "hint": {
+      "zh": "in"
+     },
+     "drill": [
+      "say"
+     ]
+    },
+    {
+     "id": "7",
+     "say": "maintenant",
+     "gloss": {
+      "zh": "现在"
+     },
+     "hint": {
+      "zh": "in + an"
+     }
+    },
+    {
+     "id": "8",
+     "say": "blanc",
+     "gloss": {
+      "zh": "白色"
+     },
+     "hint": {
+      "zh": "an，词尾 c 不读"
+     }
+    },
+    {
+     "id": "9",
+     "pair": [
+      "banc",
+      "bon"
+     ],
+     "drill": [
+      "pick"
+     ],
+     "hint": {
+      "zh": "an 还是 on？"
+     }
+    },
+    {
+     "id": "10",
+     "pair": [
+      "vent",
+      "vin"
+     ],
+     "drill": [
+      "pick"
+     ],
+     "hint": {
+      "zh": "an 还是 in？"
+     }
+    }
+   ]
+  },
+  {
+   "id": "fr.sounds.4",
+   "title": {
+    "zh": "r, ch, j, gn",
+    "en": "r, ch, j, gn"
+   },
+   "minutes": 7,
+   "explain": {
+    "zh": "r：舌尖抵着下牙，喉咙后部轻轻摩擦，像带声音的轻“喝”，不是英语的卷舌 r。ch 像“嘘”（sh，舌头放平）；j 是 ch 的带声版，像“日”但舌头不卷；gn 像“尼”和“亚”连成一个音。"
+   },
+   "items": [
+    {
+     "id": "1",
+     "say": "rue",
+     "gloss": {
+      "zh": "街道"
+     },
+     "hint": {
+      "zh": "r：喉咙后部摩擦，不卷舌"
+     }
+    },
+    {
+     "id": "2",
+     "say": "rouge",
+     "gloss": {
+      "zh": "红色"
+     },
+     "hint": {
+      "zh": "r + ou + j"
+     }
+    },
+    {
+     "id": "3",
+     "say": "merci",
+     "gloss": {
+      "zh": "谢谢"
+     },
+     "hint": {
+      "zh": "r 在中间，轻轻带过"
+     },
+     "drill": [
+      "hear",
+      "say"
+     ]
+    },
+    {
+     "id": "4",
+     "say": "chat",
+     "gloss": {
+      "zh": "猫"
+     },
+     "hint": {
+      "zh": "ch：像“嘘”"
+     },
+     "drill": [
+      "say"
+     ]
+    },
+    {
+     "id": "5",
+     "say": "chaud",
+     "gloss": {
+      "zh": "热"
+     }
+    },
+    {
+     "id": "6",
+     "say": "jour",
+     "gloss": {
+      "zh": "白天"
+     },
+     "hint": {
+      "zh": "j：像“日”，舌头不卷"
+     }
+    },
+    {
+     "id": "7",
+     "say": "bonjour",
+     "gloss": {
+      "zh": "你好"
+     },
+     "hint": {
+      "zh": "on + j + ou + r"
+     },
+     "drill": [
+      "say"
+     ]
+    },
+    {
+     "id": "8",
+     "say": "montagne",
+     "gloss": {
+      "zh": "山"
+     },
+     "hint": {
+      "zh": "gn：像“尼”+“亚”"
+     },
+     "drill": [
+      "hear"
+     ]
+    },
+    {
+     "id": "9",
+     "pair": [
+      "chou",
+      "joue"
+     ],
+     "drill": [
+      "pick"
+     ],
+     "hint": {
+      "zh": "ch 还是 j？"
+     }
+    },
+    {
+     "id": "10",
+     "pair": [
+      "rit",
+      "lit"
+     ],
+     "drill": [
+      "pick"
+     ],
+     "hint": {
+      "zh": "r 还是 l？"
+     }
+    }
+   ]
+  },
+  {
+   "id": "fr.sounds.5",
+   "title": {
+    "zh": "不发音的字母与连诵",
+    "en": "Silent letters and liaison"
+   },
+   "minutes": 7,
+   "explain": {
+    "zh": "法语词尾的辅音字母大多不读：petit、grand、vous、trois。但后面的词以元音开头时，常把它读出来、连到后面，叫连诵（liaison）：vous êtes 读成“vou-zêt”，les amis 读成“lé-za-mi”。口诀：词尾的 c、r、f、l 常常要读（sac, par, chef, mal）。"
+   },
+   "items": [
+    {
+     "id": "1",
+     "say": "petit",
+     "gloss": {
+      "zh": "小"
+     },
+     "hint": {
+      "zh": "词尾 t 不读"
+     }
+    },
+    {
+     "id": "2",
+     "say": "grand",
+     "gloss": {
+      "zh": "大"
+     },
+     "hint": {
+      "zh": "d 不读"
+     }
+    },
+    {
+     "id": "3",
+     "say": "vous",
+     "gloss": {
+      "zh": "您 / 你们"
+     },
+     "hint": {
+      "zh": "s 不读"
+     }
+    },
+    {
+     "id": "4",
+     "say": "vous êtes",
+     "gloss": {
+      "zh": "您是"
+     },
+     "hint": {
+      "zh": "连诵：s 读成 z，连到 êtes"
+     },
+     "drill": [
+      "say"
+     ]
+    },
+    {
+     "id": "5",
+     "say": "les amis",
+     "gloss": {
+      "zh": "朋友们"
+     },
+     "hint": {
+      "zh": "连诵：les-z-amis"
+     },
+     "drill": [
+      "hear"
+     ]
+    },
+    {
+     "id": "6",
+     "say": "trois amis",
+     "gloss": {
+      "zh": "三个朋友"
+     },
+     "hint": {
+      "zh": "连诵：trois-z-amis"
+     },
+     "drill": [
+      "hear"
+     ]
+    },
+    {
+     "id": "7",
+     "say": "un ami",
+     "gloss": {
+      "zh": "一个朋友"
+     },
+     "hint": {
+      "zh": "un 的 n 连到 ami"
+     }
+    },
+    {
+     "id": "8",
+     "say": "sac",
+     "gloss": {
+      "zh": "包"
+     },
+     "hint": {
+      "zh": "词尾 c 要读"
+     }
+    },
+    {
+     "id": "9",
+     "say": "par",
+     "gloss": {
+      "zh": "通过"
+     },
+     "hint": {
+      "zh": "词尾 r 要读"
+     }
+    },
+    {
+     "id": "10",
+     "say": "j'aime",
+     "gloss": {
+      "zh": "我喜欢"
+     },
+     "hint": {
+      "zh": "j' 和 aime 连在一起，不停顿"
+     }
+    }
+   ]
+  },
+  {
+   "id": "fr.sounds.6",
+   "title": {
+    "zh": "字母表 A–M",
+    "en": "The alphabet A–M"
+   },
+   "minutes": 6,
+   "explain": {
+    "zh": "法语字母名称和英语不一样：e 读 eu，g 读“jé”，h 读“ash”，j 读“ji”。字母上的小符号（é è ê à ç）是拼写的一部分，说字母名时不用管。先听一遍全部，再跟读。"
+   },
+   "items": [
+    {
+     "id": "1",
+     "say": "a",
+     "show": "A"
+    },
+    {
+     "id": "2",
+     "say": "bé",
+     "show": "B"
+    },
+    {
+     "id": "3",
+     "say": "cé",
+     "show": "C"
+    },
+    {
+     "id": "4",
+     "say": "dé",
+     "show": "D"
+    },
+    {
+     "id": "5",
+     "say": "eu",
+     "show": "E",
+     "drill": [
+      "say"
+     ],
+     "hint": {
+      "zh": "e 读 eu，不是“衣”"
+     }
+    },
+    {
+     "id": "6",
+     "say": "effe",
+     "show": "F"
+    },
+    {
+     "id": "7",
+     "say": "gé",
+     "show": "G",
+     "drill": [
+      "say"
+     ],
+     "hint": {
+      "zh": "g 读 gé，像“热”+诶"
+     }
+    },
+    {
+     "id": "8",
+     "say": "hache",
+     "show": "H",
+     "drill": [
+      "say"
+     ],
+     "hint": {
+      "zh": "h 读 hache，像“阿什”"
+     }
+    },
+    {
+     "id": "9",
+     "say": "i",
+     "show": "I",
+     "drill": [
+      "dictate"
+     ]
+    },
+    {
+     "id": "10",
+     "say": "ji",
+     "show": "J",
+     "drill": [
+      "say"
+     ],
+     "hint": {
+      "zh": "j 读 ji，像“日”+衣"
+     }
+    },
+    {
+     "id": "11",
+     "say": "ka",
+     "show": "K"
+    },
+    {
+     "id": "12",
+     "say": "elle",
+     "show": "L"
+    },
+    {
+     "id": "13",
+     "say": "emme",
+     "show": "M"
+    }
+   ]
+  },
+  {
+   "id": "fr.sounds.7",
+   "title": {
+    "zh": "字母表 N–Z 与拼名字",
+    "en": "The alphabet N–Z and spelling your name"
+   },
+   "minutes": 7,
+   "explain": {
+    "zh": "q 读 ku，r 读 erre（喉咙音），u 读 u（像 ü），w 读 double vé，y 读 i grec，z 读 zède。被问到 “Comment ça s’écrit ?”（怎么拼？）时，一个字母一个字母地读出来，例如 Marie。"
+   },
+   "items": [
+    {
+     "id": "1",
+     "say": "enne",
+     "show": "N"
+    },
+    {
+     "id": "2",
+     "say": "o",
+     "show": "O"
+    },
+    {
+     "id": "3",
+     "say": "pé",
+     "show": "P"
+    },
+    {
+     "id": "4",
+     "say": "ku",
+     "show": "Q",
+     "drill": [
+      "say"
+     ],
+     "hint": {
+      "zh": "q 读 ku，像“kü”"
+     }
+    },
+    {
+     "id": "5",
+     "say": "erre",
+     "show": "R",
+     "drill": [
+      "say"
+     ],
+     "hint": {
+      "zh": "r 读 erre，喉咙后部"
+     }
+    },
+    {
+     "id": "6",
+     "say": "esse",
+     "show": "S"
+    },
+    {
+     "id": "7",
+     "say": "té",
+     "show": "T"
+    },
+    {
+     "id": "8",
+     "say": "u",
+     "show": "U",
+     "drill": [
+      "dictate"
+     ],
+     "hint": {
+      "zh": "u 读 u，像 ü"
+     }
+    },
+    {
+     "id": "9",
+     "say": "vé",
+     "show": "V"
+    },
+    {
+     "id": "10",
+     "say": "double vé",
+     "show": "W",
+     "drill": [
+      "say"
+     ],
+     "hint": {
+      "zh": "w 读 double vé（双 v）"
+     }
+    },
+    {
+     "id": "11",
+     "say": "iks",
+     "show": "X"
+    },
+    {
+     "id": "12",
+     "say": "i grec",
+     "show": "Y",
+     "drill": [
+      "say"
+     ],
+     "hint": {
+      "zh": "y 读 i grec"
+     }
+    },
+    {
+     "id": "13",
+     "say": "zède",
+     "show": "Z",
+     "drill": [
+      "dictate"
+     ],
+     "hint": {
+      "zh": "z 读 zède"
+     }
+    },
+    {
+     "id": "14",
+     "say": "Comment ça s'écrit ?",
+     "gloss": {
+      "zh": "怎么拼写？"
+     },
+     "hint": {
+      "zh": "ça 的 ç 读 s"
+     },
+     "drill": [
+      "say"
+     ]
+    },
+    {
+     "id": "15",
+     "say": "emme, a, erre, i, eu",
+     "show": "M-A-R-I-E",
+     "gloss": {
+      "zh": "M-A-R-I-E"
+     },
+     "hint": {
+      "zh": "一个字母一个字母读，中间稍停"
+     }
+    }
+   ]
+  }
+ ]
+}

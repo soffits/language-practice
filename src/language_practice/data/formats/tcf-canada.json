@@ -1,0 +1,172 @@
+{
+ "exam": "tcf-canada",
+ "name": "TCF Canada",
+ "lang": "fr",
+ "scale": "NCLC",
+ "skills": [
+  "listening",
+  "reading",
+  "writing",
+  "speaking"
+ ],
+ "source": "https://www.france-education-international.fr/test/tcf-canada",
+ "tasks": [
+  {
+   "id": "tcf.writing.1",
+   "skill": "writing",
+   "name": "Expression écrite tâche 1: message court",
+   "answer": "text",
+   "minutes": 20,
+   "words": {
+    "min": 60,
+    "max": 120
+   },
+   "hard": true,
+   "hint": "Short message answering a situation.",
+   "criteria": [
+    "adéquation à la tâche",
+    "cohérence et organisation",
+    "vocabulaire",
+    "grammaire et orthographe"
+   ],
+   "mini": {
+    "minutes": 6,
+    "hint": "3 phrases."
+   }
+  },
+  {
+   "id": "tcf.writing.2",
+   "skill": "writing",
+   "name": "Expression écrite tâche 2: lettre ou article",
+   "answer": "text",
+   "minutes": 20,
+   "words": {
+    "min": 120,
+    "max": 150
+   },
+   "hard": true,
+   "hint": "Letter, email or short article.",
+   "criteria": [
+    "adéquation à la tâche",
+    "cohérence et organisation",
+    "vocabulaire",
+    "grammaire et orthographe"
+   ],
+   "mini": {
+    "minutes": 8,
+    "hint": "Écris l'ouverture et un paragraphe."
+   }
+  },
+  {
+   "id": "tcf.writing.3",
+   "skill": "writing",
+   "name": "Expression écrite tâche 3: opinion sur des documents",
+   "answer": "text",
+   "minutes": 20,
+   "words": {
+    "min": 120,
+    "max": 180
+   },
+   "hard": true,
+   "hint": "Opinion piece comparing documents.",
+   "criteria": [
+    "adéquation à la tâche",
+    "cohérence et organisation",
+    "vocabulaire",
+    "grammaire et orthographe"
+   ],
+   "mini": {
+    "minutes": 8,
+    "hint": "Plan en mots-clés, puis l'introduction."
+   }
+  },
+  {
+   "id": "tcf.speaking.1",
+   "skill": "speaking",
+   "name": "Expression orale tâche 1: entretien dirigé",
+   "answer": "voice",
+   "minutes": 3,
+   "response_s": 120,
+   "hard": true,
+   "hint": "Réponds à voix haute et envoie le message vocal. Guided interview, no preparation, about 2 min.",
+   "criteria": [
+    "adéquation à la tâche",
+    "cohérence et organisation",
+    "vocabulaire",
+    "grammaire",
+    "prononciation et fluidité"
+   ],
+   "mini": {
+    "minutes": 2,
+    "hint": "Trois questions."
+   }
+  },
+  {
+   "id": "tcf.speaking.2",
+   "skill": "speaking",
+   "name": "Expression orale tâche 2: interaction",
+   "answer": "voice",
+   "minutes": 6,
+   "prep_s": 120,
+   "response_s": 210,
+   "hard": true,
+   "hint": "Réponds à voix haute et envoie le message vocal. Role-play: get information, at least five questions or follow-ups.",
+   "criteria": [
+    "adéquation à la tâche",
+    "cohérence et organisation",
+    "vocabulaire",
+    "grammaire",
+    "prononciation et fluidité"
+   ],
+   "mini": {
+    "minutes": 3,
+    "hint": "Trois questions."
+   }
+  },
+  {
+   "id": "tcf.speaking.3",
+   "skill": "speaking",
+   "name": "Expression orale tâche 3: point de vue",
+   "answer": "voice",
+   "minutes": 5,
+   "response_s": 270,
+   "hard": true,
+   "hint": "Réponds à voix haute et envoie le message vocal. Express and defend a viewpoint.",
+   "criteria": [
+    "adéquation à la tâche",
+    "cohérence et organisation",
+    "vocabulaire",
+    "grammaire",
+    "prononciation et fluidité"
+   ],
+   "mini": {
+    "minutes": 3,
+    "hint": "Un argument, 45 secondes."
+   }
+  },
+  {
+   "id": "tcf.reading.set",
+   "skill": "reading",
+   "name": "Compréhension écrite (série de 10 questions)",
+   "answer": "objective",
+   "minutes": 15,
+   "hint": "Timed set; record correct/total.",
+   "mini": {
+    "minutes": 7,
+    "hint": "5 questions."
+   }
+  },
+  {
+   "id": "tcf.listening.set",
+   "skill": "listening",
+   "name": "Compréhension orale (série de 10 questions)",
+   "answer": "objective",
+   "minutes": 10,
+   "hint": "Play once; record correct/total.",
+   "mini": {
+    "minutes": 5,
+    "hint": "5 questions."
+   }
+  }
+ ]
+}

@@ -1,0 +1,159 @@
+{
+ "id": "numbers-2",
+ "title": {
+  "zh": "数字 21–69",
+  "en": "Numbers 21–69"
+ },
+ "lessons": [
+  {
+   "id": "fr.numbers-2.1",
+   "title": {
+    "zh": "20 多和 30 多",
+    "en": "The twenties and thirties"
+   },
+   "minutes": 6,
+   "explain": {
+    "zh": "规律：十位 + 个位，中间加连字符。个位是 1 时用 et（和），前后不加连字符：vingt et un。vingt 在 vingt-deux 里 t 要读出来（vɛ̃t-deux）；trente 读“trɑ̃t”，注意鼻音 an。"
+   },
+   "items": [
+    {
+     "id": "1",
+     "say": "vingt et un",
+     "show": "21",
+     "hint": {
+      "zh": "et：不加连字符"
+     },
+     "drill": [
+      "dictate"
+     ]
+    },
+    {
+     "id": "2",
+     "say": "vingt-deux",
+     "show": "22",
+     "hint": {
+      "zh": "t 要读"
+     }
+    },
+    {
+     "id": "3",
+     "say": "vingt-cinq",
+     "show": "25"
+    },
+    {
+     "id": "4",
+     "say": "vingt-neuf",
+     "show": "29",
+     "drill": [
+      "dictate"
+     ]
+    },
+    {
+     "id": "5",
+     "say": "trente",
+     "show": "30",
+     "hint": {
+      "zh": "an 鼻音"
+     },
+     "drill": [
+      "dictate"
+     ]
+    },
+    {
+     "id": "6",
+     "say": "trente et un",
+     "show": "31"
+    },
+    {
+     "id": "7",
+     "say": "trente-deux",
+     "show": "32"
+    },
+    {
+     "id": "8",
+     "say": "trente-huit",
+     "show": "38",
+     "drill": [
+      "dictate"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fr.numbers-2.2",
+   "title": {
+    "zh": "40、50、60",
+    "en": "Forties to sixties"
+   },
+   "minutes": 6,
+   "explain": {
+    "zh": "quarante（40）、cinquante（50）、soixante（60）：词尾 -ante 都读“ɑ̃t”。soixante 读“swasɑ̃t”，x 读 s。1 的时候同样用 et：quarante et un，soixante et un。"
+   },
+   "items": [
+    {
+     "id": "1",
+     "say": "quarante",
+     "show": "40",
+     "drill": [
+      "dictate"
+     ]
+    },
+    {
+     "id": "2",
+     "say": "quarante et un",
+     "show": "41"
+    },
+    {
+     "id": "3",
+     "say": "quarante-sept",
+     "show": "47",
+     "drill": [
+      "dictate"
+     ]
+    },
+    {
+     "id": "4",
+     "say": "cinquante",
+     "show": "50",
+     "drill": [
+      "dictate"
+     ]
+    },
+    {
+     "id": "5",
+     "say": "cinquante-trois",
+     "show": "53"
+    },
+    {
+     "id": "6",
+     "say": "cinquante-six",
+     "show": "56"
+    },
+    {
+     "id": "7",
+     "say": "soixante",
+     "show": "60",
+     "hint": {
+      "zh": "x 读 s"
+     },
+     "drill": [
+      "dictate"
+     ]
+    },
+    {
+     "id": "8",
+     "say": "soixante et un",
+     "show": "61"
+    },
+    {
+     "id": "9",
+     "say": "soixante-neuf",
+     "show": "69",
+     "drill": [
+      "dictate"
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,127 @@
+{
+ "exam": "tef-canada",
+ "name": "TEF Canada",
+ "lang": "fr",
+ "scale": "NCLC",
+ "skills": [
+  "listening",
+  "reading",
+  "writing",
+  "speaking"
+ ],
+ "source": "https://www.lefrancaisdesaffaires.fr/en/candidate/test-evaluation-francais/tef-canada/examination/",
+ "tasks": [
+  {
+   "id": "tef.writing.a",
+   "skill": "writing",
+   "name": "Expression écrite A: la suite d'un article",
+   "answer": "text",
+   "minutes": 25,
+   "words": {
+    "min": 80
+   },
+   "official_minutes": 25,
+   "hard": true,
+   "hint": "Continue the short article; at least 80 words.",
+   "criteria": [
+    "adéquation à la tâche",
+    "cohérence et organisation",
+    "vocabulaire",
+    "grammaire et orthographe"
+   ],
+   "mini": {
+    "minutes": 8,
+    "hint": "Écris 3 à 5 phrases."
+   }
+  },
+  {
+   "id": "tef.writing.b",
+   "skill": "writing",
+   "name": "Expression écrite B: point de vue argumenté",
+   "answer": "text",
+   "minutes": 35,
+   "words": {
+    "min": 200
+   },
+   "official_minutes": 35,
+   "hard": true,
+   "hint": "Argue a position in a letter; at least 200 words.",
+   "criteria": [
+    "adéquation à la tâche",
+    "cohérence et organisation",
+    "vocabulaire",
+    "grammaire et orthographe"
+   ],
+   "mini": {
+    "minutes": 10,
+    "hint": "Plan en mots-clés, puis l'introduction."
+   }
+  },
+  {
+   "id": "tef.speaking.a",
+   "skill": "speaking",
+   "name": "Expression orale A: obtenir des renseignements",
+   "answer": "voice",
+   "minutes": 6,
+   "response_s": 300,
+   "hard": true,
+   "hint": "Réponds à voix haute et envoie le message vocal. Ask questions about an ad (about 5 min in the exam).",
+   "criteria": [
+    "adéquation à la tâche",
+    "cohérence et organisation",
+    "vocabulaire",
+    "grammaire",
+    "prononciation et fluidité"
+   ],
+   "mini": {
+    "minutes": 3,
+    "hint": "Pose quatre questions."
+   }
+  },
+  {
+   "id": "tef.speaking.b",
+   "skill": "speaking",
+   "name": "Expression orale B: argumenter pour convaincre",
+   "answer": "voice",
+   "minutes": 10,
+   "response_s": 600,
+   "hard": true,
+   "hint": "Réponds à voix haute et envoie le message vocal. Persuade a friend (about 10 min in the exam).",
+   "criteria": [
+    "adéquation à la tâche",
+    "cohérence et organisation",
+    "vocabulaire",
+    "grammaire",
+    "prononciation et fluidité"
+   ],
+   "mini": {
+    "minutes": 3,
+    "hint": "Un argument, 45 secondes."
+   }
+  },
+  {
+   "id": "tef.reading.set",
+   "skill": "reading",
+   "name": "Compréhension écrite (série de 10 questions)",
+   "answer": "objective",
+   "minutes": 15,
+   "hint": "Timed set; record correct/total.",
+   "mini": {
+    "minutes": 7,
+    "hint": "5 questions."
+   }
+  },
+  {
+   "id": "tef.listening.set",
+   "skill": "listening",
+   "name": "Compréhension orale (série de 10 questions)",
+   "answer": "objective",
+   "minutes": 10,
+   "hint": "Play once; record correct/total.",
+   "mini": {
+    "minutes": 5,
+    "hint": "5 questions."
+   }
+  }
+ ]
+}

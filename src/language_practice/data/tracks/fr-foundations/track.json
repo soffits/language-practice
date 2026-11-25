@@ -1,0 +1,12 @@
+{
+ "track": "fr-foundations",
+ "name": "French foundations for Chinese speakers (sounds, numbers, greetings)",
+ "lang": "fr",
+ "kind": "lessons",
+ "explain": [
+  "zh",
+  "en"
+ ],
+ "notes": "Written from scratch for this tool. Structure follows what beginner French courses do: sounds first, then numbers, then survival phrases.",
+ "voice": "Example audio is generated locally; see docs/decisions.md."
+}

@@ -1,0 +1,34 @@
+[project]
+name = "language-practice"
+version = "0.1.0"
+description = "Exam-oriented language practice for an assistant and a learner: session planner, error log, FSRS review deck, progress and speaking signals, all in plain files"
+readme = "README.md"
+license = "AGPL-3.0-or-later AND CC-BY-SA-4.0"
+license-files = ["LICENSE", "src/language_practice/data/tracks/fr-core/NOTICE.md"]
+authors = [{ name = "Sakina" }]
+requires-python = ">=3.11,<3.14"
+dependencies = [
+    "fsrs>=6.3.3,<7",
+]
+
+[project.scripts]
+practice = "language_practice.cli:main"
+
+[dependency-groups]
+dev = [
+    "pytest>=8",
+    "soundfile>=0.12",
+    "piper-tts>=1.3",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/language_practice"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = ["e2e: needs speech-check with downloaded models and a Piper voice (see tests/test_e2e.py)"]
+addopts = "-m 'not e2e'"

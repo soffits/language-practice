@@ -1,0 +1,8037 @@
+{
+"words": [
+{
+"id": "fr-core:0001",
+"word": "de",
+"pos": "prép",
+"gloss": {
+"zh": "的；从；关于"
+},
+"example": {
+"text": "Le livre de Marie.",
+"gloss": {
+"zh": "Marie 的书。"
+}
+},
+"freq_per_million": 64149.8
+},
+{
+"id": "fr-core:0002",
+"word": "être",
+"pos": "verbe",
+"gloss": {
+"zh": "是；在"
+},
+"example": {
+"text": "Je suis à la maison.",
+"gloss": {
+"zh": "我在家。"
+}
+},
+"freq_per_million": 47322.0
+},
+{
+"id": "fr-core:0003",
+"word": "avoir",
+"pos": "verbe",
+"gloss": {
+"zh": "有"
+},
+"example": {
+"text": "J'ai deux frères.",
+"gloss": {
+"zh": "我有两个兄弟。"
+}
+},
+"freq_per_million": 31360.0
+},
+{
+"id": "fr-core:0004",
+"word": "la",
+"pos": "art",
+"gloss": {
+"zh": "这（阴性定冠词）"
+},
+"example": {
+"text": "La maison est grande.",
+"gloss": {
+"zh": "这房子很大。"
+}
+},
+"freq_per_million": 38580.4
+},
+{
+"id": "fr-core:0005",
+"word": "le",
+"pos": "art",
+"gloss": {
+"zh": "这（阳性定冠词）"
+},
+"example": {
+"text": "Le chat dort.",
+"gloss": {
+"zh": "猫在睡觉。"
+}
+},
+"freq_per_million": 31963.7
+},
+{
+"id": "fr-core:0006",
+"word": "je",
+"pos": "pron",
+"gloss": {
+"zh": "我"
+},
+"example": {
+"text": "Je parle français.",
+"gloss": {
+"zh": "我说法语。"
+}
+},
+"freq_per_million": 36846.0
+},
+{
+"id": "fr-core:0007",
+"word": "ne",
+"pos": "adv",
+"gloss": {
+"zh": "不（和 pas 连用）"
+},
+"example": {
+"text": "Je ne sais pas.",
+"gloss": {
+"zh": "我不知道。"
+}
+},
+"freq_per_million": 36129.7
+},
+{
+"id": "fr-core:0008",
+"word": "et",
+"pos": "conj",
+"gloss": {
+"zh": "和"
+},
+"example": {
+"text": "Du pain et du fromage.",
+"gloss": {
+"zh": "面包和奶酪。"
+}
+},
+"freq_per_million": 33788.8
+},
+{
+"id": "fr-core:0009",
+"word": "à",
+"pos": "prép",
+"gloss": {
+"zh": "在；到；给"
+},
+"example": {
+"text": "Je vais à Montréal.",
+"gloss": {
+"zh": "我去蒙特利尔。"
+}
+},
+"freq_per_million": 31399.4
+},
+{
+"id": "fr-core:0010",
+"word": "il",
+"pos": "pron",
+"gloss": {
+"zh": "他；它"
+},
+"example": {
+"text": "Il est ici.",
+"gloss": {
+"zh": "他在这里。"
+}
+},
+"freq_per_million": 29055.0
+},
+{
+"id": "fr-core:0011",
+"word": "pas",
+"pos": "adv",
+"gloss": {
+"zh": "不（和 ne 连用）"
+},
+"example": {
+"text": "Ce n'est pas grave.",
+"gloss": {
+"zh": "没关系。"
+}
+},
+"freq_per_million": 26983.3
+},
+{
+"id": "fr-core:0012",
+"word": "qui",
+"pos": "pron",
+"gloss": {
+"zh": "谁；……的人"
+},
+"example": {
+"text": "Qui est-ce ?",
+"gloss": {
+"zh": "这是谁？"
+}
+},
+"freq_per_million": 13439.8
+},
+{
+"id": "fr-core:0013",
+"word": "un",
+"pos": "art",
+"gloss": {
+"zh": "一个（阳性）"
+},
+"example": {
+"text": "J'ai un chat.",
+"gloss": {
+"zh": "我有一只猫。"
+}
+},
+"freq_per_million": 25638.3
+},
+{
+"id": "fr-core:0014",
+"word": "les",
+"pos": "art",
+"gloss": {
+"zh": "这些（复数定冠词）"
+},
+"example": {
+"text": "Les enfants jouent.",
+"gloss": {
+"zh": "孩子们在玩。"
+}
+},
+"freq_per_million": 23382.7
+},
+{
+"id": "fr-core:0015",
+"word": "en",
+"pos": "prép",
+"gloss": {
+"zh": "在（国家、月份）；用"
+},
+"example": {
+"text": "Je suis en France.",
+"gloss": {
+"zh": "我在法国。"
+}
+},
+"freq_per_million": 14422.2
+},
+{
+"id": "fr-core:0016",
+"word": "une",
+"pos": "art",
+"gloss": {
+"zh": "一个（阴性）"
+},
+"example": {
+"text": "Une pomme, s'il vous plaît.",
+"gloss": {
+"zh": "请给我一个苹果。"
+}
+},
+"freq_per_million": 17495.8
+},
+{
+"id": "fr-core:0017",
+"word": "tout",
+"pos": "adj",
+"gloss": {
+"zh": "全部的；一切"
+},
+"example": {
+"text": "Tout va bien.",
+"gloss": {
+"zh": "一切都好。"
+}
+},
+"freq_per_million": 6120.1
+},
+{
+"id": "fr-core:0018",
+"word": "tu",
+"pos": "pron",
+"gloss": {
+"zh": "你（亲近）"
+},
+"example": {
+"text": "Tu as faim ?",
+"gloss": {
+"zh": "你饿吗？"
+}
+},
+"freq_per_million": 17198.8
+},
+{
+"id": "fr-core:0019",
+"word": "vous",
+"pos": "pron",
+"gloss": {
+"zh": "您；你们"
+},
+"example": {
+"text": "Vous avez raison.",
+"gloss": {
+"zh": "您说得对。"
+}
+},
+"freq_per_million": 17096.9
+},
+{
+"id": "fr-core:0020",
+"word": "des",
+"pos": "art",
+"gloss": {
+"zh": "一些（复数不定冠词）"
+},
+"example": {
+"text": "J'ai des amis.",
+"gloss": {
+"zh": "我有一些朋友。"
+}
+},
+"freq_per_million": 16680.6
+},
+{
+"id": "fr-core:0021",
+"word": "que",
+"pos": "pron",
+"gloss": {
+"zh": "什么；那（连词）"
+},
+"example": {
+"text": "Que veux-tu ?",
+"gloss": {
+"zh": "你想要什么？"
+}
+},
+"freq_per_million": 7416.8
+},
+{
+"id": "fr-core:0022",
+"word": "faire",
+"pos": "verbe",
+"gloss": {
+"zh": "做；制作"
+},
+"example": {
+"text": "Je fais du café.",
+"gloss": {
+"zh": "我在做咖啡。"
+}
+},
+"freq_per_million": 14142.5
+},
+{
+"id": "fr-core:0023",
+"word": "on",
+"pos": "pron",
+"gloss": {
+"zh": "我们；人们（口语）"
+},
+"example": {
+"text": "On va au café ?",
+"gloss": {
+"zh": "我们去咖啡馆吧？"
+}
+},
+"freq_per_million": 13424.8
+},
+{
+"id": "fr-core:0024",
+"word": "ce",
+"pos": "adj",
+"gloss": {
+"zh": "这个（ce / cet / cette）"
+},
+"example": {
+"text": "C'est bon.",
+"gloss": {
+"zh": "这很好。"
+}
+},
+"freq_per_million": 8177.7
+},
+{
+"id": "fr-core:0025",
+"word": "pour",
+"pos": "prép",
+"gloss": {
+"zh": "为了；给"
+},
+"example": {
+"text": "Un cadeau pour toi.",
+"gloss": {
+"zh": "给你的礼物。"
+}
+},
+"freq_per_million": 13276.8
+},
+{
+"id": "fr-core:0026",
+"word": "dans",
+"pos": "prép",
+"gloss": {
+"zh": "在……里面"
+},
+"example": {
+"text": "Il est dans la cuisine.",
+"gloss": {
+"zh": "他在厨房里。"
+}
+},
+"freq_per_million": 12954.7
+},
+{
+"id": "fr-core:0027",
+"word": "aller",
+"pos": "verbe",
+"gloss": {
+"zh": "去"
+},
+"example": {
+"text": "Je vais au travail.",
+"gloss": {
+"zh": "我去上班。"
+}
+},
+"freq_per_million": 12847.7
+},
+{
+"id": "fr-core:0028",
+"word": "elle",
+"pos": "pron",
+"gloss": {
+"zh": "她；它"
+},
+"example": {
+"text": "Elle travaille ici.",
+"gloss": {
+"zh": "她在这里工作。"
+}
+},
+"freq_per_million": 11512.0
+},
+{
+"id": "fr-core:0029",
+"word": "ça",
+"pos": "pron",
+"gloss": {
+"zh": "这；那"
+},
+"example": {
+"text": "Ça va ?",
+"gloss": {
+"zh": "你好吗？"
+}
+},
+"freq_per_million": 11411.3
+},
+{
+"id": "fr-core:0030",
+"word": "du",
+"pos": "art",
+"gloss": {
+"zh": "一些（不可数）；的（de+le）"
+},
+"example": {
+"text": "Je mange du pain.",
+"gloss": {
+"zh": "我吃面包。"
+}
+},
+"freq_per_million": 11276.9
+},
+{
+"id": "fr-core:0031",
+"word": "dire",
+"pos": "verbe",
+"gloss": {
+"zh": "说"
+},
+"example": {
+"text": "Que dis-tu ?",
+"gloss": {
+"zh": "你说什么？"
+}
+},
+"freq_per_million": 10778.6
+},
+{
+"id": "fr-core:0032",
+"word": "mais",
+"pos": "conj",
+"gloss": {
+"zh": "但是"
+},
+"example": {
+"text": "Je veux, mais je ne peux pas.",
+"gloss": {
+"zh": "我想，可是我不能。"
+}
+},
+"freq_per_million": 9642.8
+},
+{
+"id": "fr-core:0033",
+"word": "se",
+"pos": "pron",
+"gloss": {
+"zh": "自己（反身代词）"
+},
+"example": {
+"text": "Il se lève tôt.",
+"gloss": {
+"zh": "他起得早。"
+}
+},
+"freq_per_million": 9401.5
+},
+{
+"id": "fr-core:0034",
+"word": "me",
+"pos": "pron",
+"gloss": {
+"zh": "我（宾语）"
+},
+"example": {
+"text": "Il me parle.",
+"gloss": {
+"zh": "他对我说话。"
+}
+},
+"freq_per_million": 9193.8
+},
+{
+"id": "fr-core:0035",
+"word": "plus",
+"pos": "adv",
+"gloss": {
+"zh": "更；再也（不）"
+},
+"example": {
+"text": "Plus lentement, s'il vous plaît.",
+"gloss": {
+"zh": "请说慢一点。"
+}
+},
+"freq_per_million": 9077.0
+},
+{
+"id": "fr-core:0036",
+"word": "au",
+"pos": "prép",
+"gloss": {
+"zh": "在；去（à+le）"
+},
+"example": {
+"text": "Je vais au marché.",
+"gloss": {
+"zh": "我去市场。"
+}
+},
+"freq_per_million": 9060.2
+},
+{
+"id": "fr-core:0037",
+"word": "nous",
+"pos": "pron",
+"gloss": {
+"zh": "我们"
+},
+"example": {
+"text": "Nous habitons ici.",
+"gloss": {
+"zh": "我们住在这里。"
+}
+},
+"freq_per_million": 8640.0
+},
+{
+"id": "fr-core:0038",
+"word": "où",
+"pos": "adv",
+"gloss": {
+"zh": "哪里"
+},
+"example": {
+"text": "Où habites-tu ?",
+"gloss": {
+"zh": "你住在哪里？"
+}
+},
+"freq_per_million": 4245.4
+},
+{
+"id": "fr-core:0039",
+"word": "pouvoir",
+"pos": "verbe",
+"gloss": {
+"zh": "能；可以"
+},
+"example": {
+"text": "Je peux t'aider.",
+"gloss": {
+"zh": "我可以帮你。"
+}
+},
+"freq_per_million": 8184.3
+},
+{
+"id": "fr-core:0040",
+"word": "sur",
+"pos": "prép",
+"gloss": {
+"zh": "在……上面"
+},
+"example": {
+"text": "Le livre est sur la table.",
+"gloss": {
+"zh": "书在桌子上。"
+}
+},
+"freq_per_million": 7840.6
+},
+{
+"id": "fr-core:0041",
+"word": "avec",
+"pos": "prép",
+"gloss": {
+"zh": "和；用"
+},
+"example": {
+"text": "Je viens avec toi.",
+"gloss": {
+"zh": "我和你一起来。"
+}
+},
+"freq_per_million": 7705.3
+},
+{
+"id": "fr-core:0042",
+"word": "y",
+"pos": "pron",
+"gloss": {
+"zh": "那里（代词）"
+},
+"example": {
+"text": "J'y vais demain.",
+"gloss": {
+"zh": "我明天去那里。"
+}
+},
+"freq_per_million": 7433.3
+},
+{
+"id": "fr-core:0043",
+"word": "bien",
+"pos": "adv",
+"gloss": {
+"zh": "好；很"
+},
+"example": {
+"text": "Ça va bien.",
+"gloss": {
+"zh": "我很好。"
+}
+},
+"freq_per_million": 6748.9
+},
+{
+"id": "fr-core:0044",
+"word": "vouloir",
+"pos": "verbe",
+"gloss": {
+"zh": "想要"
+},
+"example": {
+"text": "Je veux un café.",
+"gloss": {
+"zh": "我想要一杯咖啡。"
+}
+},
+"freq_per_million": 6889.4
+},
+{
+"id": "fr-core:0045",
+"word": "comme",
+"pos": "conj",
+"gloss": {
+"zh": "像；作为"
+},
+"example": {
+"text": "Comme toi, j'aime la musique.",
+"gloss": {
+"zh": "像你一样，我喜欢音乐。"
+}
+},
+"freq_per_million": 5755.4
+},
+{
+"id": "fr-core:0046",
+"word": "savoir",
+"pos": "verbe",
+"gloss": {
+"zh": "知道；会"
+},
+"example": {
+"text": "Je ne sais pas.",
+"gloss": {
+"zh": "我不知道。"
+}
+},
+"freq_per_million": 6520.3
+},
+{
+"id": "fr-core:0047",
+"word": "son",
+"pos": "adj",
+"gloss": {
+"zh": "他的；她的（son / sa / ses）"
+},
+"example": {
+"text": "Son frère est grand.",
+"gloss": {
+"zh": "他的哥哥很高。"
+}
+},
+"freq_per_million": 6436.6
+},
+{
+"id": "fr-core:0048",
+"word": "lui",
+"pos": "pron",
+"gloss": {
+"zh": "他（宾语）；对他"
+},
+"example": {
+"text": "Je lui parle.",
+"gloss": {
+"zh": "我跟他说话。"
+}
+},
+"freq_per_million": 6533.9
+},
+{
+"id": "fr-core:0049",
+"word": "voir",
+"pos": "verbe",
+"gloss": {
+"zh": "看见；见到"
+},
+"example": {
+"text": "Je vois la mer.",
+"gloss": {
+"zh": "我看见大海。"
+}
+},
+"freq_per_million": 6521.2
+},
+{
+"id": "fr-core:0050",
+"word": "mon",
+"pos": "adj",
+"gloss": {
+"zh": "我的（mon / ma / mes）"
+},
+"example": {
+"text": "Ma mère est ici.",
+"gloss": {
+"zh": "我妈妈在这里。"
+}
+},
+"freq_per_million": 6157.0
+},
+{
+"id": "fr-core:0051",
+"word": "ils",
+"pos": "pron",
+"gloss": {
+"zh": "他们"
+},
+"example": {
+"text": "Ils sont là.",
+"gloss": {
+"zh": "他们在那里。"
+}
+},
+"freq_per_million": 5884.6
+},
+{
+"id": "fr-core:0052",
+"word": "moi",
+"pos": "pron",
+"gloss": {
+"zh": "我（强调）"
+},
+"example": {
+"text": "Moi aussi.",
+"gloss": {
+"zh": "我也是。"
+}
+},
+"freq_per_million": 5553.2
+},
+{
+"id": "fr-core:0053",
+"word": "par",
+"pos": "prép",
+"gloss": {
+"zh": "通过；被；每"
+},
+"example": {
+"text": "Deux fois par semaine.",
+"gloss": {
+"zh": "每周两次。"
+}
+},
+"freq_per_million": 5480.1
+},
+{
+"id": "fr-core:0054",
+"word": "si",
+"pos": "conj",
+"gloss": {
+"zh": "如果"
+},
+"example": {
+"text": "Si tu veux, on y va.",
+"gloss": {
+"zh": "你愿意的话，我们就去。"
+}
+},
+"freq_per_million": 3032.1
+},
+{
+"id": "fr-core:0055",
+"word": "non",
+"pos": "adv",
+"gloss": {
+"zh": "不；不是"
+},
+"example": {
+"text": "Non, merci.",
+"gloss": {
+"zh": "不，谢谢。"
+}
+},
+"freq_per_million": 5176.0
+},
+{
+"id": "fr-core:0056",
+"word": "te",
+"pos": "pron",
+"gloss": {
+"zh": "你（宾语）"
+},
+"example": {
+"text": "Je te vois.",
+"gloss": {
+"zh": "我看见你。"
+}
+},
+"freq_per_million": 4780.4
+},
+{
+"id": "fr-core:0057",
+"word": "devoir",
+"pos": "verbe",
+"gloss": {
+"zh": "必须；应该"
+},
+"example": {
+"text": "Je dois partir.",
+"gloss": {
+"zh": "我得走了。"
+}
+},
+"freq_per_million": 4550.8
+},
+{
+"id": "fr-core:0058",
+"word": "quoi",
+"pos": "pron",
+"gloss": {
+"zh": "什么（口语）"
+},
+"example": {
+"text": "Tu fais quoi ?",
+"gloss": {
+"zh": "你在做什么？"
+}
+},
+"freq_per_million": 1769.1
+},
+{
+"id": "fr-core:0059",
+"word": "venir",
+"pos": "verbe",
+"gloss": {
+"zh": "来"
+},
+"example": {
+"text": "Tu viens ce soir ?",
+"gloss": {
+"zh": "你今晚来吗？"
+}
+},
+"freq_per_million": 4278.4
+},
+{
+"id": "fr-core:0060",
+"word": "ou",
+"pos": "conj",
+"gloss": {
+"zh": "或者"
+},
+"example": {
+"text": "Thé ou café ?",
+"gloss": {
+"zh": "茶还是咖啡？"
+}
+},
+"freq_per_million": 4013.8
+},
+{
+"id": "fr-core:0061",
+"word": "rien",
+"pos": "pron",
+"gloss": {
+"zh": "什么都没有"
+},
+"example": {
+"text": "Je ne veux rien.",
+"gloss": {
+"zh": "我什么都不要。"
+}
+},
+"freq_per_million": 3897.8
+},
+{
+"id": "fr-core:0062",
+"word": "oui",
+"pos": "adv",
+"gloss": {
+"zh": "是；对"
+},
+"example": {
+"text": "Oui, bien sûr.",
+"gloss": {
+"zh": "是的，当然。"
+}
+},
+"freq_per_million": 3844.9
+},
+{
+"id": "fr-core:0063",
+"word": "même",
+"pos": "adj",
+"gloss": {
+"zh": "相同的；甚至"
+},
+"example": {
+"text": "C'est la même chose.",
+"gloss": {
+"zh": "这是同一回事。"
+}
+},
+"freq_per_million": 2266.3
+},
+{
+"id": "fr-core:0064",
+"word": "prendre",
+"pos": "verbe",
+"gloss": {
+"zh": "拿；乘（车）；吃"
+},
+"example": {
+"text": "Je prends le bus.",
+"gloss": {
+"zh": "我坐公交车。"
+}
+},
+"freq_per_million": 3380.2
+},
+{
+"id": "fr-core:0065",
+"word": "quand",
+"pos": "adv",
+"gloss": {
+"zh": "什么时候"
+},
+"example": {
+"text": "Quand arrives-tu ?",
+"gloss": {
+"zh": "你什么时候到？"
+}
+},
+"freq_per_million": 3308.0
+},
+{
+"id": "fr-core:0066",
+"word": "bon",
+"pos": "adj",
+"gloss": {
+"zh": "好的"
+},
+"example": {
+"text": "Un bon café.",
+"gloss": {
+"zh": "一杯好咖啡。"
+}
+},
+"freq_per_million": 2344.1
+},
+{
+"id": "fr-core:0067",
+"word": "là",
+"pos": "adv",
+"gloss": {
+"zh": "那里；这时"
+},
+"example": {
+"text": "Il est là.",
+"gloss": {
+"zh": "他在那里。"
+}
+},
+"freq_per_million": 3186.2
+},
+{
+"id": "fr-core:0068",
+"word": "sans",
+"pos": "prép",
+"gloss": {
+"zh": "没有"
+},
+"example": {
+"text": "Un café sans sucre.",
+"gloss": {
+"zh": "不加糖的咖啡。"
+}
+},
+"freq_per_million": 3227.6
+},
+{
+"id": "fr-core:0069",
+"word": "petit",
+"pos": "adj",
+"gloss": {
+"zh": "小的"
+},
+"example": {
+"text": "Un petit chat.",
+"gloss": {
+"zh": "一只小的猫。"
+}
+},
+"freq_per_million": 2648.8
+},
+{
+"id": "fr-core:0070",
+"word": "parler",
+"pos": "verbe",
+"gloss": {
+"zh": "说话；讲（语言）"
+},
+"example": {
+"text": "Je parle un peu français.",
+"gloss": {
+"zh": "我会说一点法语。"
+}
+},
+"freq_per_million": 3056.6
+},
+{
+"id": "fr-core:0071",
+"word": "suivre",
+"pos": "verbe",
+"gloss": {
+"zh": "跟随；上（课）"
+},
+"example": {
+"text": "Je suis un cours de français.",
+"gloss": {
+"zh": "我在上法语课。"
+}
+},
+"freq_per_million": 3039.7
+},
+{
+"id": "fr-core:0072",
+"word": "toi",
+"pos": "pron",
+"gloss": {
+"zh": "你（强调）"
+},
+"example": {
+"text": "Et toi ?",
+"gloss": {
+"zh": "你呢？"
+}
+},
+"freq_per_million": 2969.8
+},
+{
+"id": "fr-core:0073",
+"word": "falloir",
+"pos": "verbe",
+"gloss": {
+"zh": "需要；必须（il faut）"
+},
+"example": {
+"text": "Il faut partir.",
+"gloss": {
+"zh": "得走了。"
+}
+},
+"freq_per_million": 2904.2
+},
+{
+"id": "fr-core:0074",
+"word": "ici",
+"pos": "adv",
+"gloss": {
+"zh": "这里"
+},
+"example": {
+"text": "Viens ici.",
+"gloss": {
+"zh": "到这里来。"
+}
+},
+"freq_per_million": 2894.8
+},
+{
+"id": "fr-core:0075",
+"word": "chose",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "事情；东西"
+},
+"example": {
+"text": "C'est une bonne chose.",
+"gloss": {
+"zh": "这是件好事。"
+}
+},
+"freq_per_million": 2831.3
+},
+{
+"id": "fr-core:0076",
+"word": "alors",
+"pos": "adv",
+"gloss": {
+"zh": "那么；所以"
+},
+"example": {
+"text": "Alors, on y va ?",
+"gloss": {
+"zh": "那么，我们走吧？"
+}
+},
+"freq_per_million": 2811.4
+},
+{
+"id": "fr-core:0077",
+"word": "autre",
+"pos": "adj",
+"gloss": {
+"zh": "别的；另一个"
+},
+"example": {
+"text": "Je veux une autre chambre.",
+"gloss": {
+"zh": "我想要另一个房间。"
+}
+},
+"freq_per_million": 1656.2
+},
+{
+"id": "fr-core:0078",
+"word": "aussi",
+"pos": "adv",
+"gloss": {
+"zh": "也"
+},
+"example": {
+"text": "Moi aussi.",
+"gloss": {
+"zh": "我也是。"
+}
+},
+"freq_per_million": 2762.2
+},
+{
+"id": "fr-core:0079",
+"word": "encore",
+"pos": "adv",
+"gloss": {
+"zh": "还；再"
+},
+"example": {
+"text": "Encore un café ?",
+"gloss": {
+"zh": "再来一杯咖啡？"
+}
+},
+"freq_per_million": 2756.0
+},
+{
+"id": "fr-core:0080",
+"word": "peu",
+"pos": "adv",
+"gloss": {
+"zh": "一点；很少"
+},
+"example": {
+"text": "Un peu de sucre.",
+"gloss": {
+"zh": "一点点糖。"
+}
+},
+"freq_per_million": 1918.2
+},
+{
+"id": "fr-core:0081",
+"word": "très",
+"pos": "adv",
+"gloss": {
+"zh": "非常"
+},
+"example": {
+"text": "C'est très bon.",
+"gloss": {
+"zh": "这非常好。"
+}
+},
+"freq_per_million": 2710.7
+},
+{
+"id": "fr-core:0082",
+"word": "passer",
+"pos": "verbe",
+"gloss": {
+"zh": "经过；度过"
+},
+"example": {
+"text": "Je passe chez toi.",
+"gloss": {
+"zh": "我去你家一趟。"
+}
+},
+"freq_per_million": 2660.8
+},
+{
+"id": "fr-core:0083",
+"word": "croire",
+"pos": "verbe",
+"gloss": {
+"zh": "相信；认为"
+},
+"example": {
+"text": "Je crois que oui.",
+"gloss": {
+"zh": "我想是的。"
+}
+},
+"freq_per_million": 2659.2
+},
+{
+"id": "fr-core:0084",
+"word": "deux",
+"pos": "adj",
+"gloss": {
+"zh": "二"
+},
+"example": {
+"text": "J'ai deux chats.",
+"gloss": {
+"zh": "我有两只猫。"
+}
+},
+"freq_per_million": 2566.9
+},
+{
+"id": "fr-core:0085",
+"word": "homme",
+"pos": "nom",
+"article": "l'",
+"gloss": {
+"zh": "男人"
+},
+"example": {
+"text": "Cet homme est grand.",
+"gloss": {
+"zh": "这个男人很高。"
+}
+},
+"freq_per_million": 2522.4
+},
+{
+"id": "fr-core:0086",
+"word": "pourquoi",
+"pos": "adv",
+"gloss": {
+"zh": "为什么"
+},
+"example": {
+"text": "Pourquoi pleures-tu ?",
+"gloss": {
+"zh": "你为什么哭？"
+}
+},
+"freq_per_million": 1533.6
+},
+{
+"id": "fr-core:0087",
+"word": "jamais",
+"pos": "adv",
+"gloss": {
+"zh": "从不"
+},
+"example": {
+"text": "Je ne fume jamais.",
+"gloss": {
+"zh": "我从不吸烟。"
+}
+},
+"freq_per_million": 2483.2
+},
+{
+"id": "fr-core:0088",
+"word": "aimer",
+"pos": "verbe",
+"gloss": {
+"zh": "喜欢；爱"
+},
+"example": {
+"text": "J'aime le café.",
+"gloss": {
+"zh": "我喜欢咖啡。"
+}
+},
+"freq_per_million": 2450.7
+},
+{
+"id": "fr-core:0089",
+"word": "jour",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "白天；一天"
+},
+"example": {
+"text": "Tous les jours.",
+"gloss": {
+"zh": "每天。"
+}
+},
+"freq_per_million": 2403.7
+},
+{
+"id": "fr-core:0090",
+"word": "dont",
+"pos": "pron",
+"gloss": {
+"zh": "（关系代词）其中；关于……的"
+},
+"example": {
+"text": "Le livre dont je parle.",
+"gloss": {
+"zh": "我说的那本书。"
+}
+},
+"freq_per_million": 1183.8
+},
+{
+"id": "fr-core:0091",
+"word": "penser",
+"pos": "verbe",
+"gloss": {
+"zh": "想；认为"
+},
+"example": {
+"text": "Je pense à toi.",
+"gloss": {
+"zh": "我在想你。"
+}
+},
+"freq_per_million": 2355.3
+},
+{
+"id": "fr-core:0092",
+"word": "votre",
+"pos": "adj",
+"gloss": {
+"zh": "您的（votre / vos）"
+},
+"example": {
+"text": "Votre nom, s'il vous plaît ?",
+"gloss": {
+"zh": "请问您的姓名？"
+}
+},
+"freq_per_million": 2322.0
+},
+{
+"id": "fr-core:0093",
+"word": "temps",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "时间；天气"
+},
+"example": {
+"text": "Je n'ai pas le temps.",
+"gloss": {
+"zh": "我没有时间。"
+}
+},
+"freq_per_million": 2320.4
+},
+{
+"id": "fr-core:0094",
+"word": "trouver",
+"pos": "verbe",
+"gloss": {
+"zh": "找到；觉得"
+},
+"example": {
+"text": "Je trouve mes clés.",
+"gloss": {
+"zh": "我找到了钥匙。"
+}
+},
+"freq_per_million": 2308.0
+},
+{
+"id": "fr-core:0095",
+"word": "ton",
+"pos": "adj",
+"gloss": {
+"zh": "你的（ton / ta / tes）"
+},
+"example": {
+"text": "Ton père arrive.",
+"gloss": {
+"zh": "你爸爸到了。"
+}
+},
+"freq_per_million": 2033.8
+},
+{
+"id": "fr-core:0096",
+"word": "regarder",
+"pos": "verbe",
+"gloss": {
+"zh": "看；注视"
+},
+"example": {
+"text": "Je regarde la télé.",
+"gloss": {
+"zh": "我在看电视。"
+}
+},
+"freq_per_million": 2195.2
+},
+{
+"id": "fr-core:0097",
+"word": "laisser",
+"pos": "verbe",
+"gloss": {
+"zh": "让；留下"
+},
+"example": {
+"text": "Laisse-moi tranquille.",
+"gloss": {
+"zh": "别打扰我。"
+}
+},
+"freq_per_million": 2185.6
+},
+{
+"id": "fr-core:0098",
+"word": "toujours",
+"pos": "adv",
+"gloss": {
+"zh": "总是；仍然"
+},
+"example": {
+"text": "Il est toujours en retard.",
+"gloss": {
+"zh": "他总是迟到。"
+}
+},
+"freq_per_million": 2166.1
+},
+{
+"id": "fr-core:0099",
+"word": "grand",
+"pos": "adj",
+"gloss": {
+"zh": "大的；高的"
+},
+"example": {
+"text": "Une grande ville.",
+"gloss": {
+"zh": "一座大城市。"
+}
+},
+"freq_per_million": 1883.4
+},
+{
+"id": "fr-core:0100",
+"word": "donner",
+"pos": "verbe",
+"gloss": {
+"zh": "给"
+},
+"example": {
+"text": "Je te donne un livre.",
+"gloss": {
+"zh": "我给你一本书。"
+}
+},
+"freq_per_million": 2105.7
+},
+{
+"id": "fr-core:0101",
+"word": "mettre",
+"pos": "verbe",
+"gloss": {
+"zh": "放；穿"
+},
+"example": {
+"text": "Je mets mon manteau.",
+"gloss": {
+"zh": "我穿上外套。"
+}
+},
+"freq_per_million": 2088.6
+},
+{
+"id": "fr-core:0102",
+"word": "comment",
+"pos": "adv",
+"gloss": {
+"zh": "怎么；如何"
+},
+"example": {
+"text": "Comment tu t'appelles ?",
+"gloss": {
+"zh": "你叫什么名字？"
+}
+},
+"freq_per_million": 1087.9
+},
+{
+"id": "fr-core:0103",
+"word": "attendre",
+"pos": "verbe",
+"gloss": {
+"zh": "等待"
+},
+"example": {
+"text": "J'attends le bus.",
+"gloss": {
+"zh": "我在等公交车。"
+}
+},
+"freq_per_million": 2058.2
+},
+{
+"id": "fr-core:0104",
+"word": "femme",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "女人；妻子"
+},
+"example": {
+"text": "Cette femme est médecin.",
+"gloss": {
+"zh": "这位女士是医生。"
+}
+},
+"freq_per_million": 2045.1
+},
+{
+"id": "fr-core:0105",
+"word": "fois",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "次；回"
+},
+"example": {
+"text": "Une fois par jour.",
+"gloss": {
+"zh": "每天一次。"
+}
+},
+"freq_per_million": 2039.2
+},
+{
+"id": "fr-core:0106",
+"word": "seul",
+"pos": "adj",
+"gloss": {
+"zh": "独自的；唯一的"
+},
+"example": {
+"text": "Je suis seul.",
+"gloss": {
+"zh": "我一个人。"
+}
+},
+"freq_per_million": 1806.7
+},
+{
+"id": "fr-core:0107",
+"word": "arriver",
+"pos": "verbe",
+"gloss": {
+"zh": "到达；发生"
+},
+"example": {
+"text": "J'arrive demain.",
+"gloss": {
+"zh": "我明天到。"
+}
+},
+"freq_per_million": 1975.5
+},
+{
+"id": "fr-core:0108",
+"word": "demander",
+"pos": "verbe",
+"gloss": {
+"zh": "问；要求"
+},
+"example": {
+"text": "Je demande l'heure.",
+"gloss": {
+"zh": "我问时间。"
+}
+},
+"freq_per_million": 1894.2
+},
+{
+"id": "fr-core:0109",
+"word": "vie",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "生活；生命"
+},
+"example": {
+"text": "La vie est belle.",
+"gloss": {
+"zh": "生活很美好。"
+}
+},
+"freq_per_million": 1874.5
+},
+{
+"id": "fr-core:0110",
+"word": "rester",
+"pos": "verbe",
+"gloss": {
+"zh": "留下；待着"
+},
+"example": {
+"text": "Je reste à la maison.",
+"gloss": {
+"zh": "我待在家里。"
+}
+},
+"freq_per_million": 1797.3
+},
+{
+"id": "fr-core:0111",
+"word": "après",
+"pos": "prép",
+"gloss": {
+"zh": "在……之后"
+},
+"example": {
+"text": "Après le travail.",
+"gloss": {
+"zh": "下班以后。"
+}
+},
+"freq_per_million": 1415.5
+},
+{
+"id": "fr-core:0112",
+"word": "main",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "手"
+},
+"example": {
+"text": "Lave-toi les mains.",
+"gloss": {
+"zh": "洗洗手。"
+}
+},
+"freq_per_million": 1729.0
+},
+{
+"id": "fr-core:0113",
+"word": "notre",
+"pos": "adj",
+"gloss": {
+"zh": "我们的（notre / nos）"
+},
+"example": {
+"text": "Notre maison est petite.",
+"gloss": {
+"zh": "我们的房子很小。"
+}
+},
+"freq_per_million": 1703.6
+},
+{
+"id": "fr-core:0114",
+"word": "trop",
+"pos": "adv",
+"gloss": {
+"zh": "太；过多"
+},
+"example": {
+"text": "C'est trop cher.",
+"gloss": {
+"zh": "这太贵了。"
+}
+},
+"freq_per_million": 1649.5
+},
+{
+"id": "fr-core:0115",
+"word": "œil",
+"pos": "nom",
+"article": "l'",
+"gloss": {
+"zh": "眼睛（复数 yeux）"
+},
+"example": {
+"text": "Il a les yeux bleus.",
+"gloss": {
+"zh": "他有一双蓝眼睛。"
+}
+},
+"freq_per_million": 1647.6
+},
+{
+"id": "fr-core:0116",
+"word": "heure",
+"pos": "nom",
+"article": "l'",
+"gloss": {
+"zh": "小时；钟点"
+},
+"example": {
+"text": "Quelle heure est-il ?",
+"gloss": {
+"zh": "现在几点？"
+}
+},
+"freq_per_million": 1633.8
+},
+{
+"id": "fr-core:0117",
+"word": "appeler",
+"pos": "verbe",
+"gloss": {
+"zh": "叫；打电话给"
+},
+"example": {
+"text": "Je t'appelle demain.",
+"gloss": {
+"zh": "我明天打电话给你。"
+}
+},
+"freq_per_million": 1630.8
+},
+{
+"id": "fr-core:0118",
+"word": "père",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "爸爸"
+},
+"example": {
+"text": "Mon père travaille.",
+"gloss": {
+"zh": "我爸爸在工作。"
+}
+},
+"freq_per_million": 1619.1
+},
+{
+"id": "fr-core:0119",
+"word": "quelque",
+"pos": "adj",
+"gloss": {
+"zh": "一些；几个"
+},
+"example": {
+"text": "Quelques minutes.",
+"gloss": {
+"zh": "几分钟。"
+}
+},
+"freq_per_million": 1442.4
+},
+{
+"id": "fr-core:0120",
+"word": "peut-être",
+"pos": "adv",
+"gloss": {
+"zh": "也许"
+},
+"example": {
+"text": "Peut-être demain.",
+"gloss": {
+"zh": "也许明天。"
+}
+},
+"freq_per_million": 1605.7
+},
+{
+"id": "fr-core:0121",
+"word": "partir",
+"pos": "verbe",
+"gloss": {
+"zh": "出发；离开"
+},
+"example": {
+"text": "Je pars à huit heures.",
+"gloss": {
+"zh": "我八点出发。"
+}
+},
+"freq_per_million": 1597.7
+},
+{
+"id": "fr-core:0122",
+"word": "connaître",
+"pos": "verbe",
+"gloss": {
+"zh": "认识；熟悉"
+},
+"example": {
+"text": "Je connais cette rue.",
+"gloss": {
+"zh": "我熟悉这条街。"
+}
+},
+"freq_per_million": 1590.3
+},
+{
+"id": "fr-core:0123",
+"word": "monde",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "世界；人们"
+},
+"example": {
+"text": "Il y a du monde.",
+"gloss": {
+"zh": "人很多。"
+}
+},
+"freq_per_million": 1572.1
+},
+{
+"id": "fr-core:0124",
+"word": "an",
+"pos": "nom",
+"article": "l'",
+"gloss": {
+"zh": "年；岁"
+},
+"example": {
+"text": "J'ai trente ans.",
+"gloss": {
+"zh": "我三十岁。"
+}
+},
+"freq_per_million": 1552.4
+},
+{
+"id": "fr-core:0125",
+"word": "sortir",
+"pos": "verbe",
+"gloss": {
+"zh": "出去；外出"
+},
+"example": {
+"text": "Je sors ce soir.",
+"gloss": {
+"zh": "我今晚出门。"
+}
+},
+"freq_per_million": 1511.8
+},
+{
+"id": "fr-core:0126",
+"word": "maintenant",
+"pos": "adv",
+"gloss": {
+"zh": "现在"
+},
+"example": {
+"text": "Maintenant, je mange.",
+"gloss": {
+"zh": "我现在在吃饭。"
+}
+},
+"freq_per_million": 1525.6
+},
+{
+"id": "fr-core:0127",
+"word": "avant",
+"pos": "prép",
+"gloss": {
+"zh": "在……之前"
+},
+"example": {
+"text": "Avant le dîner.",
+"gloss": {
+"zh": "晚饭之前。"
+}
+},
+"freq_per_million": 1103.8
+},
+{
+"id": "fr-core:0128",
+"word": "chez",
+"pos": "prép",
+"gloss": {
+"zh": "在……家；去……那里"
+},
+"example": {
+"text": "Je suis chez moi.",
+"gloss": {
+"zh": "我在家。"
+}
+},
+"freq_per_million": 1522.7
+},
+{
+"id": "fr-core:0129",
+"word": "comprendre",
+"pos": "verbe",
+"gloss": {
+"zh": "理解；听懂"
+},
+"example": {
+"text": "Je ne comprends pas.",
+"gloss": {
+"zh": "我听不懂。"
+}
+},
+"freq_per_million": 1508.3
+},
+{
+"id": "fr-core:0130",
+"word": "puis",
+"pos": "conj",
+"gloss": {
+"zh": "然后"
+},
+"example": {
+"text": "D'abord le pain, puis le fromage.",
+"gloss": {
+"zh": "先吃面包，再吃奶酪。"
+}
+},
+"freq_per_million": 1092.6
+},
+{
+"id": "fr-core:0131",
+"word": "enfant",
+"pos": "nom",
+"article": "l'",
+"gloss": {
+"zh": "孩子"
+},
+"example": {
+"text": "Un enfant joue.",
+"gloss": {
+"zh": "一个孩子在玩。"
+}
+},
+"freq_per_million": 1461.3
+},
+{
+"id": "fr-core:0132",
+"word": "arrêter",
+"pos": "verbe",
+"gloss": {
+"zh": "停止；停下"
+},
+"example": {
+"text": "Arrête, s'il te plaît.",
+"gloss": {
+"zh": "请停下。"
+}
+},
+"freq_per_million": 1456.3
+},
+{
+"id": "fr-core:0133",
+"word": "mère",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "妈妈"
+},
+"example": {
+"text": "Ma mère cuisine bien.",
+"gloss": {
+"zh": "我妈妈做饭很好吃。"
+}
+},
+"freq_per_million": 1448.1
+},
+{
+"id": "fr-core:0134",
+"word": "entendre",
+"pos": "verbe",
+"gloss": {
+"zh": "听见"
+},
+"example": {
+"text": "Je n'entends rien.",
+"gloss": {
+"zh": "我什么也听不见。"
+}
+},
+"freq_per_million": 1447.8
+},
+{
+"id": "fr-core:0135",
+"word": "fille",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "女儿；女孩"
+},
+"example": {
+"text": "Ma fille a six ans.",
+"gloss": {
+"zh": "我女儿六岁。"
+}
+},
+"freq_per_million": 1433.8
+},
+{
+"id": "fr-core:0136",
+"word": "leur",
+"pos": "adj",
+"gloss": {
+"zh": "他们的（leur / leurs）"
+},
+"example": {
+"text": "Leur maison est grande.",
+"gloss": {
+"zh": "他们的房子很大。"
+}
+},
+"freq_per_million": 711.3
+},
+{
+"id": "fr-core:0137",
+"word": "beau",
+"pos": "adj",
+"gloss": {
+"zh": "漂亮的；好看的"
+},
+"example": {
+"text": "Il fait beau.",
+"gloss": {
+"zh": "天气很好。"
+}
+},
+"freq_per_million": 1291.9
+},
+{
+"id": "fr-core:0138",
+"word": "merci",
+"pos": "interj",
+"gloss": {
+"zh": "谢谢"
+},
+"example": {
+"text": "Merci beaucoup.",
+"gloss": {
+"zh": "非常感谢。"
+}
+},
+"freq_per_million": 978.4
+},
+{
+"id": "fr-core:0139",
+"word": "tête",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "头"
+},
+"example": {
+"text": "J'ai mal à la tête.",
+"gloss": {
+"zh": "我头疼。"
+}
+},
+"freq_per_million": 1399.3
+},
+{
+"id": "fr-core:0140",
+"word": "déjà",
+"pos": "adv",
+"gloss": {
+"zh": "已经"
+},
+"example": {
+"text": "Tu as déjà mangé ?",
+"gloss": {
+"zh": "你已经吃过了吗？"
+}
+},
+"freq_per_million": 1384.1
+},
+{
+"id": "fr-core:0141",
+"word": "personne",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "人；没有人"
+},
+"example": {
+"text": "Il n'y a personne.",
+"gloss": {
+"zh": "没有人。"
+}
+},
+"freq_per_million": 889.8
+},
+{
+"id": "fr-core:0142",
+"word": "premier",
+"pos": "adj",
+"gloss": {
+"zh": "第一的"
+},
+"example": {
+"text": "C'est la première fois.",
+"gloss": {
+"zh": "这是第一次。"
+}
+},
+"freq_per_million": 1049.6
+},
+{
+"id": "fr-core:0143",
+"word": "sûr",
+"pos": "adj",
+"gloss": {
+"zh": "确定的；安全的"
+},
+"example": {
+"text": "Je suis sûr.",
+"gloss": {
+"zh": "我确定。"
+}
+},
+"freq_per_million": 1356.5
+},
+{
+"id": "fr-core:0144",
+"word": "mal",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "痛；坏处"
+},
+"example": {
+"text": "J'ai mal au dos.",
+"gloss": {
+"zh": "我背疼。"
+}
+},
+"freq_per_million": 803.4
+},
+{
+"id": "fr-core:0145",
+"word": "sous",
+"pos": "prép",
+"gloss": {
+"zh": "在……下面"
+},
+"example": {
+"text": "Le chat est sous la table.",
+"gloss": {
+"zh": "猫在桌子下面。"
+}
+},
+"freq_per_million": 1348.2
+},
+{
+"id": "fr-core:0146",
+"word": "nuit",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "夜晚"
+},
+"example": {
+"text": "Bonne nuit !",
+"gloss": {
+"zh": "晚安！"
+}
+},
+"freq_per_million": 1324.8
+},
+{
+"id": "fr-core:0147",
+"word": "vrai",
+"pos": "adj",
+"gloss": {
+"zh": "真的"
+},
+"example": {
+"text": "C'est vrai.",
+"gloss": {
+"zh": "这是真的。"
+}
+},
+"freq_per_million": 1237.1
+},
+{
+"id": "fr-core:0148",
+"word": "coup",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "一下；打击"
+},
+"example": {
+"text": "Un coup de téléphone.",
+"gloss": {
+"zh": "一个电话。"
+}
+},
+"freq_per_million": 1309.5
+},
+{
+"id": "fr-core:0149",
+"word": "depuis",
+"pos": "prép",
+"gloss": {
+"zh": "自从；已经（多久）"
+},
+"example": {
+"text": "J'habite ici depuis un an.",
+"gloss": {
+"zh": "我在这里住了一年了。"
+}
+},
+"freq_per_million": 1026.6
+},
+{
+"id": "fr-core:0150",
+"word": "vers",
+"pos": "prép",
+"gloss": {
+"zh": "朝；大约（时间）"
+},
+"example": {
+"text": "Je viens vers huit heures.",
+"gloss": {
+"zh": "我八点左右来。"
+}
+},
+"freq_per_million": 1183.9
+},
+{
+"id": "fr-core:0151",
+"word": "sentir",
+"pos": "verbe",
+"gloss": {
+"zh": "感觉；闻"
+},
+"example": {
+"text": "Je me sens bien.",
+"gloss": {
+"zh": "我感觉很好。"
+}
+},
+"freq_per_million": 1254.2
+},
+{
+"id": "fr-core:0152",
+"word": "tenir",
+"pos": "verbe",
+"gloss": {
+"zh": "拿着；握住"
+},
+"example": {
+"text": "Tiens, voilà ton café.",
+"gloss": {
+"zh": "来，这是你的咖啡。"
+}
+},
+"freq_per_million": 1245.9
+},
+{
+"id": "fr-core:0153",
+"word": "vraiment",
+"pos": "adv",
+"gloss": {
+"zh": "真地；确实"
+},
+"example": {
+"text": "C'est vraiment bon.",
+"gloss": {
+"zh": "这真的很好。"
+}
+},
+"freq_per_million": 1242.9
+},
+{
+"id": "fr-core:0154",
+"word": "cela",
+"pos": "pron",
+"gloss": {
+"zh": "这个；那个"
+},
+"example": {
+"text": "Cela m'est égal.",
+"gloss": {
+"zh": "这对我无所谓。"
+}
+},
+"freq_per_million": 1234.4
+},
+{
+"id": "fr-core:0155",
+"word": "moins",
+"pos": "adv",
+"gloss": {
+"zh": "更少；减"
+},
+"example": {
+"text": "Moins cher.",
+"gloss": {
+"zh": "更便宜。"
+}
+},
+"freq_per_million": 1196.9
+},
+{
+"id": "fr-core:0156",
+"word": "juste",
+"pos": "adj",
+"gloss": {
+"zh": "公正的；刚好"
+},
+"example": {
+"text": "C'est juste.",
+"gloss": {
+"zh": "这很公平。"
+}
+},
+"freq_per_million": 810.3
+},
+{
+"id": "fr-core:0157",
+"word": "entre",
+"pos": "prép",
+"gloss": {
+"zh": "在……之间"
+},
+"example": {
+"text": "Entre deux et trois heures.",
+"gloss": {
+"zh": "两点到三点之间。"
+}
+},
+"freq_per_million": 1206.7
+},
+{
+"id": "fr-core:0158",
+"word": "ami",
+"pos": "nom",
+"article": "l'",
+"gloss": {
+"zh": "朋友"
+},
+"example": {
+"text": "C'est mon ami.",
+"gloss": {
+"zh": "这是我的朋友。"
+}
+},
+"freq_per_million": 1102.1
+},
+{
+"id": "fr-core:0159",
+"word": "maison",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "房子；家"
+},
+"example": {
+"text": "Ma maison est petite.",
+"gloss": {
+"zh": "我的房子很小。"
+}
+},
+"freq_per_million": 1181.1
+},
+{
+"id": "fr-core:0160",
+"word": "air",
+"pos": "nom",
+"article": "l'",
+"gloss": {
+"zh": "空气；神情"
+},
+"example": {
+"text": "J'ai besoin d'air.",
+"gloss": {
+"zh": "我需要新鲜空气。"
+}
+},
+"freq_per_million": 1176.0
+},
+{
+"id": "fr-core:0161",
+"word": "chercher",
+"pos": "verbe",
+"gloss": {
+"zh": "找；寻找"
+},
+"example": {
+"text": "Je cherche mes clés.",
+"gloss": {
+"zh": "我在找钥匙。"
+}
+},
+"freq_per_million": 1161.5
+},
+{
+"id": "fr-core:0162",
+"word": "mieux",
+"pos": "adv",
+"gloss": {
+"zh": "更好"
+},
+"example": {
+"text": "Ça va mieux.",
+"gloss": {
+"zh": "好多了。"
+}
+},
+"freq_per_million": 1050.1
+},
+{
+"id": "fr-core:0163",
+"word": "soir",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "晚上"
+},
+"example": {
+"text": "Bonsoir ! Ce soir, je reste ici.",
+"gloss": {
+"zh": "晚上好！今晚我待在这里。"
+}
+},
+"freq_per_million": 1138.3
+},
+{
+"id": "fr-core:0164",
+"word": "vieux",
+"pos": "adj",
+"gloss": {
+"zh": "老的；旧的"
+},
+"example": {
+"text": "Un vieux livre.",
+"gloss": {
+"zh": "一本旧书。"
+}
+},
+"freq_per_million": 795.1
+},
+{
+"id": "fr-core:0165",
+"word": "moment",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "时刻；一会儿"
+},
+"example": {
+"text": "Un moment, s'il vous plaît.",
+"gloss": {
+"zh": "请稍等。"
+}
+},
+"freq_per_million": 1121.8
+},
+{
+"id": "fr-core:0166",
+"word": "revenir",
+"pos": "verbe",
+"gloss": {
+"zh": "回来"
+},
+"example": {
+"text": "Je reviens tout de suite.",
+"gloss": {
+"zh": "我马上回来。"
+}
+},
+"freq_per_million": 1109.2
+},
+{
+"id": "fr-core:0167",
+"word": "beaucoup",
+"pos": "adv",
+"gloss": {
+"zh": "很多；非常"
+},
+"example": {
+"text": "Merci beaucoup.",
+"gloss": {
+"zh": "非常感谢。"
+}
+},
+"freq_per_million": 1087.4
+},
+{
+"id": "fr-core:0168",
+"word": "monsieur",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "先生"
+},
+"example": {
+"text": "Bonjour, monsieur.",
+"gloss": {
+"zh": "您好，先生。"
+}
+},
+"freq_per_million": 1064.0
+},
+{
+"id": "fr-core:0169",
+"word": "donc",
+"pos": "conj",
+"gloss": {
+"zh": "所以；那么"
+},
+"example": {
+"text": "Je pense, donc je suis.",
+"gloss": {
+"zh": "我思故我在。"
+}
+},
+"freq_per_million": 1058.4
+},
+{
+"id": "fr-core:0170",
+"word": "voilà",
+"pos": "prép",
+"gloss": {
+"zh": "这就是；你看"
+},
+"example": {
+"text": "Voilà ton café.",
+"gloss": {
+"zh": "这是你的咖啡。"
+}
+},
+"freq_per_million": 1055.6
+},
+{
+"id": "fr-core:0171",
+"word": "devant",
+"pos": "prép",
+"gloss": {
+"zh": "在……前面"
+},
+"example": {
+"text": "Devant la porte.",
+"gloss": {
+"zh": "在门前。"
+}
+},
+"freq_per_million": 898.5
+},
+{
+"id": "fr-core:0172",
+"word": "trois",
+"pos": "adj",
+"gloss": {
+"zh": "三"
+},
+"example": {
+"text": "Trois cafés, s'il vous plaît.",
+"gloss": {
+"zh": "请给我三杯咖啡。"
+}
+},
+"freq_per_million": 1041.1
+},
+{
+"id": "fr-core:0173",
+"word": "ni",
+"pos": "conj",
+"gloss": {
+"zh": "也不（ni ... ni ...）"
+},
+"example": {
+"text": "Ni thé ni café.",
+"gloss": {
+"zh": "既不要茶也不要咖啡。"
+}
+},
+"freq_per_million": 1040.0
+},
+{
+"id": "fr-core:0174",
+"word": "besoin",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "需要"
+},
+"example": {
+"text": "J'ai besoin d'aide.",
+"gloss": {
+"zh": "我需要帮助。"
+}
+},
+"freq_per_million": 1037.9
+},
+{
+"id": "fr-core:0175",
+"word": "gens",
+"pos": "nom",
+"article": "les",
+"gloss": {
+"zh": "人们"
+},
+"example": {
+"text": "Les gens sont gentils.",
+"gloss": {
+"zh": "人们很友好。"
+}
+},
+"freq_per_million": 1003.7
+},
+{
+"id": "fr-core:0176",
+"word": "dernier",
+"pos": "adj",
+"gloss": {
+"zh": "最后的；上一个"
+},
+"example": {
+"text": "Le dernier bus.",
+"gloss": {
+"zh": "末班公交车。"
+}
+},
+"freq_per_million": 834.2
+},
+{
+"id": "fr-core:0177",
+"word": "vivre",
+"pos": "verbe",
+"gloss": {
+"zh": "生活；居住"
+},
+"example": {
+"text": "Je vis à Lyon.",
+"gloss": {
+"zh": "我住在里昂。"
+}
+},
+"freq_per_million": 970.5
+},
+{
+"id": "fr-core:0178",
+"word": "devenir",
+"pos": "verbe",
+"gloss": {
+"zh": "变成；成为"
+},
+"example": {
+"text": "Il devient grand.",
+"gloss": {
+"zh": "他长大了。"
+}
+},
+"freq_per_million": 972.1
+},
+{
+"id": "fr-core:0179",
+"word": "rendre",
+"pos": "verbe",
+"gloss": {
+"zh": "归还；使得"
+},
+"example": {
+"text": "Je rends le livre.",
+"gloss": {
+"zh": "我还书。"
+}
+},
+"freq_per_million": 976.9
+},
+{
+"id": "fr-core:0180",
+"word": "finir",
+"pos": "verbe",
+"gloss": {
+"zh": "结束；完成"
+},
+"example": {
+"text": "Je finis à six heures.",
+"gloss": {
+"zh": "我六点结束。"
+}
+},
+"freq_per_million": 975.6
+},
+{
+"id": "fr-core:0181",
+"word": "jeune",
+"pos": "adj",
+"gloss": {
+"zh": "年轻的"
+},
+"example": {
+"text": "Elle est jeune.",
+"gloss": {
+"zh": "她很年轻。"
+}
+},
+"freq_per_million": 866.2
+},
+{
+"id": "fr-core:0182",
+"word": "essayer",
+"pos": "verbe",
+"gloss": {
+"zh": "试；尝试"
+},
+"example": {
+"text": "J'essaie encore.",
+"gloss": {
+"zh": "我再试一次。"
+}
+},
+"freq_per_million": 967.1
+},
+{
+"id": "fr-core:0183",
+"word": "nom",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "名字；名词"
+},
+"example": {
+"text": "Quel est votre nom ?",
+"gloss": {
+"zh": "您叫什么名字？"
+}
+},
+"freq_per_million": 965.7
+},
+{
+"id": "fr-core:0184",
+"word": "porte",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "门"
+},
+"example": {
+"text": "Ferme la porte.",
+"gloss": {
+"zh": "关上门。"
+}
+},
+"freq_per_million": 951.3
+},
+{
+"id": "fr-core:0185",
+"word": "perdre",
+"pos": "verbe",
+"gloss": {
+"zh": "丢失；输"
+},
+"example": {
+"text": "J'ai perdu mes clés.",
+"gloss": {
+"zh": "我丢了钥匙。"
+}
+},
+"freq_per_million": 923.4
+},
+{
+"id": "fr-core:0186",
+"word": "quel",
+"pos": "adj",
+"gloss": {
+"zh": "哪个；什么样的"
+},
+"example": {
+"text": "Quel jour sommes-nous ?",
+"gloss": {
+"zh": "今天几号？"
+}
+},
+"freq_per_million": 923.0
+},
+{
+"id": "fr-core:0187",
+"word": "nouveau",
+"pos": "adj",
+"gloss": {
+"zh": "新的"
+},
+"example": {
+"text": "Un nouveau travail.",
+"gloss": {
+"zh": "一份新工作。"
+}
+},
+"freq_per_million": 522.4
+},
+{
+"id": "fr-core:0188",
+"word": "contre",
+"pos": "prép",
+"gloss": {
+"zh": "反对；靠着"
+},
+"example": {
+"text": "Je suis contre.",
+"gloss": {
+"zh": "我反对。"
+}
+},
+"freq_per_million": 904.9
+},
+{
+"id": "fr-core:0189",
+"word": "jouer",
+"pos": "verbe",
+"gloss": {
+"zh": "玩；演奏"
+},
+"example": {
+"text": "Les enfants jouent.",
+"gloss": {
+"zh": "孩子们在玩。"
+}
+},
+"freq_per_million": 907.4
+},
+{
+"id": "fr-core:0190",
+"word": "ouvrir",
+"pos": "verbe",
+"gloss": {
+"zh": "打开"
+},
+"example": {
+"text": "Ouvre la fenêtre.",
+"gloss": {
+"zh": "打开窗户。"
+}
+},
+"freq_per_million": 905.8
+},
+{
+"id": "fr-core:0191",
+"word": "accord",
+"pos": "nom",
+"article": "l'",
+"gloss": {
+"zh": "同意；一致"
+},
+"example": {
+"text": "D'accord.",
+"gloss": {
+"zh": "好的。"
+}
+},
+"freq_per_million": 902.4
+},
+{
+"id": "fr-core:0192",
+"word": "peur",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "害怕"
+},
+"example": {
+"text": "J'ai peur.",
+"gloss": {
+"zh": "我害怕。"
+}
+},
+"freq_per_million": 868.9
+},
+{
+"id": "fr-core:0193",
+"word": "amour",
+"pos": "nom",
+"article": "l'",
+"gloss": {
+"zh": "爱"
+},
+"example": {
+"text": "L'amour est beau.",
+"gloss": {
+"zh": "爱是美好的。"
+}
+},
+"freq_per_million": 862.2
+},
+{
+"id": "fr-core:0194",
+"word": "commencer",
+"pos": "verbe",
+"gloss": {
+"zh": "开始"
+},
+"example": {
+"text": "Le cours commence à neuf heures.",
+"gloss": {
+"zh": "课九点开始。"
+}
+},
+"freq_per_million": 858.7
+},
+{
+"id": "fr-core:0195",
+"word": "côté",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "边；旁边"
+},
+"example": {
+"text": "À côté de la gare.",
+"gloss": {
+"zh": "在车站旁边。"
+}
+},
+"freq_per_million": 852.5
+},
+{
+"id": "fr-core:0196",
+"word": "fait",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "事实"
+},
+"example": {
+"text": "C'est un fait.",
+"gloss": {
+"zh": "这是个事实。"
+}
+},
+"freq_per_million": 767.6
+},
+{
+"id": "fr-core:0197",
+"word": "tomber",
+"pos": "verbe",
+"gloss": {
+"zh": "掉落；摔倒"
+},
+"example": {
+"text": "Il tombe de la neige.",
+"gloss": {
+"zh": "下雪了。"
+}
+},
+"freq_per_million": 849.2
+},
+{
+"id": "fr-core:0198",
+"word": "entrer",
+"pos": "verbe",
+"gloss": {
+"zh": "进入"
+},
+"example": {
+"text": "Entrez, s'il vous plaît.",
+"gloss": {
+"zh": "请进。"
+}
+},
+"freq_per_million": 848.5
+},
+{
+"id": "fr-core:0199",
+"word": "aider",
+"pos": "verbe",
+"gloss": {
+"zh": "帮助"
+},
+"example": {
+"text": "Peux-tu m'aider ?",
+"gloss": {
+"zh": "你能帮我吗？"
+}
+},
+"freq_per_million": 847.4
+},
+{
+"id": "fr-core:0200",
+"word": "vite",
+"pos": "adv",
+"gloss": {
+"zh": "快；迅速"
+},
+"example": {
+"text": "Viens vite !",
+"gloss": {
+"zh": "快来！"
+}
+},
+"freq_per_million": 843.5
+},
+{
+"id": "fr-core:0201",
+"word": "mot",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "词；单词"
+},
+"example": {
+"text": "Un mot français.",
+"gloss": {
+"zh": "一个法语单词。"
+}
+},
+"freq_per_million": 833.3
+},
+{
+"id": "fr-core:0202",
+"word": "assez",
+"pos": "adv",
+"gloss": {
+"zh": "足够；相当"
+},
+"example": {
+"text": "C'est assez grand.",
+"gloss": {
+"zh": "这足够大了。"
+}
+},
+"freq_per_million": 827.9
+},
+{
+"id": "fr-core:0203",
+"word": "noir",
+"pos": "adj",
+"gloss": {
+"zh": "黑色的"
+},
+"example": {
+"text": "Un chat noir.",
+"gloss": {
+"zh": "一只黑猫。"
+}
+},
+"freq_per_million": 627.0
+},
+{
+"id": "fr-core:0204",
+"word": "tant",
+"pos": "adv",
+"gloss": {
+"zh": "那么多；如此"
+},
+"example": {
+"text": "Merci tant !",
+"gloss": {
+"zh": "多谢！"
+}
+},
+"freq_per_million": 816.8
+},
+{
+"id": "fr-core:0205",
+"word": "rentrer",
+"pos": "verbe",
+"gloss": {
+"zh": "回家；回来"
+},
+"example": {
+"text": "Je rentre à six heures.",
+"gloss": {
+"zh": "我六点回家。"
+}
+},
+"freq_per_million": 812.4
+},
+{
+"id": "fr-core:0206",
+"word": "long",
+"pos": "adj",
+"gloss": {
+"zh": "长的"
+},
+"example": {
+"text": "Un long voyage.",
+"gloss": {
+"zh": "一次长途旅行。"
+}
+},
+"freq_per_million": 608.9
+},
+{
+"id": "fr-core:0207",
+"word": "sembler",
+"pos": "verbe",
+"gloss": {
+"zh": "似乎"
+},
+"example": {
+"text": "Il semble fatigué.",
+"gloss": {
+"zh": "他好像累了。"
+}
+},
+"freq_per_million": 802.1
+},
+{
+"id": "fr-core:0208",
+"word": "porter",
+"pos": "verbe",
+"gloss": {
+"zh": "带；穿；搬"
+},
+"example": {
+"text": "Elle porte un manteau.",
+"gloss": {
+"zh": "她穿着外套。"
+}
+},
+"freq_per_million": 794.9
+},
+{
+"id": "fr-core:0209",
+"word": "écouter",
+"pos": "verbe",
+"gloss": {
+"zh": "听；倾听"
+},
+"example": {
+"text": "J'écoute la radio.",
+"gloss": {
+"zh": "我在听收音机。"
+}
+},
+"freq_per_million": 785.0
+},
+{
+"id": "fr-core:0210",
+"word": "pendant",
+"pos": "prép",
+"gloss": {
+"zh": "在……期间"
+},
+"example": {
+"text": "Pendant une heure.",
+"gloss": {
+"zh": "一个小时。"
+}
+},
+"freq_per_million": 762.8
+},
+{
+"id": "fr-core:0211",
+"word": "raison",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "理由；道理"
+},
+"example": {
+"text": "Tu as raison.",
+"gloss": {
+"zh": "你说得对。"
+}
+},
+"freq_per_million": 776.7
+},
+{
+"id": "fr-core:0212",
+"word": "oublier",
+"pos": "verbe",
+"gloss": {
+"zh": "忘记"
+},
+"example": {
+"text": "J'oublie toujours son nom.",
+"gloss": {
+"zh": "我总是忘记他的名字。"
+}
+},
+"freq_per_million": 773.9
+},
+{
+"id": "fr-core:0213",
+"word": "place",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "位置；广场"
+},
+"example": {
+"text": "Il y a une place libre.",
+"gloss": {
+"zh": "有个空位。"
+}
+},
+"freq_per_million": 769.9
+},
+{
+"id": "fr-core:0214",
+"word": "eau",
+"pos": "nom",
+"article": "l'",
+"gloss": {
+"zh": "水"
+},
+"example": {
+"text": "Un verre d'eau, s'il vous plaît.",
+"gloss": {
+"zh": "请给我一杯水。"
+}
+},
+"freq_per_million": 765.6
+},
+{
+"id": "fr-core:0215",
+"word": "manger",
+"pos": "verbe",
+"gloss": {
+"zh": "吃"
+},
+"example": {
+"text": "Je mange du pain.",
+"gloss": {
+"zh": "我吃面包。"
+}
+},
+"freq_per_million": 748.4
+},
+{
+"id": "fr-core:0216",
+"word": "quelqu'un",
+"pos": "pron",
+"gloss": {
+"zh": "某人"
+},
+"example": {
+"text": "Quelqu'un est là ?",
+"gloss": {
+"zh": "有人在吗？"
+}
+},
+"freq_per_million": 757.9
+},
+{
+"id": "fr-core:0217",
+"word": "terre",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "地；地球"
+},
+"example": {
+"text": "La Terre est ronde.",
+"gloss": {
+"zh": "地球是圆的。"
+}
+},
+"freq_per_million": 747.4
+},
+{
+"id": "fr-core:0218",
+"word": "tard",
+"pos": "adv",
+"gloss": {
+"zh": "晚"
+},
+"example": {
+"text": "Il est tard.",
+"gloss": {
+"zh": "很晚了。"
+}
+},
+"freq_per_million": 694.6
+},
+{
+"id": "fr-core:0219",
+"word": "plaire",
+"pos": "verbe",
+"gloss": {
+"zh": "使喜欢（s'il vous plaît）"
+},
+"example": {
+"text": "Ça me plaît.",
+"gloss": {
+"zh": "我喜欢这个。"
+}
+},
+"freq_per_million": 747.0
+},
+{
+"id": "fr-core:0220",
+"word": "plein",
+"pos": "adj",
+"gloss": {
+"zh": "满的"
+},
+"example": {
+"text": "Le verre est plein.",
+"gloss": {
+"zh": "杯子是满的。"
+}
+},
+"freq_per_million": 579.2
+},
+{
+"id": "fr-core:0221",
+"word": "voix",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "声音；嗓音"
+},
+"example": {
+"text": "Elle a une belle voix.",
+"gloss": {
+"zh": "她嗓音很好听。"
+}
+},
+"freq_per_million": 743.5
+},
+{
+"id": "fr-core:0222",
+"word": "car",
+"pos": "conj",
+"gloss": {
+"zh": "因为"
+},
+"example": {
+"text": "Je reste, car il pleut.",
+"gloss": {
+"zh": "我留下，因为下雨。"
+}
+},
+"freq_per_million": 706.5
+},
+{
+"id": "fr-core:0223",
+"word": "question",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "问题"
+},
+"example": {
+"text": "J'ai une question.",
+"gloss": {
+"zh": "我有一个问题。"
+}
+},
+"freq_per_million": 740.3
+},
+{
+"id": "fr-core:0224",
+"word": "chaque",
+"pos": "adj",
+"gloss": {
+"zh": "每一个"
+},
+"example": {
+"text": "Chaque jour.",
+"gloss": {
+"zh": "每一天。"
+}
+},
+"freq_per_million": 732.6
+},
+{
+"id": "fr-core:0225",
+"word": "corps",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "身体"
+},
+"example": {
+"text": "Le corps humain.",
+"gloss": {
+"zh": "人的身体。"
+}
+},
+"freq_per_million": 730.5
+},
+{
+"id": "fr-core:0226",
+"word": "fils",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "儿子"
+},
+"example": {
+"text": "Mon fils a dix ans.",
+"gloss": {
+"zh": "我儿子十岁。"
+}
+},
+"freq_per_million": 727.8
+},
+{
+"id": "fr-core:0227",
+"word": "argent",
+"pos": "nom",
+"article": "l'",
+"gloss": {
+"zh": "钱；银"
+},
+"example": {
+"text": "Je n'ai pas d'argent.",
+"gloss": {
+"zh": "我没有钱。"
+}
+},
+"freq_per_million": 709.5
+},
+{
+"id": "fr-core:0228",
+"word": "rue",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "街道"
+},
+"example": {
+"text": "J'habite dans cette rue.",
+"gloss": {
+"zh": "我住在这条街上。"
+}
+},
+"freq_per_million": 720.8
+},
+{
+"id": "fr-core:0229",
+"word": "histoire",
+"pos": "nom",
+"article": "l'",
+"gloss": {
+"zh": "故事；历史"
+},
+"example": {
+"text": "J'aime cette histoire.",
+"gloss": {
+"zh": "我喜欢这个故事。"
+}
+},
+"freq_per_million": 719.5
+},
+{
+"id": "fr-core:0230",
+"word": "répondre",
+"pos": "verbe",
+"gloss": {
+"zh": "回答"
+},
+"example": {
+"text": "Je réponds au téléphone.",
+"gloss": {
+"zh": "我接电话。"
+}
+},
+"freq_per_million": 718.3
+},
+{
+"id": "fr-core:0231",
+"word": "idée",
+"pos": "nom",
+"article": "l'",
+"gloss": {
+"zh": "主意；想法"
+},
+"example": {
+"text": "Bonne idée !",
+"gloss": {
+"zh": "好主意！"
+}
+},
+"freq_per_million": 718.2
+},
+{
+"id": "fr-core:0232",
+"word": "asseoir",
+"pos": "verbe",
+"gloss": {
+"zh": "使坐下（s'asseoir）"
+},
+"example": {
+"text": "Assieds-toi, s'il te plaît.",
+"gloss": {
+"zh": "请坐。"
+}
+},
+"freq_per_million": 718.0
+},
+{
+"id": "fr-core:0233",
+"word": "voiture",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "汽车"
+},
+"example": {
+"text": "Ma voiture est rouge.",
+"gloss": {
+"zh": "我的车是红色的。"
+}
+},
+"freq_per_million": 712.5
+},
+{
+"id": "fr-core:0234",
+"word": "retrouver",
+"pos": "verbe",
+"gloss": {
+"zh": "找回；重逢"
+},
+"example": {
+"text": "Je retrouve mes amis.",
+"gloss": {
+"zh": "我和朋友们重聚。"
+}
+},
+"freq_per_million": 711.4
+},
+{
+"id": "fr-core:0235",
+"word": "visage",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "脸"
+},
+"example": {
+"text": "Un visage souriant.",
+"gloss": {
+"zh": "一张微笑的脸。"
+}
+},
+"freq_per_million": 706.2
+},
+{
+"id": "fr-core:0236",
+"word": "enfin",
+"pos": "adv",
+"gloss": {
+"zh": "终于；最后"
+},
+"example": {
+"text": "Enfin, tu arrives !",
+"gloss": {
+"zh": "你终于到了！"
+}
+},
+"freq_per_million": 706.1
+},
+{
+"id": "fr-core:0237",
+"word": "chambre",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "卧室；房间"
+},
+"example": {
+"text": "Ma chambre est petite.",
+"gloss": {
+"zh": "我的卧室很小。"
+}
+},
+"freq_per_million": 702.0
+},
+{
+"id": "fr-core:0238",
+"word": "loin",
+"pos": "adv",
+"gloss": {
+"zh": "远"
+},
+"example": {
+"text": "C'est loin d'ici.",
+"gloss": {
+"zh": "这离这儿很远。"
+}
+},
+"freq_per_million": 700.7
+},
+{
+"id": "fr-core:0239",
+"word": "pied",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "脚"
+},
+"example": {
+"text": "J'ai mal au pied.",
+"gloss": {
+"zh": "我脚疼。"
+}
+},
+"freq_per_million": 700.5
+},
+{
+"id": "fr-core:0240",
+"word": "année",
+"pos": "nom",
+"article": "l'",
+"gloss": {
+"zh": "年（整年）"
+},
+"example": {
+"text": "Bonne année !",
+"gloss": {
+"zh": "新年快乐！"
+}
+},
+"freq_per_million": 691.8
+},
+{
+"id": "fr-core:0241",
+"word": "gros",
+"pos": "adj",
+"gloss": {
+"zh": "胖的；大的"
+},
+"example": {
+"text": "Un gros chien.",
+"gloss": {
+"zh": "一只大狗。"
+}
+},
+"freq_per_million": 620.4
+},
+{
+"id": "fr-core:0242",
+"word": "marcher",
+"pos": "verbe",
+"gloss": {
+"zh": "走路；运转"
+},
+"example": {
+"text": "Je marche dans le parc.",
+"gloss": {
+"zh": "我在公园里散步。"
+}
+},
+"freq_per_million": 690.0
+},
+{
+"id": "fr-core:0243",
+"word": "maman",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "妈妈（口语）"
+},
+"example": {
+"text": "Maman arrive.",
+"gloss": {
+"zh": "妈妈来了。"
+}
+},
+"freq_per_million": 684.6
+},
+{
+"id": "fr-core:0244",
+"word": "travailler",
+"pos": "verbe",
+"gloss": {
+"zh": "工作"
+},
+"example": {
+"text": "Je travaille à Lyon.",
+"gloss": {
+"zh": "我在里昂工作。"
+}
+},
+"freq_per_million": 682.2
+},
+{
+"id": "fr-core:0245",
+"word": "monter",
+"pos": "verbe",
+"gloss": {
+"zh": "上去；登上"
+},
+"example": {
+"text": "Je monte dans le bus.",
+"gloss": {
+"zh": "我上公交车。"
+}
+},
+"freq_per_million": 681.9
+},
+{
+"id": "fr-core:0246",
+"word": "seulement",
+"pos": "adv",
+"gloss": {
+"zh": "只；仅仅"
+},
+"example": {
+"text": "J'ai seulement dix dollars.",
+"gloss": {
+"zh": "我只有十块钱。"
+}
+},
+"freq_per_million": 677.2
+},
+{
+"id": "fr-core:0247",
+"word": "ainsi",
+"pos": "adv",
+"gloss": {
+"zh": "这样；因此"
+},
+"example": {
+"text": "C'est ainsi.",
+"gloss": {
+"zh": "就是这样。"
+}
+},
+"freq_per_million": 677.1
+},
+{
+"id": "fr-core:0248",
+"word": "droit",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "权利；法律"
+},
+"example": {
+"text": "Le droit de vote.",
+"gloss": {
+"zh": "投票权。"
+}
+},
+"freq_per_million": 371.3
+},
+{
+"id": "fr-core:0249",
+"word": "matin",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "早晨"
+},
+"example": {
+"text": "Ce matin, je travaille.",
+"gloss": {
+"zh": "今天早上我工作。"
+}
+},
+"freq_per_million": 671.8
+},
+{
+"id": "fr-core:0250",
+"word": "blanc",
+"pos": "adj",
+"gloss": {
+"zh": "白色的"
+},
+"example": {
+"text": "Du vin blanc.",
+"gloss": {
+"zh": "白葡萄酒。"
+}
+},
+"freq_per_million": 549.3
+},
+{
+"id": "fr-core:0251",
+"word": "famille",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "家庭；家人"
+},
+"example": {
+"text": "Ma famille est grande.",
+"gloss": {
+"zh": "我的家庭很大。"
+}
+},
+"freq_per_million": 659.3
+},
+{
+"id": "fr-core:0252",
+"word": "changer",
+"pos": "verbe",
+"gloss": {
+"zh": "改变；更换"
+},
+"example": {
+"text": "Je change de train.",
+"gloss": {
+"zh": "我换乘火车。"
+}
+},
+"freq_per_million": 658.5
+},
+{
+"id": "fr-core:0253",
+"word": "point",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "点；分"
+},
+"example": {
+"text": "Un point important.",
+"gloss": {
+"zh": "一个重要的点。"
+}
+},
+"freq_per_million": 548.9
+},
+{
+"id": "fr-core:0254",
+"word": "fin",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "结束"
+},
+"example": {
+"text": "La fin du film.",
+"gloss": {
+"zh": "电影的结尾。"
+}
+},
+"freq_per_million": 527.9
+},
+{
+"id": "fr-core:0255",
+"word": "près",
+"pos": "adv",
+"gloss": {
+"zh": "近"
+},
+"example": {
+"text": "C'est près d'ici.",
+"gloss": {
+"zh": "这离这儿很近。"
+}
+},
+"freq_per_million": 419.5
+},
+{
+"id": "fr-core:0256",
+"word": "rire",
+"pos": "verbe",
+"gloss": {
+"zh": "笑"
+},
+"example": {
+"text": "Elle aime rire.",
+"gloss": {
+"zh": "她爱笑。"
+}
+},
+"freq_per_million": 460.8
+},
+{
+"id": "fr-core:0257",
+"word": "travail",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "工作"
+},
+"example": {
+"text": "J'ai beaucoup de travail.",
+"gloss": {
+"zh": "我有很多工作。"
+}
+},
+"freq_per_million": 653.3
+},
+{
+"id": "fr-core:0258",
+"word": "dormir",
+"pos": "verbe",
+"gloss": {
+"zh": "睡觉"
+},
+"example": {
+"text": "Je dors huit heures.",
+"gloss": {
+"zh": "我睡八个小时。"
+}
+},
+"freq_per_million": 651.1
+},
+{
+"id": "fr-core:0259",
+"word": "ville",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "城市"
+},
+"example": {
+"text": "Une grande ville.",
+"gloss": {
+"zh": "一座大城市。"
+}
+},
+"freq_per_million": 648.1
+},
+{
+"id": "fr-core:0260",
+"word": "écrire",
+"pos": "verbe",
+"gloss": {
+"zh": "写"
+},
+"example": {
+"text": "J'écris un message.",
+"gloss": {
+"zh": "我在写信息。"
+}
+},
+"freq_per_million": 647.7
+},
+{
+"id": "fr-core:0261",
+"word": "presque",
+"pos": "adv",
+"gloss": {
+"zh": "几乎"
+},
+"example": {
+"text": "C'est presque fini.",
+"gloss": {
+"zh": "差不多完成了。"
+}
+},
+"freq_per_million": 647.4
+},
+{
+"id": "fr-core:0262",
+"word": "affaire",
+"pos": "nom",
+"article": "l'",
+"gloss": {
+"zh": "事情；生意"
+},
+"example": {
+"text": "C'est une bonne affaire.",
+"gloss": {
+"zh": "这是一笔划算的买卖。"
+}
+},
+"freq_per_million": 647.2
+},
+{
+"id": "fr-core:0263",
+"word": "fort",
+"pos": "adj",
+"gloss": {
+"zh": "强的；大声的"
+},
+"example": {
+"text": "Parlez plus fort.",
+"gloss": {
+"zh": "请大声一点。"
+}
+},
+"freq_per_million": 384.7
+},
+{
+"id": "fr-core:0264",
+"word": "lire",
+"pos": "verbe",
+"gloss": {
+"zh": "读；阅读"
+},
+"example": {
+"text": "Je lis un livre.",
+"gloss": {
+"zh": "我在读书。"
+}
+},
+"freq_per_million": 605.9
+},
+{
+"id": "fr-core:0265",
+"word": "cœur",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "心"
+},
+"example": {
+"text": "J'ai le cœur gros.",
+"gloss": {
+"zh": "我心里难受。"
+}
+},
+"freq_per_million": 640.7
+},
+{
+"id": "fr-core:0266",
+"word": "derrière",
+"pos": "prép",
+"gloss": {
+"zh": "在……后面"
+},
+"example": {
+"text": "Derrière la maison.",
+"gloss": {
+"zh": "在房子后面。"
+}
+},
+"freq_per_million": 454.5
+},
+{
+"id": "fr-core:0267",
+"word": "bras",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "手臂"
+},
+"example": {
+"text": "J'ai mal au bras.",
+"gloss": {
+"zh": "我手臂疼。"
+}
+},
+"freq_per_million": 637.2
+},
+{
+"id": "fr-core:0268",
+"word": "fou",
+"pos": "adj",
+"gloss": {
+"zh": "疯的；疯狂的"
+},
+"example": {
+"text": "Il est fou de joie.",
+"gloss": {
+"zh": "他高兴极了。"
+}
+},
+"freq_per_million": 485.6
+},
+{
+"id": "fr-core:0269",
+"word": "apprendre",
+"pos": "verbe",
+"gloss": {
+"zh": "学习；学会"
+},
+"example": {
+"text": "J'apprends le français.",
+"gloss": {
+"zh": "我在学法语。"
+}
+},
+"freq_per_million": 635.2
+},
+{
+"id": "fr-core:0270",
+"word": "demain",
+"pos": "adv",
+"gloss": {
+"zh": "明天"
+},
+"example": {
+"text": "À demain !",
+"gloss": {
+"zh": "明天见！"
+}
+},
+"freq_per_million": 560.0
+},
+{
+"id": "fr-core:0271",
+"word": "part",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "一份；部分"
+},
+"example": {
+"text": "Une part de gâteau.",
+"gloss": {
+"zh": "一块蛋糕。"
+}
+},
+"freq_per_million": 626.3
+},
+{
+"id": "fr-core:0272",
+"word": "poser",
+"pos": "verbe",
+"gloss": {
+"zh": "放；提（问题）"
+},
+"example": {
+"text": "Je pose une question.",
+"gloss": {
+"zh": "我提一个问题。"
+}
+},
+"freq_per_million": 626.2
+},
+{
+"id": "fr-core:0273",
+"word": "longtemps",
+"pos": "adv",
+"gloss": {
+"zh": "很久"
+},
+"example": {
+"text": "Ça fait longtemps.",
+"gloss": {
+"zh": "好久不见。"
+}
+},
+"freq_per_million": 625.9
+},
+{
+"id": "fr-core:0274",
+"word": "autres",
+"pos": "pron",
+"gloss": {
+"zh": "其他人；别的"
+},
+"example": {
+"text": "Les autres arrivent.",
+"gloss": {
+"zh": "其他人到了。"
+}
+},
+"freq_per_million": 624.8
+},
+{
+"id": "fr-core:0275",
+"word": "bonjour",
+"pos": "interj",
+"gloss": {
+"zh": "你好"
+},
+"example": {
+"text": "Bonjour, madame.",
+"gloss": {
+"zh": "您好，女士。"
+}
+},
+"freq_per_million": 622.1
+},
+{
+"id": "fr-core:0276",
+"word": "lever",
+"pos": "verbe",
+"gloss": {
+"zh": "举起；起床（se lever）"
+},
+"example": {
+"text": "Je me lève à sept heures.",
+"gloss": {
+"zh": "我七点起床。"
+}
+},
+"freq_per_million": 606.7
+},
+{
+"id": "fr-core:0277",
+"word": "boire",
+"pos": "verbe",
+"gloss": {
+"zh": "喝"
+},
+"example": {
+"text": "Je bois de l'eau.",
+"gloss": {
+"zh": "我喝水。"
+}
+},
+"freq_per_million": 613.4
+},
+{
+"id": "fr-core:0278",
+"word": "mois",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "月"
+},
+"example": {
+"text": "Ce mois-ci.",
+"gloss": {
+"zh": "这个月。"
+}
+},
+"freq_per_million": 617.2
+},
+{
+"id": "fr-core:0279",
+"word": "tous",
+"pos": "pron",
+"gloss": {
+"zh": "所有人；全部"
+},
+"example": {
+"text": "Nous venons tous.",
+"gloss": {
+"zh": "我们都来。"
+}
+},
+"freq_per_million": 615.4
+},
+{
+"id": "fr-core:0280",
+"word": "problème",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "问题；麻烦"
+},
+"example": {
+"text": "Pas de problème.",
+"gloss": {
+"zh": "没问题。"
+}
+},
+"freq_per_million": 615.1
+},
+{
+"id": "fr-core:0281",
+"word": "frère",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "哥哥；弟弟"
+},
+"example": {
+"text": "J'ai un frère.",
+"gloss": {
+"zh": "我有一个兄弟。"
+}
+},
+"freq_per_million": 606.7
+},
+{
+"id": "fr-core:0282",
+"word": "montrer",
+"pos": "verbe",
+"gloss": {
+"zh": "给……看；出示"
+},
+"example": {
+"text": "Montrez votre billet.",
+"gloss": {
+"zh": "请出示您的票。"
+}
+},
+"freq_per_million": 603.9
+},
+{
+"id": "fr-core:0283",
+"word": "revoir",
+"pos": "verbe",
+"gloss": {
+"zh": "再见到（au revoir）"
+},
+"example": {
+"text": "Au revoir !",
+"gloss": {
+"zh": "再见！"
+}
+},
+"freq_per_million": 302.3
+},
+{
+"id": "fr-core:0284",
+"word": "haut",
+"pos": "adj",
+"gloss": {
+"zh": "高的"
+},
+"example": {
+"text": "Un haut mur.",
+"gloss": {
+"zh": "一堵高墙。"
+}
+},
+"freq_per_million": 264.8
+},
+{
+"id": "fr-core:0285",
+"word": "peine",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "痛苦；辛苦"
+},
+"example": {
+"text": "Ça vaut la peine.",
+"gloss": {
+"zh": "这值得。"
+}
+},
+"freq_per_million": 599.3
+},
+{
+"id": "fr-core:0286",
+"word": "servir",
+"pos": "verbe",
+"gloss": {
+"zh": "服务；上（菜）"
+},
+"example": {
+"text": "Il sert le café.",
+"gloss": {
+"zh": "他在上咖啡。"
+}
+},
+"freq_per_million": 596.0
+},
+{
+"id": "fr-core:0287",
+"word": "garder",
+"pos": "verbe",
+"gloss": {
+"zh": "保留；看管"
+},
+"example": {
+"text": "Je garde mon manteau.",
+"gloss": {
+"zh": "我留着外套。"
+}
+},
+"freq_per_million": 595.9
+},
+{
+"id": "fr-core:0288",
+"word": "quitter",
+"pos": "verbe",
+"gloss": {
+"zh": "离开；离别"
+},
+"example": {
+"text": "Je quitte la maison à huit heures.",
+"gloss": {
+"zh": "我八点离开家。"
+}
+},
+"freq_per_million": 595.0
+},
+{
+"id": "fr-core:0289",
+"word": "occuper",
+"pos": "verbe",
+"gloss": {
+"zh": "占用；忙于（s'occuper）"
+},
+"example": {
+"text": "Je m'occupe des enfants.",
+"gloss": {
+"zh": "我照看孩子们。"
+}
+},
+"freq_per_million": 594.9
+},
+{
+"id": "fr-core:0290",
+"word": "tourner",
+"pos": "verbe",
+"gloss": {
+"zh": "转；拐弯"
+},
+"example": {
+"text": "Tournez à gauche.",
+"gloss": {
+"zh": "向左拐。"
+}
+},
+"freq_per_million": 581.2
+},
+{
+"id": "fr-core:0291",
+"word": "certain",
+"pos": "adj",
+"gloss": {
+"zh": "确定的；某些"
+},
+"example": {
+"text": "Je suis certain.",
+"gloss": {
+"zh": "我确定。"
+}
+},
+"freq_per_million": 286.2
+},
+{
+"id": "fr-core:0292",
+"word": "payer",
+"pos": "verbe",
+"gloss": {
+"zh": "付钱"
+},
+"example": {
+"text": "Je paie par carte.",
+"gloss": {
+"zh": "我刷卡付款。"
+}
+},
+"freq_per_million": 566.9
+},
+{
+"id": "fr-core:0293",
+"word": "continuer",
+"pos": "verbe",
+"gloss": {
+"zh": "继续"
+},
+"example": {
+"text": "Continuez tout droit.",
+"gloss": {
+"zh": "请一直往前走。"
+}
+},
+"freq_per_million": 552.7
+},
+{
+"id": "fr-core:0294",
+"word": "instant",
+"pos": "nom",
+"article": "l'",
+"gloss": {
+"zh": "一刻；瞬间"
+},
+"example": {
+"text": "Un instant, s'il vous plaît.",
+"gloss": {
+"zh": "请稍等一下。"
+}
+},
+"freq_per_million": 529.6
+},
+{
+"id": "fr-core:0295",
+"word": "suite",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "后续；接下来"
+},
+"example": {
+"text": "La suite demain.",
+"gloss": {
+"zh": "明天继续。"
+}
+},
+"freq_per_million": 551.7
+},
+{
+"id": "fr-core:0296",
+"word": "salut",
+"pos": "interj",
+"gloss": {
+"zh": "嗨；再见（熟人）"
+},
+"example": {
+"text": "Salut, ça va ?",
+"gloss": {
+"zh": "嗨，你好吗？"
+}
+},
+"freq_per_million": 339.2
+},
+{
+"id": "fr-core:0297",
+"word": "français",
+"pos": "adj",
+"gloss": {
+"zh": "法国的；法语的"
+},
+"example": {
+"text": "Je parle français.",
+"gloss": {
+"zh": "我说法语。"
+}
+},
+"freq_per_million": 341.9
+},
+{
+"id": "fr-core:0298",
+"word": "train",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "火车"
+},
+"example": {
+"text": "Le train part à huit heures.",
+"gloss": {
+"zh": "火车八点开。"
+}
+},
+"freq_per_million": 543.9
+},
+{
+"id": "fr-core:0299",
+"word": "minute",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "分钟"
+},
+"example": {
+"text": "Attends une minute.",
+"gloss": {
+"zh": "等一分钟。"
+}
+},
+"freq_per_million": 543.7
+},
+{
+"id": "fr-core:0300",
+"word": "envoyer",
+"pos": "verbe",
+"gloss": {
+"zh": "发送；寄"
+},
+"example": {
+"text": "J'envoie un courriel.",
+"gloss": {
+"zh": "我发一封邮件。"
+}
+},
+"freq_per_million": 537.8
+},
+{
+"id": "fr-core:0301",
+"word": "descendre",
+"pos": "verbe",
+"gloss": {
+"zh": "下去；下车"
+},
+"example": {
+"text": "Je descends à la prochaine.",
+"gloss": {
+"zh": "我下一站下车。"
+}
+},
+"freq_per_million": 537.6
+},
+{
+"id": "fr-core:0302",
+"word": "retourner",
+"pos": "verbe",
+"gloss": {
+"zh": "返回；翻转"
+},
+"example": {
+"text": "Je retourne au bureau.",
+"gloss": {
+"zh": "我回办公室。"
+}
+},
+"freq_per_million": 536.2
+},
+{
+"id": "fr-core:0303",
+"word": "bout",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "末端；一段"
+},
+"example": {
+"text": "Au bout de la rue.",
+"gloss": {
+"zh": "在街的尽头。"
+}
+},
+"freq_per_million": 526.4
+},
+{
+"id": "fr-core:0304",
+"word": "lit",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "床"
+},
+"example": {
+"text": "Le lit est grand.",
+"gloss": {
+"zh": "床很大。"
+}
+},
+"freq_per_million": 522.5
+},
+{
+"id": "fr-core:0305",
+"word": "bas",
+"pos": "adj",
+"gloss": {
+"zh": "低的"
+},
+"example": {
+"text": "Parlez plus bas.",
+"gloss": {
+"zh": "请小声一点。"
+}
+},
+"freq_per_million": 272.6
+},
+{
+"id": "fr-core:0306",
+"word": "aujourd'hui",
+"pos": "adv",
+"gloss": {
+"zh": "今天"
+},
+"example": {
+"text": "Aujourd'hui, il pleut.",
+"gloss": {
+"zh": "今天下雨。"
+}
+},
+"freq_per_million": 518.4
+},
+{
+"id": "fr-core:0307",
+"word": "raconter",
+"pos": "verbe",
+"gloss": {
+"zh": "讲述"
+},
+"example": {
+"text": "Raconte-moi ta journée.",
+"gloss": {
+"zh": "给我讲讲你的一天。"
+}
+},
+"freq_per_million": 515.7
+},
+{
+"id": "fr-core:0308",
+"word": "garçon",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "男孩；服务员"
+},
+"example": {
+"text": "Un garçon de dix ans.",
+"gloss": {
+"zh": "一个十岁的男孩。"
+}
+},
+"freq_per_million": 514.0
+},
+{
+"id": "fr-core:0309",
+"word": "madame",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "女士；夫人"
+},
+"example": {
+"text": "Bonjour, madame.",
+"gloss": {
+"zh": "您好，女士。"
+}
+},
+"freq_per_million": 510.8
+},
+{
+"id": "fr-core:0310",
+"word": "feu",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "火；红绿灯"
+},
+"example": {
+"text": "Le feu est rouge.",
+"gloss": {
+"zh": "红灯亮着。"
+}
+},
+"freq_per_million": 470.1
+},
+{
+"id": "fr-core:0311",
+"word": "façon",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "方式；方法"
+},
+"example": {
+"text": "De cette façon.",
+"gloss": {
+"zh": "这样。"
+}
+},
+"freq_per_million": 507.8
+},
+{
+"id": "fr-core:0312",
+"word": "force",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "力量"
+},
+"example": {
+"text": "Il a beaucoup de force.",
+"gloss": {
+"zh": "他力气很大。"
+}
+},
+"freq_per_million": 496.7
+},
+{
+"id": "fr-core:0313",
+"word": "tour",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "一圈；轮到"
+},
+"example": {
+"text": "C'est mon tour.",
+"gloss": {
+"zh": "轮到我了。"
+}
+},
+"freq_per_million": 502.5
+},
+{
+"id": "fr-core:0314",
+"word": "combien",
+"pos": "adv",
+"gloss": {
+"zh": "多少"
+},
+"example": {
+"text": "Combien ça coûte ?",
+"gloss": {
+"zh": "这个多少钱？"
+}
+},
+"freq_per_million": 498.6
+},
+{
+"id": "fr-core:0315",
+"word": "table",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "桌子"
+},
+"example": {
+"text": "Une table pour deux.",
+"gloss": {
+"zh": "一张两人桌。"
+}
+},
+"freq_per_million": 498.2
+},
+{
+"id": "fr-core:0316",
+"word": "cas",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "情况"
+},
+"example": {
+"text": "En tout cas.",
+"gloss": {
+"zh": "无论如何。"
+}
+},
+"freq_per_million": 497.9
+},
+{
+"id": "fr-core:0317",
+"word": "chance",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "运气"
+},
+"example": {
+"text": "Bonne chance !",
+"gloss": {
+"zh": "祝你好运！"
+}
+},
+"freq_per_million": 497.0
+},
+{
+"id": "fr-core:0318",
+"word": "ensemble",
+"pos": "adv",
+"gloss": {
+"zh": "一起"
+},
+"example": {
+"text": "On y va ensemble.",
+"gloss": {
+"zh": "我们一起去。"
+}
+},
+"freq_per_million": 398.5
+},
+{
+"id": "fr-core:0319",
+"word": "plutôt",
+"pos": "adv",
+"gloss": {
+"zh": "宁愿；相当"
+},
+"example": {
+"text": "Plutôt bien.",
+"gloss": {
+"zh": "相当不错。"
+}
+},
+"freq_per_million": 491.1
+},
+{
+"id": "fr-core:0320",
+"word": "semaine",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "星期"
+},
+"example": {
+"text": "La semaine prochaine.",
+"gloss": {
+"zh": "下个星期。"
+}
+},
+"freq_per_million": 488.4
+},
+{
+"id": "fr-core:0321",
+"word": "pauvre",
+"pos": "adj",
+"gloss": {
+"zh": "穷的；可怜的"
+},
+"example": {
+"text": "Le pauvre chat.",
+"gloss": {
+"zh": "可怜的猫。"
+}
+},
+"freq_per_million": 365.8
+},
+{
+"id": "fr-core:0322",
+"word": "fond",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "底部；深处"
+},
+"example": {
+"text": "Au fond du sac.",
+"gloss": {
+"zh": "在包的底部。"
+}
+},
+"freq_per_million": 486.2
+},
+{
+"id": "fr-core:0323",
+"word": "livre",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "书"
+},
+"example": {
+"text": "Un livre intéressant.",
+"gloss": {
+"zh": "一本有趣的书。"
+}
+},
+"freq_per_million": 484.6
+},
+{
+"id": "fr-core:0324",
+"word": "regard",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "目光"
+},
+"example": {
+"text": "Un regard doux.",
+"gloss": {
+"zh": "温柔的目光。"
+}
+},
+"freq_per_million": 484.5
+},
+{
+"id": "fr-core:0325",
+"word": "rappeler",
+"pos": "verbe",
+"gloss": {
+"zh": "提醒；回电话"
+},
+"example": {
+"text": "Je te rappelle ce soir.",
+"gloss": {
+"zh": "我今晚给你回电话。"
+}
+},
+"freq_per_million": 484.0
+},
+{
+"id": "fr-core:0326",
+"word": "rouge",
+"pos": "adj",
+"gloss": {
+"zh": "红色的"
+},
+"example": {
+"text": "Une voiture rouge.",
+"gloss": {
+"zh": "一辆红色的车。"
+}
+},
+"freq_per_million": 376.2
+},
+{
+"id": "fr-core:0327",
+"word": "aucun",
+"pos": "adj",
+"gloss": {
+"zh": "没有任何"
+},
+"example": {
+"text": "Je n'ai aucune idée.",
+"gloss": {
+"zh": "我完全不知道。"
+}
+},
+"freq_per_million": 356.7
+},
+{
+"id": "fr-core:0328",
+"word": "prêt",
+"pos": "adj",
+"gloss": {
+"zh": "准备好的"
+},
+"example": {
+"text": "Tu es prêt ?",
+"gloss": {
+"zh": "你准备好了吗？"
+}
+},
+"freq_per_million": 435.9
+},
+{
+"id": "fr-core:0329",
+"word": "toucher",
+"pos": "verbe",
+"gloss": {
+"zh": "摸；碰"
+},
+"example": {
+"text": "Ne touche pas.",
+"gloss": {
+"zh": "别碰。"
+}
+},
+"freq_per_million": 460.5
+},
+{
+"id": "fr-core:0330",
+"word": "gagner",
+"pos": "verbe",
+"gloss": {
+"zh": "赢；赚"
+},
+"example": {
+"text": "Je gagne de l'argent.",
+"gloss": {
+"zh": "我挣钱。"
+}
+},
+"freq_per_million": 475.3
+},
+{
+"id": "fr-core:0331",
+"word": "ailleurs",
+"pos": "adv",
+"gloss": {
+"zh": "别处"
+},
+"example": {
+"text": "Allons ailleurs.",
+"gloss": {
+"zh": "我们去别处吧。"
+}
+},
+"freq_per_million": 475.1
+},
+{
+"id": "fr-core:0332",
+"word": "envie",
+"pos": "nom",
+"article": "l'",
+"gloss": {
+"zh": "想要；渴望"
+},
+"example": {
+"text": "J'ai envie d'un café.",
+"gloss": {
+"zh": "我想喝杯咖啡。"
+}
+},
+"freq_per_million": 472.1
+},
+{
+"id": "fr-core:0333",
+"word": "pourtant",
+"pos": "adv",
+"gloss": {
+"zh": "然而；可是"
+},
+"example": {
+"text": "C'est facile, pourtant.",
+"gloss": {
+"zh": "可是这很容易。"
+}
+},
+"freq_per_million": 471.5
+},
+{
+"id": "fr-core:0334",
+"word": "mauvais",
+"pos": "adj",
+"gloss": {
+"zh": "坏的；差的"
+},
+"example": {
+"text": "Il fait mauvais.",
+"gloss": {
+"zh": "天气不好。"
+}
+},
+"freq_per_million": 453.3
+},
+{
+"id": "fr-core:0335",
+"word": "reprendre",
+"pos": "verbe",
+"gloss": {
+"zh": "重新拿；再来一份"
+},
+"example": {
+"text": "Je reprends du café.",
+"gloss": {
+"zh": "我再来点咖啡。"
+}
+},
+"freq_per_million": 467.1
+},
+{
+"id": "fr-core:0336",
+"word": "attention",
+"pos": "nom",
+"article": "l'",
+"gloss": {
+"zh": "注意；小心"
+},
+"example": {
+"text": "Attention !",
+"gloss": {
+"zh": "小心！"
+}
+},
+"freq_per_million": 283.1
+},
+{
+"id": "fr-core:0337",
+"word": "excuser",
+"pos": "verbe",
+"gloss": {
+"zh": "原谅（s'excuser）"
+},
+"example": {
+"text": "Excusez-moi.",
+"gloss": {
+"zh": "对不起。"
+}
+},
+"freq_per_million": 461.0
+},
+{
+"id": "fr-core:0338",
+"word": "doute",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "怀疑"
+},
+"example": {
+"text": "Sans aucun doute.",
+"gloss": {
+"zh": "毫无疑问。"
+}
+},
+"freq_per_million": 458.2
+},
+{
+"id": "fr-core:0339",
+"word": "soleil",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "太阳"
+},
+"example": {
+"text": "Il y a du soleil.",
+"gloss": {
+"zh": "有太阳。"
+}
+},
+"freq_per_million": 457.7
+},
+{
+"id": "fr-core:0340",
+"word": "route",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "公路；路"
+},
+"example": {
+"text": "La route est longue.",
+"gloss": {
+"zh": "路很长。"
+}
+},
+"freq_per_million": 454.8
+},
+{
+"id": "fr-core:0341",
+"word": "heureux",
+"pos": "adj",
+"gloss": {
+"zh": "幸福的；高兴的"
+},
+"example": {
+"text": "Je suis heureux.",
+"gloss": {
+"zh": "我很幸福。"
+}
+},
+"freq_per_million": 438.4
+},
+{
+"id": "fr-core:0342",
+"word": "ordre",
+"pos": "nom",
+"article": "l'",
+"gloss": {
+"zh": "顺序；命令"
+},
+"example": {
+"text": "Dans l'ordre.",
+"gloss": {
+"zh": "按顺序。"
+}
+},
+"freq_per_million": 452.6
+},
+{
+"id": "fr-core:0343",
+"word": "manquer",
+"pos": "verbe",
+"gloss": {
+"zh": "缺少；想念"
+},
+"example": {
+"text": "Tu me manques.",
+"gloss": {
+"zh": "我想你。"
+}
+},
+"freq_per_million": 451.6
+},
+{
+"id": "fr-core:0344",
+"word": "autour",
+"pos": "adv",
+"gloss": {
+"zh": "周围"
+},
+"example": {
+"text": "Autour de la table.",
+"gloss": {
+"zh": "围着桌子。"
+}
+},
+"freq_per_million": 448.6
+},
+{
+"id": "fr-core:0345",
+"word": "lieu",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "地方"
+},
+"example": {
+"text": "Un lieu calme.",
+"gloss": {
+"zh": "一个安静的地方。"
+}
+},
+"freq_per_million": 449.6
+},
+{
+"id": "fr-core:0346",
+"word": "ciel",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "天空"
+},
+"example": {
+"text": "Le ciel est bleu.",
+"gloss": {
+"zh": "天空是蓝色的。"
+}
+},
+"freq_per_million": 447.5
+},
+{
+"id": "fr-core:0347",
+"word": "pays",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "国家"
+},
+"example": {
+"text": "Mon pays est loin.",
+"gloss": {
+"zh": "我的国家很远。"
+}
+},
+"freq_per_million": 444.1
+},
+{
+"id": "fr-core:0348",
+"word": "surtout",
+"pos": "adv",
+"gloss": {
+"zh": "尤其；特别是"
+},
+"example": {
+"text": "Surtout, sois prudent.",
+"gloss": {
+"zh": "尤其要小心。"
+}
+},
+"freq_per_million": 440.1
+},
+{
+"id": "fr-core:0349",
+"word": "possible",
+"pos": "adj",
+"gloss": {
+"zh": "可能的"
+},
+"example": {
+"text": "C'est possible.",
+"gloss": {
+"zh": "这是可能的。"
+}
+},
+"freq_per_million": 413.4
+},
+{
+"id": "fr-core:0350",
+"word": "parfois",
+"pos": "adv",
+"gloss": {
+"zh": "有时"
+},
+"example": {
+"text": "Parfois, je marche.",
+"gloss": {
+"zh": "有时我走路。"
+}
+},
+"freq_per_million": 440.2
+},
+{
+"id": "fr-core:0351",
+"word": "acheter",
+"pos": "verbe",
+"gloss": {
+"zh": "买"
+},
+"example": {
+"text": "J'achète du pain.",
+"gloss": {
+"zh": "我买面包。"
+}
+},
+"freq_per_million": 439.1
+},
+{
+"id": "fr-core:0352",
+"word": "meilleur",
+"pos": "adj",
+"gloss": {
+"zh": "更好的；最好的"
+},
+"example": {
+"text": "Le meilleur café.",
+"gloss": {
+"zh": "最好的咖啡。"
+}
+},
+"freq_per_million": 308.0
+},
+{
+"id": "fr-core:0353",
+"word": "espérer",
+"pos": "verbe",
+"gloss": {
+"zh": "希望"
+},
+"example": {
+"text": "J'espère que oui.",
+"gloss": {
+"zh": "我希望如此。"
+}
+},
+"freq_per_million": 436.0
+},
+{
+"id": "fr-core:0354",
+"word": "fermer",
+"pos": "verbe",
+"gloss": {
+"zh": "关闭"
+},
+"example": {
+"text": "Ferme la porte.",
+"gloss": {
+"zh": "关门。"
+}
+},
+"freq_per_million": 435.8
+},
+{
+"id": "fr-core:0355",
+"word": "imaginer",
+"pos": "verbe",
+"gloss": {
+"zh": "想象"
+},
+"example": {
+"text": "Imagine !",
+"gloss": {
+"zh": "你想象一下！"
+}
+},
+"freq_per_million": 435.4
+},
+{
+"id": "fr-core:0356",
+"word": "expliquer",
+"pos": "verbe",
+"gloss": {
+"zh": "解释"
+},
+"example": {
+"text": "Explique-moi, s'il te plaît.",
+"gloss": {
+"zh": "请给我解释一下。"
+}
+},
+"freq_per_million": 434.9
+},
+{
+"id": "fr-core:0357",
+"word": "quatre",
+"pos": "adj",
+"gloss": {
+"zh": "四"
+},
+"example": {
+"text": "Quatre euros.",
+"gloss": {
+"zh": "四欧元。"
+}
+},
+"freq_per_million": 433.6
+},
+{
+"id": "fr-core:0358",
+"word": "cher",
+"pos": "adj",
+"gloss": {
+"zh": "贵的；亲爱的"
+},
+"example": {
+"text": "C'est trop cher.",
+"gloss": {
+"zh": "这太贵了。"
+}
+},
+"freq_per_million": 339.4
+},
+{
+"id": "fr-core:0359",
+"word": "silence",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "安静；沉默"
+},
+"example": {
+"text": "Silence, s'il vous plaît.",
+"gloss": {
+"zh": "请安静。"
+}
+},
+"freq_per_million": 432.0
+},
+{
+"id": "fr-core:0360",
+"word": "compter",
+"pos": "verbe",
+"gloss": {
+"zh": "数；算"
+},
+"example": {
+"text": "Je compte jusqu'à dix.",
+"gloss": {
+"zh": "我数到十。"
+}
+},
+"freq_per_million": 431.5
+},
+{
+"id": "fr-core:0361",
+"word": "rencontrer",
+"pos": "verbe",
+"gloss": {
+"zh": "遇见；结识"
+},
+"example": {
+"text": "Je rencontre un ami.",
+"gloss": {
+"zh": "我遇见一个朋友。"
+}
+},
+"freq_per_million": 429.5
+},
+{
+"id": "fr-core:0362",
+"word": "pièce",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "房间；硬币"
+},
+"example": {
+"text": "Une pièce de deux dollars.",
+"gloss": {
+"zh": "一枚两元硬币。"
+}
+},
+"freq_per_million": 427.5
+},
+{
+"id": "fr-core:0363",
+"word": "souvent",
+"pos": "adv",
+"gloss": {
+"zh": "常常"
+},
+"example": {
+"text": "Je viens souvent ici.",
+"gloss": {
+"zh": "我经常来这里。"
+}
+},
+"freq_per_million": 422.5
+},
+{
+"id": "fr-core:0364",
+"word": "décider",
+"pos": "verbe",
+"gloss": {
+"zh": "决定"
+},
+"example": {
+"text": "Je décide de partir.",
+"gloss": {
+"zh": "我决定走。"
+}
+},
+"freq_per_million": 421.9
+},
+{
+"id": "fr-core:0365",
+"word": "sorte",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "种类"
+},
+"example": {
+"text": "Toutes sortes de choses.",
+"gloss": {
+"zh": "各种各样的东西。"
+}
+},
+"freq_per_million": 421.9
+},
+{
+"id": "fr-core:0366",
+"word": "plaisir",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "高兴；乐趣"
+},
+"example": {
+"text": "Avec plaisir.",
+"gloss": {
+"zh": "乐意之至。"
+}
+},
+"freq_per_million": 420.2
+},
+{
+"id": "fr-core:0367",
+"word": "recevoir",
+"pos": "verbe",
+"gloss": {
+"zh": "收到；接待"
+},
+"example": {
+"text": "Je reçois un colis.",
+"gloss": {
+"zh": "我收到一个包裹。"
+}
+},
+"freq_per_million": 417.2
+},
+{
+"id": "fr-core:0368",
+"word": "cause",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "原因"
+},
+"example": {
+"text": "À cause de la pluie.",
+"gloss": {
+"zh": "因为下雨。"
+}
+},
+"freq_per_million": 415.9
+},
+{
+"id": "fr-core:0369",
+"word": "agir",
+"pos": "verbe",
+"gloss": {
+"zh": "行动；起作用"
+},
+"example": {
+"text": "Il faut agir.",
+"gloss": {
+"zh": "必须行动。"
+}
+},
+"freq_per_million": 415.7
+},
+{
+"id": "fr-core:0370",
+"word": "pousser",
+"pos": "verbe",
+"gloss": {
+"zh": "推；长出"
+},
+"example": {
+"text": "Poussez la porte.",
+"gloss": {
+"zh": "请推门。"
+}
+},
+"freq_per_million": 414.5
+},
+{
+"id": "fr-core:0371",
+"word": "lettre",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "信；字母"
+},
+"example": {
+"text": "J'écris une lettre.",
+"gloss": {
+"zh": "我写一封信。"
+}
+},
+"freq_per_million": 412.8
+},
+{
+"id": "fr-core:0372",
+"word": "valoir",
+"pos": "verbe",
+"gloss": {
+"zh": "值；il vaut mieux 最好"
+},
+"example": {
+"text": "Il vaut mieux partir.",
+"gloss": {
+"zh": "最好走了。"
+}
+},
+"freq_per_million": 411.8
+},
+{
+"id": "fr-core:0373",
+"word": "chef",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "领导；厨师"
+},
+"example": {
+"text": "Le chef est là.",
+"gloss": {
+"zh": "老板在这里。"
+}
+},
+"freq_per_million": 411.2
+},
+{
+"id": "fr-core:0374",
+"word": "courir",
+"pos": "verbe",
+"gloss": {
+"zh": "跑"
+},
+"example": {
+"text": "Je cours tous les matins.",
+"gloss": {
+"zh": "我每天早上跑步。"
+}
+},
+"freq_per_million": 409.9
+},
+{
+"id": "fr-core:0375",
+"word": "lumière",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "光；灯"
+},
+"example": {
+"text": "Allume la lumière.",
+"gloss": {
+"zh": "开灯。"
+}
+},
+"freq_per_million": 409.1
+},
+{
+"id": "fr-core:0376",
+"word": "chien",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "狗"
+},
+"example": {
+"text": "J'ai un chien.",
+"gloss": {
+"zh": "我有一只狗。"
+}
+},
+"freq_per_million": 408.1
+},
+{
+"id": "fr-core:0377",
+"word": "mur",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "墙"
+},
+"example": {
+"text": "Un mur blanc.",
+"gloss": {
+"zh": "一堵白墙。"
+}
+},
+"freq_per_million": 406.7
+},
+{
+"id": "fr-core:0378",
+"word": "verre",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "玻璃杯；杯"
+},
+"example": {
+"text": "Un verre d'eau.",
+"gloss": {
+"zh": "一杯水。"
+}
+},
+"freq_per_million": 406.6
+},
+{
+"id": "fr-core:0379",
+"word": "partie",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "部分；比赛"
+},
+"example": {
+"text": "Une partie du travail.",
+"gloss": {
+"zh": "工作的一部分。"
+}
+},
+"freq_per_million": 402.7
+},
+{
+"id": "fr-core:0380",
+"word": "face",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "脸；正面"
+},
+"example": {
+"text": "En face de la gare.",
+"gloss": {
+"zh": "在车站对面。"
+}
+},
+"freq_per_million": 396.2
+},
+{
+"id": "fr-core:0381",
+"word": "propre",
+"pos": "adj",
+"gloss": {
+"zh": "干净的；自己的"
+},
+"example": {
+"text": "Ma propre chambre.",
+"gloss": {
+"zh": "我自己的房间。"
+}
+},
+"freq_per_million": 370.7
+},
+{
+"id": "fr-core:0382",
+"word": "coucher",
+"pos": "verbe",
+"gloss": {
+"zh": "使躺下（se coucher）"
+},
+"example": {
+"text": "Je me couche à onze heures.",
+"gloss": {
+"zh": "我十一点睡觉。"
+}
+},
+"freq_per_million": 378.2
+},
+{
+"id": "fr-core:0383",
+"word": "froid",
+"pos": "adj",
+"gloss": {
+"zh": "冷的"
+},
+"example": {
+"text": "Il fait froid.",
+"gloss": {
+"zh": "天气很冷。"
+}
+},
+"freq_per_million": 288.9
+},
+{
+"id": "fr-core:0384",
+"word": "autant",
+"pos": "adv",
+"gloss": {
+"zh": "同样多"
+},
+"example": {
+"text": "Autant que moi.",
+"gloss": {
+"zh": "和我一样多。"
+}
+},
+"freq_per_million": 392.6
+},
+{
+"id": "fr-core:0385",
+"word": "offrir",
+"pos": "verbe",
+"gloss": {
+"zh": "赠送；提供"
+},
+"example": {
+"text": "J'offre un cadeau.",
+"gloss": {
+"zh": "我送一份礼物。"
+}
+},
+"freq_per_million": 391.8
+},
+{
+"id": "fr-core:0386",
+"word": "suffire",
+"pos": "verbe",
+"gloss": {
+"zh": "足够"
+},
+"example": {
+"text": "Ça suffit.",
+"gloss": {
+"zh": "够了。"
+}
+},
+"freq_per_million": 391.5
+},
+{
+"id": "fr-core:0387",
+"word": "mari",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "丈夫"
+},
+"example": {
+"text": "Mon mari travaille.",
+"gloss": {
+"zh": "我丈夫在工作。"
+}
+},
+"freq_per_million": 388.4
+},
+{
+"id": "fr-core:0388",
+"word": "cacher",
+"pos": "verbe",
+"gloss": {
+"zh": "藏"
+},
+"example": {
+"text": "Je cache le cadeau.",
+"gloss": {
+"zh": "我藏起礼物。"
+}
+},
+"freq_per_million": 386.0
+},
+{
+"id": "fr-core:0389",
+"word": "reste",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "剩余；其余"
+},
+"example": {
+"text": "Le reste est facile.",
+"gloss": {
+"zh": "其余的很容易。"
+}
+},
+"freq_per_million": 383.1
+},
+{
+"id": "fr-core:0390",
+"word": "cinq",
+"pos": "adj",
+"gloss": {
+"zh": "五"
+},
+"example": {
+"text": "Cinq minutes.",
+"gloss": {
+"zh": "五分钟。"
+}
+},
+"freq_per_million": 382.6
+},
+{
+"id": "fr-core:0391",
+"word": "là-bas",
+"pos": "adv",
+"gloss": {
+"zh": "那边"
+},
+"example": {
+"text": "Il est là-bas.",
+"gloss": {
+"zh": "他在那边。"
+}
+},
+"freq_per_million": 380.8
+},
+{
+"id": "fr-core:0392",
+"word": "genre",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "类型；种类"
+},
+"example": {
+"text": "Quel genre de musique ?",
+"gloss": {
+"zh": "什么类型的音乐？"
+}
+},
+"freq_per_million": 379.4
+},
+{
+"id": "fr-core:0393",
+"word": "emmener",
+"pos": "verbe",
+"gloss": {
+"zh": "带去"
+},
+"example": {
+"text": "Je t'emmène au cinéma.",
+"gloss": {
+"zh": "我带你去看电影。"
+}
+},
+"freq_per_million": 378.2
+},
+{
+"id": "fr-core:0394",
+"word": "dehors",
+"pos": "adv",
+"gloss": {
+"zh": "外面"
+},
+"example": {
+"text": "Il fait froid dehors.",
+"gloss": {
+"zh": "外面很冷。"
+}
+},
+"freq_per_million": 289.8
+},
+{
+"id": "fr-core:0395",
+"word": "bruit",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "噪音；声音"
+},
+"example": {
+"text": "Il y a trop de bruit.",
+"gloss": {
+"zh": "噪音太大了。"
+}
+},
+"freq_per_million": 375.6
+},
+{
+"id": "fr-core:0396",
+"word": "voici",
+"pos": "prép",
+"gloss": {
+"zh": "这是；这里有"
+},
+"example": {
+"text": "Voici mon ami.",
+"gloss": {
+"zh": "这是我的朋友。"
+}
+},
+"freq_per_million": 374.9
+},
+{
+"id": "fr-core:0397",
+"word": "dur",
+"pos": "adj",
+"gloss": {
+"zh": "硬的；困难的"
+},
+"example": {
+"text": "C'est dur.",
+"gloss": {
+"zh": "这很难。"
+}
+},
+"freq_per_million": 334.5
+},
+{
+"id": "fr-core:0398",
+"word": "bouche",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "嘴"
+},
+"example": {
+"text": "Ouvrez la bouche.",
+"gloss": {
+"zh": "请张嘴。"
+}
+},
+"freq_per_million": 373.5
+},
+{
+"id": "fr-core:0399",
+"word": "esprit",
+"pos": "nom",
+"article": "l'",
+"gloss": {
+"zh": "思想；精神"
+},
+"example": {
+"text": "Avoir l'esprit ouvert.",
+"gloss": {
+"zh": "思想开放。"
+}
+},
+"freq_per_million": 372.1
+},
+{
+"id": "fr-core:0400",
+"word": "café",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "咖啡；咖啡馆"
+},
+"example": {
+"text": "Un café, s'il vous plaît.",
+"gloss": {
+"zh": "请给我一杯咖啡。"
+}
+},
+"freq_per_million": 340.9
+},
+{
+"id": "fr-core:0401",
+"word": "fenêtre",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "窗户"
+},
+"example": {
+"text": "Ouvre la fenêtre.",
+"gloss": {
+"zh": "打开窗户。"
+}
+},
+"freq_per_million": 370.8
+},
+{
+"id": "fr-core:0402",
+"word": "âge",
+"pos": "nom",
+"article": "l'",
+"gloss": {
+"zh": "年龄"
+},
+"example": {
+"text": "Quel âge as-tu ?",
+"gloss": {
+"zh": "你多大了？"
+}
+},
+"freq_per_million": 370.0
+},
+{
+"id": "fr-core:0403",
+"word": "reconnaître",
+"pos": "verbe",
+"gloss": {
+"zh": "认出；承认"
+},
+"example": {
+"text": "Je te reconnais.",
+"gloss": {
+"zh": "我认出你了。"
+}
+},
+"freq_per_million": 369.9
+},
+{
+"id": "fr-core:0404",
+"word": "compte",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "账户；计算"
+},
+"example": {
+"text": "J'ai un compte à la banque.",
+"gloss": {
+"zh": "我在银行有个账户。"
+}
+},
+"freq_per_million": 369.3
+},
+{
+"id": "fr-core:0405",
+"word": "apporter",
+"pos": "verbe",
+"gloss": {
+"zh": "带来"
+},
+"example": {
+"text": "J'apporte du pain.",
+"gloss": {
+"zh": "我带面包来。"
+}
+},
+"freq_per_million": 369.2
+},
+{
+"id": "fr-core:0406",
+"word": "bouger",
+"pos": "verbe",
+"gloss": {
+"zh": "动；移动"
+},
+"example": {
+"text": "Ne bouge pas.",
+"gloss": {
+"zh": "别动。"
+}
+},
+"freq_per_million": 368.7
+},
+{
+"id": "fr-core:0407",
+"word": "mer",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "海"
+},
+"example": {
+"text": "J'aime la mer.",
+"gloss": {
+"zh": "我喜欢大海。"
+}
+},
+"freq_per_million": 364.2
+},
+{
+"id": "fr-core:0408",
+"word": "état",
+"pos": "nom",
+"article": "l'",
+"gloss": {
+"zh": "状态；国家"
+},
+"example": {
+"text": "Dans quel état ?",
+"gloss": {
+"zh": "什么状态？"
+}
+},
+"freq_per_million": 363.9
+},
+{
+"id": "fr-core:0409",
+"word": "jeu",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "游戏"
+},
+"example": {
+"text": "Un jeu vidéo.",
+"gloss": {
+"zh": "一个电子游戏。"
+}
+},
+"freq_per_million": 363.8
+},
+{
+"id": "fr-core:0410",
+"word": "nouvelle",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "消息；新闻"
+},
+"example": {
+"text": "Une bonne nouvelle.",
+"gloss": {
+"zh": "一个好消息。"
+}
+},
+"freq_per_million": 363.6
+},
+{
+"id": "fr-core:0411",
+"word": "bleu",
+"pos": "adj",
+"gloss": {
+"zh": "蓝色的"
+},
+"example": {
+"text": "Le ciel est bleu.",
+"gloss": {
+"zh": "天空是蓝色的。"
+}
+},
+"freq_per_million": 278.2
+},
+{
+"id": "fr-core:0412",
+"word": "police",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "警察；警局"
+},
+"example": {
+"text": "Appelez la police.",
+"gloss": {
+"zh": "请报警。"
+}
+},
+"freq_per_million": 359.9
+},
+{
+"id": "fr-core:0413",
+"word": "permettre",
+"pos": "verbe",
+"gloss": {
+"zh": "允许"
+},
+"example": {
+"text": "Vous permettez ?",
+"gloss": {
+"zh": "可以吗？"
+}
+},
+"freq_per_million": 357.1
+},
+{
+"id": "fr-core:0414",
+"word": "crier",
+"pos": "verbe",
+"gloss": {
+"zh": "喊叫"
+},
+"example": {
+"text": "Ne crie pas.",
+"gloss": {
+"zh": "别喊。"
+}
+},
+"freq_per_million": 356.7
+},
+{
+"id": "fr-core:0415",
+"word": "chemin",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "路；道路"
+},
+"example": {
+"text": "Quel est le chemin ?",
+"gloss": {
+"zh": "怎么走？"
+}
+},
+"freq_per_million": 356.6
+},
+{
+"id": "fr-core:0416",
+"word": "endroit",
+"pos": "nom",
+"article": "l'",
+"gloss": {
+"zh": "地方"
+},
+"example": {
+"text": "C'est un bel endroit.",
+"gloss": {
+"zh": "这是个好地方。"
+}
+},
+"freq_per_million": 355.8
+},
+{
+"id": "fr-core:0417",
+"word": "pleurer",
+"pos": "verbe",
+"gloss": {
+"zh": "哭"
+},
+"example": {
+"text": "Le bébé pleure.",
+"gloss": {
+"zh": "宝宝在哭。"
+}
+},
+"freq_per_million": 354.9
+},
+{
+"id": "fr-core:0418",
+"word": "bientôt",
+"pos": "adv",
+"gloss": {
+"zh": "很快"
+},
+"example": {
+"text": "À bientôt !",
+"gloss": {
+"zh": "回头见！"
+}
+},
+"freq_per_million": 354.6
+},
+{
+"id": "fr-core:0419",
+"word": "journée",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "一天（整天）"
+},
+"example": {
+"text": "Bonne journée !",
+"gloss": {
+"zh": "祝你有愉快的一天！"
+}
+},
+"freq_per_million": 354.3
+},
+{
+"id": "fr-core:0420",
+"word": "passé",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "过去"
+},
+"example": {
+"text": "C'est le passé.",
+"gloss": {
+"zh": "这是过去的事。"
+}
+},
+"freq_per_million": 177.8
+},
+{
+"id": "fr-core:0421",
+"word": "tellement",
+"pos": "adv",
+"gloss": {
+"zh": "那么；如此"
+},
+"example": {
+"text": "Je suis tellement fatigué.",
+"gloss": {
+"zh": "我太累了。"
+}
+},
+"freq_per_million": 352.2
+},
+{
+"id": "fr-core:0422",
+"word": "parent",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "父母；亲戚"
+},
+"example": {
+"text": "Mes parents habitent ici.",
+"gloss": {
+"zh": "我父母住在这里。"
+}
+},
+"freq_per_million": 334.7
+},
+{
+"id": "fr-core:0423",
+"word": "école",
+"pos": "nom",
+"article": "l'",
+"gloss": {
+"zh": "学校"
+},
+"example": {
+"text": "L'école commence à huit heures.",
+"gloss": {
+"zh": "学校八点开始上课。"
+}
+},
+"freq_per_million": 350.9
+},
+{
+"id": "fr-core:0424",
+"word": "disparaître",
+"pos": "verbe",
+"gloss": {
+"zh": "消失"
+},
+"example": {
+"text": "Mes clés ont disparu.",
+"gloss": {
+"zh": "我的钥匙不见了。"
+}
+},
+"freq_per_million": 349.4
+},
+{
+"id": "fr-core:0425",
+"word": "joli",
+"pos": "adj",
+"gloss": {
+"zh": "漂亮的；好看的"
+},
+"example": {
+"text": "Une jolie robe.",
+"gloss": {
+"zh": "一条漂亮的裙子。"
+}
+},
+"freq_per_million": 346.4
+},
+{
+"id": "fr-core:0426",
+"word": "remettre",
+"pos": "verbe",
+"gloss": {
+"zh": "放回；推迟"
+},
+"example": {
+"text": "Je remets le livre.",
+"gloss": {
+"zh": "我把书放回去。"
+}
+},
+"freq_per_million": 347.5
+},
+{
+"id": "fr-core:0427",
+"word": "sœur",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "姐姐；妹妹"
+},
+"example": {
+"text": "J'ai une sœur.",
+"gloss": {
+"zh": "我有一个姐妹。"
+}
+},
+"freq_per_million": 346.0
+},
+{
+"id": "fr-core:0428",
+"word": "sauver",
+"pos": "verbe",
+"gloss": {
+"zh": "拯救；救"
+},
+"example": {
+"text": "Il sauve le chat.",
+"gloss": {
+"zh": "他救了那只猫。"
+}
+},
+"freq_per_million": 345.6
+},
+{
+"id": "fr-core:0429",
+"word": "neuf",
+"pos": "adj",
+"gloss": {
+"zh": "九"
+},
+"example": {
+"text": "Neuf heures.",
+"gloss": {
+"zh": "九点钟。"
+}
+},
+"freq_per_million": 172.6
+},
+{
+"id": "fr-core:0430",
+"word": "d'abord",
+"pos": "adv",
+"gloss": {
+"zh": "首先"
+},
+"example": {
+"text": "D'abord, le café.",
+"gloss": {
+"zh": "先喝咖啡。"
+}
+},
+"freq_per_million": 344.8
+},
+{
+"id": "fr-core:0431",
+"word": "gauche",
+"pos": "adj",
+"gloss": {
+"zh": "左边的"
+},
+"example": {
+"text": "Tournez à gauche.",
+"gloss": {
+"zh": "向左拐。"
+}
+},
+"freq_per_million": 206.4
+},
+{
+"id": "fr-core:0432",
+"word": "papa",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "爸爸（口语）"
+},
+"example": {
+"text": "Papa est là.",
+"gloss": {
+"zh": "爸爸在这里。"
+}
+},
+"freq_per_million": 336.2
+},
+{
+"id": "fr-core:0433",
+"word": "sens",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "意思；方向"
+},
+"example": {
+"text": "Quel est le sens de ce mot ?",
+"gloss": {
+"zh": "这个词是什么意思？"
+}
+},
+"freq_per_million": 335.1
+},
+{
+"id": "fr-core:0434",
+"word": "vérité",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "真相"
+},
+"example": {
+"text": "Dis la vérité.",
+"gloss": {
+"zh": "说实话。"
+}
+},
+"freq_per_million": 334.1
+},
+{
+"id": "fr-core:0435",
+"word": "salle",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "大厅；房间"
+},
+"example": {
+"text": "La salle de bain.",
+"gloss": {
+"zh": "浴室。"
+}
+},
+"freq_per_million": 332.7
+},
+{
+"id": "fr-core:0436",
+"word": "service",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "服务；帮忙"
+},
+"example": {
+"text": "Un petit service.",
+"gloss": {
+"zh": "一个小忙。"
+}
+},
+"freq_per_million": 330.4
+},
+{
+"id": "fr-core:0437",
+"word": "préparer",
+"pos": "verbe",
+"gloss": {
+"zh": "准备"
+},
+"example": {
+"text": "Je prépare le dîner.",
+"gloss": {
+"zh": "我准备晚饭。"
+}
+},
+"freq_per_million": 328.5
+},
+{
+"id": "fr-core:0438",
+"word": "dix",
+"pos": "adj",
+"gloss": {
+"zh": "十"
+},
+"example": {
+"text": "Dix minutes.",
+"gloss": {
+"zh": "十分钟。"
+}
+},
+"freq_per_million": 328.2
+},
+{
+"id": "fr-core:0439",
+"word": "film",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "电影"
+},
+"example": {
+"text": "Un bon film.",
+"gloss": {
+"zh": "一部好电影。"
+}
+},
+"freq_per_million": 326.8
+},
+{
+"id": "fr-core:0440",
+"word": "milieu",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "中间"
+},
+"example": {
+"text": "Au milieu de la table.",
+"gloss": {
+"zh": "在桌子中间。"
+}
+},
+"freq_per_million": 326.3
+},
+{
+"id": "fr-core:0441",
+"word": "toute",
+"pos": "adj",
+"gloss": {
+"zh": "全部的（阴性）"
+},
+"example": {
+"text": "Toute la journée.",
+"gloss": {
+"zh": "一整天。"
+}
+},
+"freq_per_million": 312.6
+},
+{
+"id": "fr-core:0442",
+"word": "papier",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "纸"
+},
+"example": {
+"text": "Une feuille de papier.",
+"gloss": {
+"zh": "一张纸。"
+}
+},
+"freq_per_million": 323.6
+},
+{
+"id": "fr-core:0443",
+"word": "découvrir",
+"pos": "verbe",
+"gloss": {
+"zh": "发现"
+},
+"example": {
+"text": "Je découvre la ville.",
+"gloss": {
+"zh": "我在探索这座城市。"
+}
+},
+"freq_per_million": 322.4
+},
+{
+"id": "fr-core:0444",
+"word": "pareil",
+"pos": "adj",
+"gloss": {
+"zh": "相同的"
+},
+"example": {
+"text": "C'est pareil.",
+"gloss": {
+"zh": "一样的。"
+}
+},
+"freq_per_million": 283.1
+},
+{
+"id": "fr-core:0445",
+"word": "important",
+"pos": "adj",
+"gloss": {
+"zh": "重要的"
+},
+"example": {
+"text": "C'est important.",
+"gloss": {
+"zh": "这很重要。"
+}
+},
+"freq_per_million": 316.1
+},
+{
+"id": "fr-core:0446",
+"word": "partout",
+"pos": "adv",
+"gloss": {
+"zh": "到处"
+},
+"example": {
+"text": "Il y a des fleurs partout.",
+"gloss": {
+"zh": "到处都是花。"
+}
+},
+"freq_per_million": 321.3
+},
+{
+"id": "fr-core:0447",
+"word": "docteur",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "医生"
+},
+"example": {
+"text": "Je vais chez le docteur.",
+"gloss": {
+"zh": "我去看医生。"
+}
+},
+"freq_per_million": 321.2
+},
+{
+"id": "fr-core:0448",
+"word": "bureau",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "办公室；书桌"
+},
+"example": {
+"text": "Je suis au bureau.",
+"gloss": {
+"zh": "我在办公室。"
+}
+},
+"freq_per_million": 317.2
+},
+{
+"id": "fr-core:0449",
+"word": "malade",
+"pos": "adj",
+"gloss": {
+"zh": "生病的"
+},
+"example": {
+"text": "Je suis malade.",
+"gloss": {
+"zh": "我生病了。"
+}
+},
+"freq_per_million": 232.2
+},
+{
+"id": "fr-core:0450",
+"word": "hier",
+"pos": "adv",
+"gloss": {
+"zh": "昨天"
+},
+"example": {
+"text": "Hier, il pleuvait.",
+"gloss": {
+"zh": "昨天下雨。"
+}
+},
+"freq_per_million": 316.4
+},
+{
+"id": "fr-core:0451",
+"word": "dos",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "背"
+},
+"example": {
+"text": "J'ai mal au dos.",
+"gloss": {
+"zh": "我背疼。"
+}
+},
+"freq_per_million": 314.3
+},
+{
+"id": "fr-core:0452",
+"word": "conduire",
+"pos": "verbe",
+"gloss": {
+"zh": "开车；带领"
+},
+"example": {
+"text": "Je conduis une voiture.",
+"gloss": {
+"zh": "我开车。"
+}
+},
+"freq_per_million": 314.3
+},
+{
+"id": "fr-core:0453",
+"word": "approcher",
+"pos": "verbe",
+"gloss": {
+"zh": "靠近"
+},
+"example": {
+"text": "Approchez-vous.",
+"gloss": {
+"zh": "请靠近一点。"
+}
+},
+"freq_per_million": 313.8
+},
+{
+"id": "fr-core:0454",
+"word": "préférer",
+"pos": "verbe",
+"gloss": {
+"zh": "更喜欢"
+},
+"example": {
+"text": "Je préfère le thé.",
+"gloss": {
+"zh": "我更喜欢茶。"
+}
+},
+"freq_per_million": 312.8
+},
+{
+"id": "fr-core:0455",
+"word": "désolé",
+"pos": "adj",
+"gloss": {
+"zh": "抱歉的"
+},
+"example": {
+"text": "Désolé, je suis en retard.",
+"gloss": {
+"zh": "抱歉，我迟到了。"
+}
+},
+"freq_per_million": 289.1
+},
+{
+"id": "fr-core:0456",
+"word": "chaud",
+"pos": "adj",
+"gloss": {
+"zh": "热的"
+},
+"example": {
+"text": "Il fait chaud.",
+"gloss": {
+"zh": "天气很热。"
+}
+},
+"freq_per_million": 197.5
+},
+{
+"id": "fr-core:0457",
+"word": "accepter",
+"pos": "verbe",
+"gloss": {
+"zh": "接受"
+},
+"example": {
+"text": "J'accepte avec plaisir.",
+"gloss": {
+"zh": "我很乐意接受。"
+}
+},
+"freq_per_million": 310.5
+},
+{
+"id": "fr-core:0458",
+"word": "pardon",
+"pos": "interj",
+"gloss": {
+"zh": "对不起；请再说一遍"
+},
+"example": {
+"text": "Pardon ?",
+"gloss": {
+"zh": "请再说一遍？"
+}
+},
+"freq_per_million": 227.2
+},
+{
+"id": "fr-core:0459",
+"word": "effet",
+"pos": "nom",
+"article": "l'",
+"gloss": {
+"zh": "效果"
+},
+"example": {
+"text": "Ça fait de l'effet.",
+"gloss": {
+"zh": "这有效果。"
+}
+},
+"freq_per_million": 309.1
+},
+{
+"id": "fr-core:0460",
+"word": "journal",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "报纸；日记"
+},
+"example": {
+"text": "Je lis le journal.",
+"gloss": {
+"zh": "我看报纸。"
+}
+},
+"freq_per_million": 308.5
+},
+{
+"id": "fr-core:0461",
+"word": "cheval",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "马"
+},
+"example": {
+"text": "Un cheval blanc.",
+"gloss": {
+"zh": "一匹白马。"
+}
+},
+"freq_per_million": 308.4
+},
+{
+"id": "fr-core:0462",
+"word": "simple",
+"pos": "adj",
+"gloss": {
+"zh": "简单的"
+},
+"example": {
+"text": "C'est simple.",
+"gloss": {
+"zh": "这很简单。"
+}
+},
+"freq_per_million": 286.3
+},
+{
+"id": "fr-core:0463",
+"word": "bord",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "边；岸"
+},
+"example": {
+"text": "Au bord de la mer.",
+"gloss": {
+"zh": "在海边。"
+}
+},
+"freq_per_million": 308.0
+},
+{
+"id": "fr-core:0464",
+"word": "soudain",
+"pos": "adv",
+"gloss": {
+"zh": "突然"
+},
+"example": {
+"text": "Soudain, il pleut.",
+"gloss": {
+"zh": "突然下雨了。"
+}
+},
+"freq_per_million": 228.5
+},
+{
+"id": "fr-core:0465",
+"word": "clair",
+"pos": "adj",
+"gloss": {
+"zh": "清楚的；浅色的"
+},
+"example": {
+"text": "C'est clair.",
+"gloss": {
+"zh": "很清楚。"
+}
+},
+"freq_per_million": 279.4
+},
+{
+"id": "fr-core:0466",
+"word": "ressembler",
+"pos": "verbe",
+"gloss": {
+"zh": "像；相似"
+},
+"example": {
+"text": "Tu ressembles à ta mère.",
+"gloss": {
+"zh": "你长得像你妈妈。"
+}
+},
+"freq_per_million": 306.1
+},
+{
+"id": "fr-core:0467",
+"word": "vide",
+"pos": "adj",
+"gloss": {
+"zh": "空的"
+},
+"example": {
+"text": "Le verre est vide.",
+"gloss": {
+"zh": "杯子是空的。"
+}
+},
+"freq_per_million": 207.8
+},
+{
+"id": "fr-core:0468",
+"word": "choisir",
+"pos": "verbe",
+"gloss": {
+"zh": "选择"
+},
+"example": {
+"text": "Je choisis le thé.",
+"gloss": {
+"zh": "我选茶。"
+}
+},
+"freq_per_million": 304.4
+},
+{
+"id": "fr-core:0469",
+"word": "photo",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "照片"
+},
+"example": {
+"text": "Une belle photo.",
+"gloss": {
+"zh": "一张好看的照片。"
+}
+},
+"freq_per_million": 303.7
+},
+{
+"id": "fr-core:0470",
+"word": "libre",
+"pos": "adj",
+"gloss": {
+"zh": "空闲的；自由的"
+},
+"example": {
+"text": "Tu es libre demain ?",
+"gloss": {
+"zh": "你明天有空吗？"
+}
+},
+"freq_per_million": 302.3
+},
+{
+"id": "fr-core:0471",
+"word": "présenter",
+"pos": "verbe",
+"gloss": {
+"zh": "介绍；呈现"
+},
+"example": {
+"text": "Je te présente mon ami.",
+"gloss": {
+"zh": "我给你介绍我的朋友。"
+}
+},
+"freq_per_million": 301.0
+},
+{
+"id": "fr-core:0472",
+"word": "vendre",
+"pos": "verbe",
+"gloss": {
+"zh": "卖"
+},
+"example": {
+"text": "Il vend sa voiture.",
+"gloss": {
+"zh": "他卖他的车。"
+}
+},
+"freq_per_million": 299.6
+},
+{
+"id": "fr-core:0473",
+"word": "sac",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "包"
+},
+"example": {
+"text": "Mon sac est lourd.",
+"gloss": {
+"zh": "我的包很重。"
+}
+},
+"freq_per_million": 298.9
+},
+{
+"id": "fr-core:0474",
+"word": "coin",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "角落；街角"
+},
+"example": {
+"text": "Au coin de la rue.",
+"gloss": {
+"zh": "在街角。"
+}
+},
+"freq_per_million": 298.8
+},
+{
+"id": "fr-core:0475",
+"word": "calme",
+"pos": "adj",
+"gloss": {
+"zh": "安静的；平静的"
+},
+"example": {
+"text": "Un quartier calme.",
+"gloss": {
+"zh": "一个安静的街区。"
+}
+},
+"freq_per_million": 158.4
+},
+{
+"id": "fr-core:0476",
+"word": "répéter",
+"pos": "verbe",
+"gloss": {
+"zh": "重复"
+},
+"example": {
+"text": "Répétez, s'il vous plaît.",
+"gloss": {
+"zh": "请再说一遍。"
+}
+},
+"freq_per_million": 298.4
+},
+{
+"id": "fr-core:0477",
+"word": "vent",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "风"
+},
+"example": {
+"text": "Il y a du vent.",
+"gloss": {
+"zh": "有风。"
+}
+},
+"freq_per_million": 297.6
+},
+{
+"id": "fr-core:0478",
+"word": "retour",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "返回"
+},
+"example": {
+"text": "Le retour est demain.",
+"gloss": {
+"zh": "明天返回。"
+}
+},
+"freq_per_million": 297.6
+},
+{
+"id": "fr-core:0479",
+"word": "ensuite",
+"pos": "adv",
+"gloss": {
+"zh": "然后；接着"
+},
+"example": {
+"text": "Ensuite, on mange.",
+"gloss": {
+"zh": "然后我们吃饭。"
+}
+},
+"freq_per_million": 297.1
+},
+{
+"id": "fr-core:0480",
+"word": "refuser",
+"pos": "verbe",
+"gloss": {
+"zh": "拒绝"
+},
+"example": {
+"text": "Je refuse.",
+"gloss": {
+"zh": "我拒绝。"
+}
+},
+"freq_per_million": 296.7
+},
+{
+"id": "fr-core:0481",
+"word": "couper",
+"pos": "verbe",
+"gloss": {
+"zh": "切；剪"
+},
+"example": {
+"text": "Je coupe le pain.",
+"gloss": {
+"zh": "我切面包。"
+}
+},
+"freq_per_million": 296.7
+},
+{
+"id": "fr-core:0482",
+"word": "dîner",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "晚饭"
+},
+"example": {
+"text": "Le dîner est prêt.",
+"gloss": {
+"zh": "晚饭好了。"
+}
+},
+"freq_per_million": 157.0
+},
+{
+"id": "fr-core:0483",
+"word": "plusieurs",
+"pos": "adj",
+"gloss": {
+"zh": "几个；好几个"
+},
+"example": {
+"text": "J'ai plusieurs amis.",
+"gloss": {
+"zh": "我有好几个朋友。"
+}
+},
+"freq_per_million": 270.6
+},
+{
+"id": "fr-core:0484",
+"word": "chanter",
+"pos": "verbe",
+"gloss": {
+"zh": "唱歌"
+},
+"example": {
+"text": "Elle chante bien.",
+"gloss": {
+"zh": "她唱得很好。"
+}
+},
+"freq_per_million": 292.1
+},
+{
+"id": "fr-core:0485",
+"word": "arbre",
+"pos": "nom",
+"article": "l'",
+"gloss": {
+"zh": "树"
+},
+"example": {
+"text": "Un grand arbre.",
+"gloss": {
+"zh": "一棵大树。"
+}
+},
+"freq_per_million": 290.3
+},
+{
+"id": "fr-core:0486",
+"word": "intérieur",
+"pos": "nom",
+"article": "l'",
+"gloss": {
+"zh": "里面；室内"
+},
+"example": {
+"text": "À l'intérieur.",
+"gloss": {
+"zh": "在里面。"
+}
+},
+"freq_per_million": 226.0
+},
+{
+"id": "fr-core:0487",
+"word": "rêve",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "梦；梦想"
+},
+"example": {
+"text": "Un beau rêve.",
+"gloss": {
+"zh": "一个美梦。"
+}
+},
+"freq_per_million": 287.3
+},
+{
+"id": "fr-core:0488",
+"word": "promettre",
+"pos": "verbe",
+"gloss": {
+"zh": "答应；承诺"
+},
+"example": {
+"text": "Je te le promets.",
+"gloss": {
+"zh": "我向你保证。"
+}
+},
+"freq_per_million": 286.7
+},
+{
+"id": "fr-core:0489",
+"word": "marier",
+"pos": "verbe",
+"gloss": {
+"zh": "结婚（se marier）"
+},
+"example": {
+"text": "Ils se marient en mai.",
+"gloss": {
+"zh": "他们五月结婚。"
+}
+},
+"freq_per_million": 285.6
+},
+{
+"id": "fr-core:0490",
+"word": "exister",
+"pos": "verbe",
+"gloss": {
+"zh": "存在"
+},
+"example": {
+"text": "Ça existe.",
+"gloss": {
+"zh": "这是存在的。"
+}
+},
+"freq_per_million": 284.4
+},
+{
+"id": "fr-core:0491",
+"word": "amener",
+"pos": "verbe",
+"gloss": {
+"zh": "带来（人）"
+},
+"example": {
+"text": "J'amène mon frère.",
+"gloss": {
+"zh": "我带我哥哥来。"
+}
+},
+"freq_per_million": 284.2
+},
+{
+"id": "fr-core:0492",
+"word": "musique",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "音乐"
+},
+"example": {
+"text": "J'écoute de la musique.",
+"gloss": {
+"zh": "我在听音乐。"
+}
+},
+"freq_per_million": 284.1
+},
+{
+"id": "fr-core:0493",
+"word": "inquiéter",
+"pos": "verbe",
+"gloss": {
+"zh": "使担心（s'inquiéter）"
+},
+"example": {
+"text": "Ne t'inquiète pas.",
+"gloss": {
+"zh": "别担心。"
+}
+},
+"freq_per_million": 283.2
+},
+{
+"id": "fr-core:0494",
+"word": "ancien",
+"pos": "adj",
+"gloss": {
+"zh": "以前的；古老的"
+},
+"example": {
+"text": "Mon ancien travail.",
+"gloss": {
+"zh": "我以前的工作。"
+}
+},
+"freq_per_million": 228.0
+},
+{
+"id": "fr-core:0495",
+"word": "moyen",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "方法；手段"
+},
+"example": {
+"text": "Un moyen de transport.",
+"gloss": {
+"zh": "一种交通工具。"
+}
+},
+"freq_per_million": 190.5
+},
+{
+"id": "fr-core:0496",
+"word": "parole",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "话语"
+},
+"example": {
+"text": "Je te donne ma parole.",
+"gloss": {
+"zh": "我向你保证。"
+}
+},
+"freq_per_million": 281.8
+},
+{
+"id": "fr-core:0497",
+"word": "chacun",
+"pos": "pron",
+"gloss": {
+"zh": "每个人"
+},
+"example": {
+"text": "Chacun son tour.",
+"gloss": {
+"zh": "各人轮流。"
+}
+},
+"freq_per_million": 281.4
+},
+{
+"id": "fr-core:0498",
+"word": "couleur",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "颜色"
+},
+"example": {
+"text": "Quelle est ta couleur préférée ?",
+"gloss": {
+"zh": "你最喜欢什么颜色？"
+}
+},
+"freq_per_million": 281.0
+},
+{
+"id": "fr-core:0499",
+"word": "drôle",
+"pos": "adj",
+"gloss": {
+"zh": "好笑的；怪的"
+},
+"example": {
+"text": "C'est drôle.",
+"gloss": {
+"zh": "真好笑。"
+}
+},
+"freq_per_million": 239.5
+},
+{
+"id": "fr-core:0500",
+"word": "embrasser",
+"pos": "verbe",
+"gloss": {
+"zh": "拥抱；亲吻"
+},
+"example": {
+"text": "Je t'embrasse.",
+"gloss": {
+"zh": "给你一个吻（信件结尾）。"
+}
+},
+"freq_per_million": 276.5
+},
+{
+"id": "fr-core:0501",
+"word": "peau",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "皮肤"
+},
+"example": {
+"text": "La peau est sèche.",
+"gloss": {
+"zh": "皮肤很干。"
+}
+},
+"freq_per_million": 275.2
+},
+{
+"id": "fr-core:0502",
+"word": "content",
+"pos": "adj",
+"gloss": {
+"zh": "高兴的；满意的"
+},
+"example": {
+"text": "Je suis content.",
+"gloss": {
+"zh": "我很高兴。"
+}
+},
+"freq_per_million": 265.4
+},
+{
+"id": "fr-core:0503",
+"word": "patron",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "老板"
+},
+"example": {
+"text": "Mon patron est gentil.",
+"gloss": {
+"zh": "我的老板很和善。"
+}
+},
+"freq_per_million": 274.0
+},
+{
+"id": "fr-core:0504",
+"word": "six",
+"pos": "adj",
+"gloss": {
+"zh": "六"
+},
+"example": {
+"text": "Six heures.",
+"gloss": {
+"zh": "六点钟。"
+}
+},
+"freq_per_million": 273.6
+},
+{
+"id": "fr-core:0505",
+"word": "hôtel",
+"pos": "nom",
+"article": "l'",
+"gloss": {
+"zh": "酒店"
+},
+"example": {
+"text": "Je réserve un hôtel.",
+"gloss": {
+"zh": "我订一家酒店。"
+}
+},
+"freq_per_million": 273.6
+},
+{
+"id": "fr-core:0506",
+"word": "traverser",
+"pos": "verbe",
+"gloss": {
+"zh": "穿过"
+},
+"example": {
+"text": "Je traverse la rue.",
+"gloss": {
+"zh": "我过马路。"
+}
+},
+"freq_per_million": 273.1
+},
+{
+"id": "fr-core:0507",
+"word": "image",
+"pos": "nom",
+"article": "l'",
+"gloss": {
+"zh": "图片；形象"
+},
+"example": {
+"text": "Une belle image.",
+"gloss": {
+"zh": "一张好看的图片。"
+}
+},
+"freq_per_million": 271.0
+},
+{
+"id": "fr-core:0508",
+"word": "rapport",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "关系；报告"
+},
+"example": {
+"text": "Un rapport de travail.",
+"gloss": {
+"zh": "一份工作报告。"
+}
+},
+"freq_per_million": 271.0
+},
+{
+"id": "fr-core:0509",
+"word": "forme",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "形状；状态"
+},
+"example": {
+"text": "Je suis en forme.",
+"gloss": {
+"zh": "我状态很好。"
+}
+},
+"freq_per_million": 270.9
+},
+{
+"id": "fr-core:0510",
+"word": "gentil",
+"pos": "adj",
+"gloss": {
+"zh": "友善的"
+},
+"example": {
+"text": "Elle est très gentille.",
+"gloss": {
+"zh": "她非常友善。"
+}
+},
+"freq_per_million": 257.5
+},
+{
+"id": "fr-core:0511",
+"word": "difficile",
+"pos": "adj",
+"gloss": {
+"zh": "困难的"
+},
+"example": {
+"text": "C'est difficile.",
+"gloss": {
+"zh": "这很难。"
+}
+},
+"freq_per_million": 268.7
+},
+{
+"id": "fr-core:0512",
+"word": "allemand",
+"pos": "nom",
+"article": "l'",
+"gloss": {
+"zh": "德语；德国人"
+},
+"example": {
+"text": "Il parle allemand.",
+"gloss": {
+"zh": "他说德语。"
+}
+},
+"freq_per_million": 140.6
+},
+{
+"id": "fr-core:0513",
+"word": "humain",
+"pos": "adj",
+"gloss": {
+"zh": "人的；人类的"
+},
+"example": {
+"text": "Un être humain.",
+"gloss": {
+"zh": "一个人。"
+}
+},
+"freq_per_million": 218.6
+},
+{
+"id": "fr-core:0514",
+"word": "impossible",
+"pos": "adj",
+"gloss": {
+"zh": "不可能的"
+},
+"example": {
+"text": "C'est impossible.",
+"gloss": {
+"zh": "不可能。"
+}
+},
+"freq_per_million": 220.6
+},
+{
+"id": "fr-core:0515",
+"word": "dame",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "女士"
+},
+"example": {
+"text": "Une dame âgée.",
+"gloss": {
+"zh": "一位年长的女士。"
+}
+},
+"freq_per_million": 262.6
+},
+{
+"id": "fr-core:0516",
+"word": "ignorer",
+"pos": "verbe",
+"gloss": {
+"zh": "不知道；忽视"
+},
+"example": {
+"text": "J'ignore la réponse.",
+"gloss": {
+"zh": "我不知道答案。"
+}
+},
+"freq_per_million": 265.0
+},
+{
+"id": "fr-core:0517",
+"word": "faute",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "错误；过错"
+},
+"example": {
+"text": "C'est ma faute.",
+"gloss": {
+"zh": "这是我的错。"
+}
+},
+"freq_per_million": 264.5
+},
+{
+"id": "fr-core:0518",
+"word": "fleur",
+"pos": "nom",
+"article": "la",
+"gloss": {
+"zh": "花"
+},
+"example": {
+"text": "Une jolie fleur.",
+"gloss": {
+"zh": "一朵漂亮的花。"
+}
+},
+"freq_per_million": 264.1
+},
+{
+"id": "fr-core:0519",
+"word": "ajouter",
+"pos": "verbe",
+"gloss": {
+"zh": "添加"
+},
+"example": {
+"text": "J'ajoute du sucre.",
+"gloss": {
+"zh": "我加糖。"
+}
+},
+"freq_per_million": 263.5
+},
+{
+"id": "fr-core:0520",
+"word": "voyage",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "旅行"
+},
+"example": {
+"text": "Bon voyage !",
+"gloss": {
+"zh": "旅途愉快！"
+}
+},
+"freq_per_million": 263.2
+},
+{
+"id": "fr-core:0521",
+"word": "vivant",
+"pos": "adj",
+"gloss": {
+"zh": "活着的；生动的"
+},
+"example": {
+"text": "Un animal vivant.",
+"gloss": {
+"zh": "一只活的动物。"
+}
+},
+"freq_per_million": 217.2
+},
+{
+"id": "fr-core:0522",
+"word": "copain",
+"pos": "nom",
+"article": "le",
+"gloss": {
+"zh": "朋友；男朋友"
+},
+"example": {
+"text": "C'est mon copain.",
+"gloss": {
+"zh": "这是我的朋友。"
+}
+},
+"freq_per_million": 262.0
+},
+{
+"id": "fr-core:0523",
+"word": "prochain",
+"pos": "adj",
+"gloss": {
+"zh": "下一个"
+},
+"example": {
+"text": "La semaine prochaine.",
+"gloss": {
+"zh": "下个星期。"
+}
+},
+"freq_per_million": 219.6
+},
+{
+"id": "fr-core:0524",
+"word": "doux",
+"pos": "adj",
+"gloss": {
+"zh": "温和的；柔软的"
+},
+"example": {
+"text": "Il fait doux.",
+"gloss": {
+"zh": "天气温和。"
+}
+},
+"freq_per_million": 234.2
+}
+]
+}

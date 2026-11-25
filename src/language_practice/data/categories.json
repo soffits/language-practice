@@ -1,0 +1,41 @@
+{
+ "note": "Suggested error categories; any dotted lowercase tag is accepted.",
+ "categories": {
+  "en": [
+   "grammar.verb_form",
+   "grammar.agreement",
+   "grammar.missing_word",
+   "grammar.tense",
+   "grammar.article",
+   "grammar.preposition",
+   "grammar.word_order",
+   "punctuation.comma_splice",
+   "punctuation",
+   "collocation",
+   "word_choice",
+   "spelling",
+   "register",
+   "organization",
+   "task_fulfillment",
+   "pronunciation.sound",
+   "fluency"
+  ],
+  "fr": [
+   "grammaire.accord",
+   "grammaire.conjugaison",
+   "grammaire.article",
+   "grammaire.préposition",
+   "grammaire.ordre",
+   "orthographe",
+   "vocabulaire",
+   "registre",
+   "organisation",
+   "tâche",
+   "prononciation.son",
+   "fluidité"
+  ],
+  "common": [
+   "other"
+  ]
+ }
+}

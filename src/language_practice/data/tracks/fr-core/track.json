@@ -1,0 +1,20 @@
+{
+ "track": "fr-core",
+ "name": "French core vocabulary, most frequent words first",
+ "lang": "fr",
+ "kind": "words",
+ "explain": [
+  "zh",
+  "en"
+ ],
+ "sources": [
+  {
+   "name": "Lexique 3.83",
+   "url": "http://www.lexique.org",
+   "licence": "CC BY-SA 4.0",
+   "citation": "New, Pallier, Brysbaert & Ferrand (2004), Lexique 2: a new French lexical database. Behavior Research Methods, Instruments, & Computers 36(3).",
+   "use": "Ranking: lemmas ordered by film-subtitle plus book frequency (per million); inflected forms merged, crude and violent words skipped, so the order is Lexique's with gaps."
+  }
+ ],
+ "notes": "Glosses and example sentences are original. The ranked list is derived from Lexique, so the list file is shared under CC BY-SA 4.0."
+}
